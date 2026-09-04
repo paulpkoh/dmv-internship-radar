@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DMV Internship Radar</title>
+<style>
+  :root {
+    --bg: #f7f8fa; --panel: #ffffff; --panel-2: #f0f2f6; --ink: #14161a;
+    --muted: #5c6472; --line: #dfe3ea; --accent: #1f5fd6; --accent-soft: #e8f0ff;
+    --new: #0f7b4f; --new-soft: #e2f5ec; --warn: #8a5a00; --warn-soft: #fdf0d5;
+    --shadow: 0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0e1116; --panel: #161a21; --panel-2: #1d222b; --ink: #e8ebf0;
+      --muted: #98a1b0; --line: #272d38; --accent: #6ea1ff; --accent-soft: #17233a;
+      --new: #4ade9b; --new-soft: #10261d; --warn: #e8b45c; --warn-soft: #2a2113;
+      --shadow: none;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0e1116; --panel: #161a21; --panel-2: #1d222b; --ink: #e8ebf0;
+    --muted: #98a1b0; --line: #272d38; --accent: #6ea1ff; --accent-soft: #17233a;
+    --new: #4ade9b; --new-soft: #10261d; --warn: #e8b45c; --warn-soft: #2a2113;
+    --shadow: none;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 28px 20px 80px; }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; margin-bottom: 4px; }
+  h1 { font-size: 24px; letter-spacing: -.02em; margin: 0; }
+  .sub { color: var(--muted); font-size: 13px; margin: 6px 0 22px; }
+  .sub b { color: var(--ink); font-weight: 600; }
+
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-bottom: 20px; }
+  .stat { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; box-shadow: var(--shadow); }
+  .stat .n { font-size: 22px; font-weight: 650; letter-spacing: -.02em; }
+  .stat .l { font-size: 11.5px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-top: 2px; }
+
+  .controls { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 10px 0 12px; border-bottom: 1px solid var(--line); margin-bottom: 16px; }
+  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .row + .row { margin-top: 8px; }
+  input[type=search], select {
+    background: var(--panel); color: var(--ink); border: 1px solid var(--line);
+    border-radius: 8px; padding: 8px 11px; font: inherit; font-size: 14px; min-width: 0;
+  }
+  input[type=search] { flex: 1 1 240px; }
+  input[type=search]:focus, select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .chip {
+    border: 1px solid var(--line); background: var(--panel); color: var(--muted);
+    border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer; white-space: nowrap;
+  }
+  .chip[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 550; }
+
+  ul.jobs { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+  li.job { background: var(--panel); border: 1px solid var(--line); border-radius: 11px; padding: 14px 16px; box-shadow: var(--shadow); }
+  li.job.is-new { border-color: var(--new); }
+  .jt { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; }
+  .jt a { color: var(--ink); text-decoration: none; font-weight: 600; font-size: 15.5px; letter-spacing: -.01em; }
+  .jt a:hover { color: var(--accent); text-decoration: underline; }
+  .co { color: var(--muted); font-size: 13.5px; }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; align-items: center; }
+  .tag { font-size: 11.5px; padding: 2.5px 8px; border-radius: 6px; background: var(--panel-2); color: var(--muted); border: 1px solid transparent; white-space: nowrap; }
+  .tag.new { background: var(--new-soft); color: var(--new); font-weight: 650; letter-spacing: .03em; }
+  .tag.strong { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+  .tag.low { background: var(--warn-soft); color: var(--warn); }
+  .blurb { color: var(--muted); font-size: 13px; margin-top: 8px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .kw { color: var(--muted); font-size: 12px; margin-top: 6px; }
+
+  details.programs { margin-top: 34px; background: var(--panel); border: 1px solid var(--line); border-radius: 11px; padding: 14px 16px; }
+  details.programs summary { cursor: pointer; font-weight: 600; }
+  .prog { border-top: 1px solid var(--line); padding: 12px 0 4px; }
+  .prog:first-of-type { border-top: none; }
+  .prog a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  .prog a:hover { text-decoration: underline; }
+  .prog .when { font-size: 12.5px; color: var(--muted); }
+  .prog .note { font-size: 13px; color: var(--muted); margin-top: 3px; }
+
+  .banner { background: var(--warn-soft); color: var(--warn); border: 1px solid currentColor;
+            border-radius: 10px; padding: 11px 14px; font-size: 13.5px; margin-bottom: 18px; }
+  .empty { text-align: center; color: var(--muted); padding: 48px 20px; border: 1px dashed var(--line); border-radius: 11px; }
+  footer { margin-top: 40px; color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 14px; }
+  footer a { color: var(--accent); }
+  @media (max-width: 560px) { .wrap { padding: 20px 14px 60px; } h1 { font-size: 20px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>DMV Internship Radar</h1>
+    <button class="chip" id="theme" type="button" aria-pressed="false">Theme</button>
+  </header>
+  <p class="sub" id="subtitle"></p>
+  <div class="banner" id="banner" hidden></div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="controls">
+    <div class="row">
+      <input type="search" id="q" placeholder="Search title, company, keyword&hellip;" autocomplete="off">
+      <select id="sort">
+        <option value="new">Newest first</option>
+        <option value="relevance">Best match first</option>
+        <option value="company">Company A&ndash;Z</option>
+      </select>
+    </div>
+    <div class="row" id="filters">
+      <button class="chip" data-filter="new" type="button" aria-pressed="false">New this week</button>
+      <button class="chip" data-filter="internship" type="button" aria-pressed="false">Internships</button>
+      <button class="chip" data-filter="part_time_research" type="button" aria-pressed="false">Part-time / research</button>
+      <button class="chip" data-filter="strong" type="button" aria-pressed="false">Strong match</button>
+      <button class="chip" data-filter="onsite" type="button" aria-pressed="false">On-site DMV</button>
+      <button class="chip" data-filter="remote" type="button" aria-pressed="false">Remote</button>
+      <button class="chip" data-filter="verified" type="button" aria-pressed="false">Confirmed listings only</button>
+    </div>
+  </div>
+
+  <ul class="jobs" id="list"></ul>
+  <div class="empty" id="empty" hidden>Nothing matches those filters right now.</div>
+
+  <details class="programs">
+    <summary>Programs that never show up on a job board (<span id="progcount"></span>)</summary>
+    <div id="progs"></div>
+  </details>
+
+  <footer id="foot"></footer>
+</div>
+
+<script id="data" type="application/json">{"notice": "Waiting for the first scheduled run. Push this repo to GitHub, enable Pages, and run the workflow once - this page fills itself in.", "generated_at": "2026-09-04T22:00:10+00:00", "stats": {"companies_tracked": 0, "boards_found": 0}, "programs": [{"name": "NIST SURF (Summer Undergraduate Research Fellowship)", "org": "NIST", "location": "Gaithersburg, MD", "url": "https://www.nist.gov/surf", "window": "Applications typically open Oct, close late Jan/Feb", "note": "Paid 11-week research fellowship. Strong fit for computational and data-heavy projects."}, {"name": "NIH Summer Internship Program (SIP)", "org": "National Institutes of Health", "location": "Bethesda, MD", "url": "https://www.training.nih.gov/programs/sip", "window": "Opens mid-Nov, closes early Feb", "note": "Paid. Search the PI directory for computational biology and biomedical data science labs."}, {"name": "NIH Postbac IRTA", "org": "National Institutes of Health", "location": "Bethesda, MD", "url": "https://www.training.nih.gov/programs/postbac_irta", "window": "Rolling", "note": "Post-graduation option; worth tracking early for a May 2028 landing."}, {"name": "JHU Applied Physics Laboratory College Internships", "org": "JHU APL", "location": "Laurel, MD", "url": "https://www.jhuapl.edu/careers/internships", "window": "Postings appear Sep-Dec for the following summer", "note": "Requires US citizenship for most roles. Large AI/ML and biomedical portfolio."}, {"name": "NASA OSTEM Internships", "org": "NASA Goddard", "location": "Greenbelt, MD", "url": "https://intern.nasa.gov/", "window": "Summer deadline typically late Feb", "note": "One application covers all centers. Goddard is a 40-minute drive."}, {"name": "Army Educational Outreach (SEAP / CQL)", "org": "DEVCOM Army Research Laboratory", "location": "Adelphi & Aberdeen, MD", "url": "https://www.usaeop.com/program/cql/", "window": "Opens Nov, closes Feb", "note": "Paid apprenticeships in ARL labs, including AI and biotechnology directorates."}, {"name": "HHMI Janelia Undergraduate Scholars", "org": "HHMI Janelia", "location": "Ashburn, VA", "url": "https://www.janelia.org/you-janelia/students-postdocs", "window": "Winter deadlines", "note": "Computational neuroscience and bioimage analysis."}, {"name": "FDA ORISE Fellowships", "org": "FDA", "location": "Silver Spring, MD", "url": "https://orise.orau.gov/fda/", "window": "Rolling postings", "note": "Search for computational toxicology, bioinformatics and AI-in-medical-devices postings."}, {"name": "UMD Undergraduate Research (FIRE / MERIT / BSOS)", "org": "University of Maryland", "location": "College Park, MD", "url": "https://ugresearch.umd.edu/", "window": "Varies by program", "note": "On-campus paid research; the fastest route to a first line of research experience."}, {"name": "USAJOBS Pathways Internships", "org": "US Federal Government", "location": "DMV-wide", "url": "https://www.usajobs.gov/Search/Results?hp=student", "window": "Rolling", "note": "Covers NIST, NIH, FDA, Census, CMS, NGA and more. The scraper can pull these automatically with a free USAJOBS API key."}], "jobs": []}</script>
+<script>
+(function () {
+  var DATA = JSON.parse(document.getElementById('data').textContent);
+  var STRONG = 16;
+  var jobs = DATA.jobs || [];
+  var active = {};
+  var listEl = document.getElementById('list');
+  var emptyEl = document.getElementById('empty');
+  var qEl = document.getElementById('q');
+  var sortEl = document.getElementById('sort');
+
+  function fmtDate(iso) {
+    if (!iso) return '';
+    var d = new Date(iso);
+    if (isNaN(d)) return '';
+    return d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+  }
+  function ago(iso) {
+    if (!iso) return '';
+    var d = new Date(iso);
+    if (isNaN(d)) return '';
+    var h = Math.round((Date.now() - d.getTime()) / 36e5);
+    if (h < 1) return 'just now';
+    if (h < 24) return h + 'h ago';
+    var days = Math.round(h / 24);
+    return days + (days === 1 ? ' day ago' : ' days ago');
+  }
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  if (DATA.notice) {
+    var b = document.getElementById('banner');
+    b.textContent = DATA.notice;
+    b.hidden = false;
+  }
+
+  // ---- header ----
+  var newCount = jobs.filter(function (j) { return j.isNew; }).length;
+  var strongCount = jobs.filter(function (j) { return j.relevance >= STRONG; }).length;
+  var companies = {};
+  jobs.forEach(function (j) { companies[j.company] = 1; });
+  var s = DATA.stats || {};
+  document.getElementById('subtitle').innerHTML =
+    'Internships and part-time research roles across DMV biotech, national labs and tech employers, filtered to AI/ML, data and computational biology. ' +
+    'Last checked <b>' + esc(ago(DATA.generated_at)) + '</b>.';
+
+  var cards = [
+    [jobs.length, 'Open matches'],
+    [newCount, 'New this week'],
+    [strongCount, 'Strong matches'],
+    [Object.keys(companies).length, 'Companies hiring'],
+    [s.companies_tracked || 0, 'Companies watched'],
+    [s.boards_found || 0, 'Job boards wired up']
+  ];
+  document.getElementById('stats').innerHTML = cards.map(function (c) {
+    return '<div class="stat"><div class="n">' + c[0] + '</div><div class="l">' + c[1] + '</div></div>';
+  }).join('');
+
+  // ---- rendering ----
+  function render() {
+    var q = qEl.value.trim().toLowerCase();
+    var out = jobs.filter(function (j) {
+      if (active.new && !j.isNew) return false;
+      if (active.strong && j.relevance < STRONG) return false;
+      if (active.verified && j.confidence !== 'high') return false;
+      if (active.remote && !j.remote) return false;
+      if (active.onsite && j.remote) return false;
+      if (active.internship && j.category !== 'internship') return false;
+      if (active.part_time_research && j.category !== 'part_time_research') return false;
+      if (q) {
+        var hay = (j.title + ' ' + j.company + ' ' + j.location + ' ' +
+                   (j.keywords || []).join(' ') + ' ' + j.blurb).toLowerCase();
+        if (hay.indexOf(q) === -1) return false;
+      }
+      return true;
+    });
+
+    var mode = sortEl.value;
+    out.sort(function (a, b) {
+      if (mode === 'company') return a.company.localeCompare(b.company) || b.relevance - a.relevance;
+      if (mode === 'relevance') return b.relevance - a.relevance || a.company.localeCompare(b.company);
+      return (b.isNew - a.isNew) || String(b.firstSeen).localeCompare(String(a.firstSeen)) ||
+             (b.relevance - a.relevance);
+    });
+
+    listEl.innerHTML = out.map(function (j) {
+      var tags = [];
+      if (j.isNew) tags.push('<span class="tag new">NEW</span>');
+      if (j.relevance >= STRONG) tags.push('<span class="tag strong">Strong match</span>');
+      tags.push('<span class="tag">' + esc(j.categoryLabel) + '</span>');
+      if (j.location) tags.push('<span class="tag">' + esc(j.location) + '</span>');
+      if (j.remote) tags.push('<span class="tag">Remote</span>');
+      if (j.posted) tags.push('<span class="tag">Posted ' + esc(fmtDate(j.posted)) + '</span>');
+      if (j.confidence !== 'high') tags.push('<span class="tag low">Unconfirmed &mdash; check the page</span>');
+      else tags.push('<span class="tag">' + esc(j.source) + '</span>');
+
+      var kw = (j.keywords || []).slice(0, 6);
+      return '<li class="job' + (j.isNew ? ' is-new' : '') + '">' +
+        '<div class="jt"><a href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + '</a>' +
+        '<span class="co">' + esc(j.company) + '</span></div>' +
+        '<div class="meta">' + tags.join('') + '</div>' +
+        (j.blurb ? '<div class="blurb">' + esc(j.blurb) + '</div>' : '') +
+        (kw.length ? '<div class="kw">Matched: ' + esc(kw.join(' · ')) + '</div>' : '') +
+        '</li>';
+    }).join('');
+
+    emptyEl.hidden = out.length > 0;
+  }
+
+  document.getElementById('filters').addEventListener('click', function (e) {
+    var btn = e.target.closest('.chip');
+    if (!btn) return;
+    var key = btn.dataset.filter;
+    active[key] = !active[key];
+    btn.setAttribute('aria-pressed', active[key] ? 'true' : 'false');
+    if (key === 'remote' && active.remote && active.onsite) {
+      active.onsite = false;
+      document.querySelector('[data-filter="onsite"]').setAttribute('aria-pressed', 'false');
+    }
+    if (key === 'onsite' && active.onsite && active.remote) {
+      active.remote = false;
+      document.querySelector('[data-filter="remote"]').setAttribute('aria-pressed', 'false');
+    }
+    render();
+  });
+  qEl.addEventListener('input', render);
+  sortEl.addEventListener('change', render);
+
+  // ---- programs ----
+  var progs = DATA.programs || [];
+  document.getElementById('progcount').textContent = progs.length;
+  document.getElementById('progs').innerHTML = progs.map(function (p) {
+    return '<div class="prog"><a href="' + esc(p.url) + '" target="_blank" rel="noopener">' + esc(p.name) + '</a>' +
+      '<div class="when">' + esc(p.org) + ' &middot; ' + esc(p.location) + ' &middot; ' + esc(p.window) + '</div>' +
+      '<div class="note">' + esc(p.note) + '</div></div>';
+  }).join('');
+
+  // ---- theme ----
+  var t = document.getElementById('theme');
+  try {
+    var saved = localStorage.getItem('radar-theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+  } catch (e) {}
+  t.addEventListener('click', function () {
+    var cur = document.documentElement.getAttribute('data-theme');
+    var next = cur === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    try { localStorage.setItem('radar-theme', next); } catch (e) {}
+  });
+
+  document.getElementById('foot').innerHTML =
+    'Generated ' + esc(new Date(DATA.generated_at).toLocaleString()) + '. ' +
+    'Rebuilt automatically by GitHub Actions. ' +
+    'Sources: BioPharmGuy DC-area directory, company job boards (Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee, BambooHR, Workday), USAJOBS, and direct careers pages. ' +
+    'Always confirm on the employer&rsquo;s own site before applying.';
+
+  render();
+})();
+</script>
+</body>
+</html>

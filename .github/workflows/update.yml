@@ -1,0 +1,80 @@
+name: Update internship radar
+
+on:
+  schedule:
+    # Every 6 hours. GitHub queues cron jobs, so the exact minute drifts.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      force_discovery:
+        description: "Re-check every company's job board (slow, ~20 min)"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "run.py"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: |
+          python tests/test_match.py
+          python tests/test_pipeline.py
+          python tests/test_discovery.py
+          python tests/test_integration.py
+
+      - name: Scrape and rebuild
+        env:
+          # Optional. Add these as repository secrets to include federal
+          # postings from NIST, NIH, FDA, Census, CMS and friends.
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+        run: |
+          python run.py ${{ inputs.force_discovery && '--force-discovery' || '' }} | tee run.log
+
+      - name: Write job summary
+        if: always()
+        run: |
+          {
+            echo "### Radar run"
+            echo ""
+            echo '```'
+            tail -n 25 run.log 2>/dev/null || echo "no log"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit results
+        run: |
+          git config user.name  "internship-radar[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+          else
+            NEW=$(python -c "import json;d=json.load(open('data/jobs.json'));print(d.get('stats',{}).get('new',0))")
+            git commit -m "Radar update: ${NEW} new match(es) [skip ci]"
+            git push
+          fi

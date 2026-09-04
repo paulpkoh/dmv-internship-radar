@@ -1,0 +1,1343 @@
+[
+  {
+    "name": "AstraZeneca",
+    "domain": "astrazeneca.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Small Molecules, Vaccines, Biologics",
+    "tier": "biotech",
+    "slug": "astrazeneca"
+  },
+  {
+    "name": "BioNTech",
+    "domain": "biontech.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "mRNA, Vaccines, Biologics",
+    "tier": "biotech",
+    "slug": "biontech"
+  },
+  {
+    "name": "Novavax",
+    "domain": "novavax.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Virus-like Particles, Micelles",
+    "tier": "biotech",
+    "slug": "novavax"
+  },
+  {
+    "name": "Emergent BioSolutions",
+    "domain": "emergentbiosolutions.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Biologics, Contract Manufacturing, Biodefense",
+    "tier": "biotech",
+    "slug": "emergent-biosolutions"
+  },
+  {
+    "name": "GeneDx",
+    "domain": "genedx.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Genetic data analysis",
+    "tier": "biotech",
+    "slug": "genedx"
+  },
+  {
+    "name": "Cartesian Therapeutics",
+    "domain": "cartesiantherapeutics.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "mRNA-engineered cell therapy",
+    "tier": "biotech",
+    "slug": "cartesian-therapeutics"
+  },
+  {
+    "name": "Altimmune",
+    "domain": "altimmune.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Biologics, Vaccines, Drug Delivery",
+    "tier": "biotech",
+    "slug": "altimmune"
+  },
+  {
+    "name": "Bullfrog AI",
+    "domain": "bullfrogai.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "AI drug discovery",
+    "tier": "biotech",
+    "slug": "bullfrog-ai"
+  },
+  {
+    "name": "NexImmune",
+    "domain": "neximmune.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Nanoparticle AIM Therapy, Cell Therapies",
+    "tier": "biotech",
+    "slug": "neximmune"
+  },
+  {
+    "name": "miRecule",
+    "domain": "mirecule.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "microRNA cancer therapeutics",
+    "tier": "biotech",
+    "slug": "mirecule"
+  },
+  {
+    "name": "Polaris Genomics",
+    "domain": "polarisgenomics.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Genomic biomarker assay",
+    "tier": "biotech",
+    "slug": "polaris-genomics"
+  },
+  {
+    "name": "Vector BioMed",
+    "domain": "vectorbiomed.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Gene and cell therapy production",
+    "tier": "biotech",
+    "slug": "vector-biomed"
+  },
+  {
+    "name": "Salubris Biotherapeutics",
+    "domain": "salubrisbio.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Biologics development",
+    "tier": "biotech",
+    "slug": "salubris-biotherapeutics"
+  },
+  {
+    "name": "ValtedSeq",
+    "domain": "valtedseq.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Sequencing data services",
+    "tier": "biotech",
+    "slug": "valtedseq"
+  },
+  {
+    "name": "Seracare Life Sciences",
+    "domain": "seracare.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Biologic diagnostic products",
+    "tier": "biotech",
+    "slug": "seracare-life-sciences"
+  },
+  {
+    "name": "Quality Biological",
+    "domain": "qualitybiological.com",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "Cell culture media",
+    "tier": "biotech",
+    "slug": "quality-biological"
+  },
+  {
+    "name": "MacroGenics",
+    "domain": "macrogenics.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Bispecific antibodies",
+    "tier": "biotech",
+    "slug": "macrogenics"
+  },
+  {
+    "name": "MaxCyte",
+    "domain": "maxcyte.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Protein Production, Drug Discovery, Cell Therapy",
+    "tier": "biotech",
+    "slug": "maxcyte"
+  },
+  {
+    "name": "Meso Scale Discovery",
+    "domain": "mesoscale.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Biologic Assays and Instruments",
+    "tier": "biotech",
+    "slug": "meso-scale-discovery"
+  },
+  {
+    "name": "ReGenX Biosciences",
+    "domain": "regenxbio.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Gene Therapy, Biologics",
+    "tier": "biotech",
+    "slug": "regenx-biosciences"
+  },
+  {
+    "name": "Supernus Pharmaceuticals",
+    "domain": "supernus.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Small molecules",
+    "tier": "biotech",
+    "slug": "supernus-pharmaceuticals"
+  },
+  {
+    "name": "Emmes",
+    "domain": "theemmesgroup.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Clinical research organization",
+    "tier": "biotech",
+    "slug": "emmes"
+  },
+  {
+    "name": "Westat",
+    "domain": "westat.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Clinical trial design, management, services",
+    "tier": "biotech",
+    "slug": "westat"
+  },
+  {
+    "name": "MilliporeSigma",
+    "domain": "sigmaaldrich.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Biosafety testing, analytical development",
+    "tier": "biotech",
+    "slug": "milliporesigma"
+  },
+  {
+    "name": "Otsuka",
+    "domain": "otsuka-us.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Small molecules",
+    "tier": "biotech",
+    "slug": "otsuka"
+  },
+  {
+    "name": "Ascentage Pharma",
+    "domain": "ascentage.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Small molecule cancer therapeutics",
+    "tier": "biotech",
+    "slug": "ascentage-pharma"
+  },
+  {
+    "name": "American Gene Technologies",
+    "domain": "americangene.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Gene Therapy and Immunotherapy",
+    "tier": "biotech",
+    "slug": "american-gene-technologies"
+  },
+  {
+    "name": "Corellia AI",
+    "domain": "corellia.ai",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "AI cancer drug discovery",
+    "tier": "biotech",
+    "slug": "corellia-ai"
+  },
+  {
+    "name": "OncoC4",
+    "domain": "oncoc4.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Antibodies, Immunotherapies",
+    "tier": "biotech",
+    "slug": "oncoc4"
+  },
+  {
+    "name": "Origene",
+    "domain": "origene.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Human cDNA Library, Monoclonal Antibodies",
+    "tier": "biotech",
+    "slug": "origene"
+  },
+  {
+    "name": "Psomagen",
+    "domain": "psomagen.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Genetic sequencing",
+    "tier": "biotech",
+    "slug": "psomagen"
+  },
+  {
+    "name": "Clasp Therapeutics",
+    "domain": "clasptx.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Antibody-like T cell engagers",
+    "tier": "biotech",
+    "slug": "clasp-therapeutics"
+  },
+  {
+    "name": "Cellphire Therapeutics",
+    "domain": "cellphire.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Platelet stabilization technology",
+    "tier": "biotech",
+    "slug": "cellphire-therapeutics"
+  },
+  {
+    "name": "Immunomic Therapeutics",
+    "domain": "immunomix.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Vaccines with LAMP technology",
+    "tier": "biotech",
+    "slug": "immunomic-therapeutics"
+  },
+  {
+    "name": "Theriva Biologics",
+    "domain": "therivabio.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Oncolytic virus therapies",
+    "tier": "biotech",
+    "slug": "theriva-biologics"
+  },
+  {
+    "name": "NeoImmuneTech",
+    "domain": "neoimmunetech.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Immunotherapy",
+    "tier": "biotech",
+    "slug": "neoimmunetech"
+  },
+  {
+    "name": "Bioqual",
+    "domain": "bioqual.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Research, development, consulting, testing",
+    "tier": "biotech",
+    "slug": "bioqual"
+  },
+  {
+    "name": "Advanced BioScience Labs",
+    "domain": "ablinc.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Contract Research and Manufacturing",
+    "tier": "biotech",
+    "slug": "advanced-bioscience-labs"
+  },
+  {
+    "name": "Sanaria",
+    "domain": "sanaria.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Malaria Vaccine, Reagents",
+    "tier": "biotech",
+    "slug": "sanaria"
+  },
+  {
+    "name": "Tetracore",
+    "domain": "tetracore.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Reagents, Assays, Instruments",
+    "tier": "biotech",
+    "slug": "tetracore"
+  },
+  {
+    "name": "GeneCopoeia",
+    "domain": "genecopoeia.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Lab reagents",
+    "tier": "biotech",
+    "slug": "genecopoeia"
+  },
+  {
+    "name": "Kolon TissueGene",
+    "domain": "tissuegene.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Regenerative orthopedic therapies",
+    "tier": "biotech",
+    "slug": "kolon-tissuegene"
+  },
+  {
+    "name": "Leadiant Biosciences",
+    "domain": "leadiant.com",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Orphan disease treatments",
+    "tier": "biotech",
+    "slug": "leadiant-biosciences"
+  },
+  {
+    "name": "Precigen",
+    "domain": "precigen.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "Cell and Gene Therapy",
+    "tier": "biotech",
+    "slug": "precigen"
+  },
+  {
+    "name": "Qiagen",
+    "domain": "qiagen.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "Molecular Diagnostics, Assays, Reagents",
+    "tier": "biotech",
+    "slug": "qiagen"
+  },
+  {
+    "name": "Senseonics",
+    "domain": "senseonics.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "Medical devices",
+    "tier": "biotech",
+    "slug": "senseonics"
+  },
+  {
+    "name": "Sirnaomics",
+    "domain": "sirnaomics.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "RNAi therapeutics",
+    "tier": "biotech",
+    "slug": "sirnaomics"
+  },
+  {
+    "name": "Orgenesis",
+    "domain": "orgenesis.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "Autologous cellular conversion",
+    "tier": "biotech",
+    "slug": "orgenesis"
+  },
+  {
+    "name": "Deka Biosciences",
+    "domain": "dekabiosciences.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "Engineered therapeutic proteins",
+    "tier": "biotech",
+    "slug": "deka-biosciences"
+  },
+  {
+    "name": "cmbio",
+    "domain": "cmbio.io",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "Omics, Bioinformatics, Software Platforms",
+    "tier": "biotech",
+    "slug": "cmbio"
+  },
+  {
+    "name": "Barinthus Biotherapeutics",
+    "domain": "barinthusbio.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "T cell immunotherapy",
+    "tier": "biotech",
+    "slug": "barinthus-biotherapeutics"
+  },
+  {
+    "name": "RNAimmune",
+    "domain": "rnaimmune.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "mRNA therapeutics",
+    "tier": "biotech",
+    "slug": "rnaimmune"
+  },
+  {
+    "name": "Seraxis",
+    "domain": "seraxis.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "Cell therapy for diabetes",
+    "tier": "biotech",
+    "slug": "seraxis"
+  },
+  {
+    "name": "uBriGene",
+    "domain": "ubrigene.com",
+    "city": "Germantown",
+    "state": "MD",
+    "category": "Cell and Gene Therapy CDMO",
+    "tier": "biotech",
+    "slug": "ubrigene"
+  },
+  {
+    "name": "United Therapeutics",
+    "domain": "unither.com",
+    "city": "Silver Spring",
+    "state": "MD",
+    "category": "Small Molecules, Biologics",
+    "tier": "biotech",
+    "slug": "united-therapeutics"
+  },
+  {
+    "name": "Pataigin",
+    "domain": "pataigin.com",
+    "city": "Silver Spring",
+    "state": "MD",
+    "category": "Microbial ID services",
+    "tier": "biotech",
+    "slug": "pataigin"
+  },
+  {
+    "name": "Lonza",
+    "domain": "lonza.com",
+    "city": "Walkersville",
+    "state": "MD",
+    "category": "Contract Manufacturing, Reagents, Stem Cells",
+    "tier": "biotech",
+    "slug": "lonza"
+  },
+  {
+    "name": "Thermo Fisher",
+    "domain": "thermofisher.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Molecular Biology and Biotech Lab Products",
+    "tier": "biotech",
+    "slug": "thermo-fisher"
+  },
+  {
+    "name": "Charles River Laboratories",
+    "domain": "criver.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Research Models and Preclinical Research",
+    "tier": "biotech",
+    "slug": "charles-river-laboratories"
+  },
+  {
+    "name": "RoosterBio",
+    "domain": "roosterbio.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Mesenchymal stem cells",
+    "tier": "biotech",
+    "slug": "roosterbio"
+  },
+  {
+    "name": "Theradaptive",
+    "domain": "theradaptive.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Protein-engineering technology",
+    "tier": "biotech",
+    "slug": "theradaptive"
+  },
+  {
+    "name": "BioFactura",
+    "domain": "biofactura.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Biosimilar production technology",
+    "tier": "biotech",
+    "slug": "biofactura"
+  },
+  {
+    "name": "Precision for Medicine",
+    "domain": "precisionformedicine.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Consulting services",
+    "tier": "biotech",
+    "slug": "precision-for-medicine"
+  },
+  {
+    "name": "Kemp Proteins",
+    "domain": "kempproteins.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Mammalian and insect culture services",
+    "tier": "biotech",
+    "slug": "kemp-proteins"
+  },
+  {
+    "name": "Medigen",
+    "domain": "medigen-usa.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Cancer and Infectious disease vaccines",
+    "tier": "biotech",
+    "slug": "medigen"
+  },
+  {
+    "name": "Akonni Biosystems",
+    "domain": "akonni.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Lab supplies and reagents",
+    "tier": "biotech",
+    "slug": "akonni-biosystems"
+  },
+  {
+    "name": "Tonix Pharmaceuticals",
+    "domain": "tonixpharma.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "CNS disorder treatments",
+    "tier": "biotech",
+    "slug": "tonix-pharmaceuticals"
+  },
+  {
+    "name": "Nanocrine",
+    "domain": "nanocrine.com",
+    "city": "Frederick",
+    "state": "MD",
+    "category": "Cell secretion imaging platform",
+    "tier": "biotech",
+    "slug": "nanocrine"
+  },
+  {
+    "name": "Advarra",
+    "domain": "advarra.com",
+    "city": "Columbia",
+    "state": "MD",
+    "category": "Regulatory consulting",
+    "tier": "biotech",
+    "slug": "advarra"
+  },
+  {
+    "name": "W.R. Grace & Co.",
+    "domain": "grace.com",
+    "city": "Columbia",
+    "state": "MD",
+    "category": "Custom engineered silicas, chromatography resins",
+    "tier": "biotech",
+    "slug": "w-r-grace-co"
+  },
+  {
+    "name": "Vasoptic Medical",
+    "domain": "vasoptic.com",
+    "city": "Columbia",
+    "state": "MD",
+    "category": "Blood-flow monitoring devices",
+    "tier": "biotech",
+    "slug": "vasoptic-medical"
+  },
+  {
+    "name": "Ravgen",
+    "domain": "ravgen.com",
+    "city": "Columbia",
+    "state": "MD",
+    "category": "Prenatal diagnostic testing",
+    "tier": "biotech",
+    "slug": "ravgen"
+  },
+  {
+    "name": "CrelioHealth",
+    "domain": "creliohealth.com",
+    "city": "Columbia",
+    "state": "MD",
+    "category": "LIMS software",
+    "tier": "biotech",
+    "slug": "creliohealth"
+  },
+  {
+    "name": "Hemagen Diagnostics",
+    "domain": "hemagen.com",
+    "city": "Columbia",
+    "state": "MD",
+    "category": "Diagnostic testing",
+    "tier": "biotech",
+    "slug": "hemagen-diagnostics"
+  },
+  {
+    "name": "Becton Dickinson",
+    "domain": "bd.com",
+    "city": "Sparks",
+    "state": "MD",
+    "category": "Medical devices and health products",
+    "tier": "biotech",
+    "slug": "becton-dickinson"
+  },
+  {
+    "name": "Personal Genome Diagnostics",
+    "domain": "personalgenome.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Tumor genome analysis",
+    "tier": "biotech",
+    "slug": "personal-genome-diagnostics"
+  },
+  {
+    "name": "Sapio Sciences",
+    "domain": "sapiosciences.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Web-based LIMS software",
+    "tier": "biotech",
+    "slug": "sapio-sciences"
+  },
+  {
+    "name": "SilcsBio",
+    "domain": "silcsbio.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Drug design simulation software",
+    "tier": "biotech",
+    "slug": "silcsbio"
+  },
+  {
+    "name": "Sonavi Labs",
+    "domain": "sonavilabs.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Medical software company",
+    "tier": "biotech",
+    "slug": "sonavi-labs"
+  },
+  {
+    "name": "Infinity Bio",
+    "domain": "infinitybio.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Reactome services",
+    "tier": "biotech",
+    "slug": "infinity-bio"
+  },
+  {
+    "name": "Clear Guide Medical",
+    "domain": "clearguidemedical.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Surgical instrument guidance",
+    "tier": "biotech",
+    "slug": "clear-guide-medical"
+  },
+  {
+    "name": "JuneBrain",
+    "domain": "junebrain.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Optical coherence tomography imaging",
+    "tier": "biotech",
+    "slug": "junebrain"
+  },
+  {
+    "name": "Sonavex",
+    "domain": "sonavex.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Ultrasound technology",
+    "tier": "biotech",
+    "slug": "sonavex"
+  },
+  {
+    "name": "NextStep Robotics",
+    "domain": "nextsteprobo.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Gait training devices",
+    "tier": "biotech",
+    "slug": "nextstep-robotics"
+  },
+  {
+    "name": "Elixirgen Therapeutics",
+    "domain": "elixirgentx.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Stem cell therapies",
+    "tier": "biotech",
+    "slug": "elixirgen-therapeutics"
+  },
+  {
+    "name": "Novel Microdevices",
+    "domain": "noveldx.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Point-of-care diagnostic devices",
+    "tier": "biotech",
+    "slug": "novel-microdevices"
+  },
+  {
+    "name": "Astek Diagnostics",
+    "domain": "astekdx.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "UTI diagnostic testing",
+    "tier": "biotech",
+    "slug": "astek-diagnostics"
+  },
+  {
+    "name": "Lupin",
+    "domain": "lupin.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Generic pharmaceutical manufacturer",
+    "tier": "biotech",
+    "slug": "lupin"
+  },
+  {
+    "name": "Pharmaron",
+    "domain": "pharmaron.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Contract Lab Research, Clinical research",
+    "tier": "biotech",
+    "slug": "pharmaron"
+  },
+  {
+    "name": "Gliknik",
+    "domain": "gliknik.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Cancer and immune disorders therapies",
+    "tier": "biotech",
+    "slug": "gliknik"
+  },
+  {
+    "name": "CoapTech",
+    "domain": "coaptech.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Ultrasound feeding tube placement",
+    "tier": "biotech",
+    "slug": "coaptech"
+  },
+  {
+    "name": "Longeviti Neuro Solutions",
+    "domain": "longeviti.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Brain surgery ultrasound platform",
+    "tier": "biotech",
+    "slug": "longeviti-neuro-solutions"
+  },
+  {
+    "name": "AgeneBio",
+    "domain": "agenebio.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Neurological and psychiatric diseases",
+    "tier": "biotech",
+    "slug": "agenebio"
+  },
+  {
+    "name": "Neurava",
+    "domain": "neurava.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Wearable monitoring devices",
+    "tier": "biotech",
+    "slug": "neurava"
+  },
+  {
+    "name": "Pharmaceutics International",
+    "domain": "pharm-int.com",
+    "city": "Hunt Valley",
+    "state": "MD",
+    "category": "Contract Development and manufacturing",
+    "tier": "biotech",
+    "slug": "pharmaceutics-international"
+  },
+  {
+    "name": "Noxilizer",
+    "domain": "noxilizer.com",
+    "city": "Hanover",
+    "state": "MD",
+    "category": "NO2-based sterilization",
+    "tier": "biotech",
+    "slug": "noxilizer"
+  },
+  {
+    "name": "Diagnostic Biochips",
+    "domain": "diagnosticbiochips.com",
+    "city": "Glen Burnie",
+    "state": "MD",
+    "category": "Sensors for electrophysiology",
+    "tier": "biotech",
+    "slug": "diagnostic-biochips"
+  },
+  {
+    "name": "Zeteo Tech",
+    "domain": "zeteotech.com",
+    "city": "Sykesville",
+    "state": "MD",
+    "category": "Airborne microbe and protein detection",
+    "tier": "biotech",
+    "slug": "zeteo-tech"
+  },
+  {
+    "name": "EZ Biosystems",
+    "domain": "ezbiosystems.com",
+    "city": "College Park",
+    "state": "MD",
+    "category": "Transfection reagents",
+    "tier": "biotech",
+    "slug": "ez-biosystems"
+  },
+  {
+    "name": "HOHCells",
+    "domain": "hohcells.com",
+    "city": "College Park",
+    "state": "MD",
+    "category": "Cell recovery post-freezing",
+    "tier": "biotech",
+    "slug": "hohcells"
+  },
+  {
+    "name": "BrainScope",
+    "domain": "brainscope.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "EEG characterization technology",
+    "tier": "biotech",
+    "slug": "brainscope"
+  },
+  {
+    "name": "CorVista Health",
+    "domain": "corvista.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "Cardiac diagnostic platform",
+    "tier": "biotech",
+    "slug": "corvista-health"
+  },
+  {
+    "name": "Evergreen Therapeutics",
+    "domain": "egmedai.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "AI pharmaceutical company",
+    "tier": "biotech",
+    "slug": "evergreen-therapeutics"
+  },
+  {
+    "name": "Northwest Biotherapeutics",
+    "domain": "nwbio.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "Biologics manufacturer",
+    "tier": "biotech",
+    "slug": "northwest-biotherapeutics"
+  },
+  {
+    "name": "Precision Biologics",
+    "domain": "precision-biologics.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "Cancer detection and treatment",
+    "tier": "biotech",
+    "slug": "precision-biologics"
+  },
+  {
+    "name": "Areterna",
+    "domain": "areterna.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "mRNA and oligonucleotide manufacturing",
+    "tier": "biotech",
+    "slug": "areterna"
+  },
+  {
+    "name": "Medcura",
+    "domain": "medcurainc.com",
+    "city": "Riverdale",
+    "state": "MD",
+    "category": "Bleeding control products",
+    "tier": "biotech",
+    "slug": "medcura"
+  },
+  {
+    "name": "Vici Health Sciences",
+    "domain": "vicihealthsciences.com",
+    "city": "Elkridge",
+    "state": "MD",
+    "category": "CDMO and formulation development",
+    "tier": "biotech",
+    "slug": "vici-health-sciences"
+  },
+  {
+    "name": "EvON Medics",
+    "domain": "evonmedics.com",
+    "city": "Ellicott City",
+    "state": "MD",
+    "category": "Medical devices",
+    "tier": "biotech",
+    "slug": "evon-medics"
+  },
+  {
+    "name": "Terumo Medical",
+    "domain": "terumomedical.com",
+    "city": "Elkton",
+    "state": "MD",
+    "category": "Medical devices",
+    "tier": "biotech",
+    "slug": "terumo-medical"
+  },
+  {
+    "name": "Restorative Therapies",
+    "domain": "restorative-therapies.com",
+    "city": "Nottingham",
+    "state": "MD",
+    "category": "Functional electrical stimulation",
+    "tier": "biotech",
+    "slug": "restorative-therapies"
+  },
+  {
+    "name": "Vanda Pharmaceuticals",
+    "domain": "vandapharma.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Small molecules",
+    "tier": "biotech",
+    "slug": "vanda-pharmaceuticals"
+  },
+  {
+    "name": "Altoida",
+    "domain": "altoida.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Digital cognitive assessment",
+    "tier": "biotech",
+    "slug": "altoida"
+  },
+  {
+    "name": "Mabloc",
+    "domain": "mabloc.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "AI drug discovery platform",
+    "tier": "biotech",
+    "slug": "mabloc"
+  },
+  {
+    "name": "iCE Neurosystems",
+    "domain": "iceneurosystems.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Integrated brain monitoring platform",
+    "tier": "biotech",
+    "slug": "ice-neurosystems"
+  },
+  {
+    "name": "Otolith Labs",
+    "domain": "otolithlabs.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Wearable for vertigo",
+    "tier": "biotech",
+    "slug": "otolith-labs"
+  },
+  {
+    "name": "Nanochon",
+    "domain": "nanochon.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Cartilage loss treatment",
+    "tier": "biotech",
+    "slug": "nanochon"
+  },
+  {
+    "name": "ProPharma Group",
+    "domain": "propharmagroup.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Consulting services",
+    "tier": "biotech",
+    "slug": "propharma-group"
+  },
+  {
+    "name": "SISCAPA Assay Technologies",
+    "domain": "siscapa.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Protein measurement",
+    "tier": "biotech",
+    "slug": "siscapa-assay-technologies"
+  },
+  {
+    "name": "VerImmune",
+    "domain": "verimmune.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Virus-Inspired Particles for Oncology",
+    "tier": "biotech",
+    "slug": "verimmune"
+  },
+  {
+    "name": "Current Surgical",
+    "domain": "currentsurgical.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Micro-invasive treatments",
+    "tier": "biotech",
+    "slug": "current-surgical"
+  },
+  {
+    "name": "Zephyr AI",
+    "domain": "zephyrai.bio",
+    "city": "McLean",
+    "state": "VA",
+    "category": "AI data analysis",
+    "tier": "biotech",
+    "slug": "zephyr-ai"
+  },
+  {
+    "name": "Perthera",
+    "domain": "perthera.com",
+    "city": "McLean",
+    "state": "VA",
+    "category": "AI Cancer Therapy Determination",
+    "tier": "biotech",
+    "slug": "perthera"
+  },
+  {
+    "name": "KeifeRx",
+    "domain": "keiferx.com",
+    "city": "McLean",
+    "state": "VA",
+    "category": "Tyrosine kinase inhibitors",
+    "tier": "biotech",
+    "slug": "keiferx"
+  },
+  {
+    "name": "Tachmed",
+    "domain": "tachmed.com",
+    "city": "McLean",
+    "state": "VA",
+    "category": "Remote diagnostics",
+    "tier": "biotech",
+    "slug": "tachmed"
+  },
+  {
+    "name": "Ceres Nanosciences",
+    "domain": "ceresnano.com",
+    "city": "Manassas",
+    "state": "VA",
+    "category": "Sample preparation technology",
+    "tier": "biotech",
+    "slug": "ceres-nanosciences"
+  },
+  {
+    "name": "Jeeva Informatics",
+    "domain": "jeevatrials.com",
+    "city": "Manassas",
+    "state": "VA",
+    "category": "eClinical SaaS platform",
+    "tier": "biotech",
+    "slug": "jeeva-informatics"
+  },
+  {
+    "name": "Notal Vision",
+    "domain": "notalvision.com",
+    "city": "Manassas",
+    "state": "VA",
+    "category": "AMD monitoring device",
+    "tier": "biotech",
+    "slug": "notal-vision"
+  },
+  {
+    "name": "Virongy",
+    "domain": "virongy.com",
+    "city": "Manassas",
+    "state": "VA",
+    "category": "Viral research technologies",
+    "tier": "biotech",
+    "slug": "virongy"
+  },
+  {
+    "name": "Celetrix Electroporation",
+    "domain": "celetrix.com",
+    "city": "Manassas",
+    "state": "VA",
+    "category": "Electroporation Systems",
+    "tier": "biotech",
+    "slug": "celetrix-electroporation"
+  },
+  {
+    "name": "Serpin Pharma",
+    "domain": "serpinpharma.com",
+    "city": "Manassas",
+    "state": "VA",
+    "category": "Peptide drugs",
+    "tier": "biotech",
+    "slug": "serpin-pharma"
+  },
+  {
+    "name": "Parabon Nanolabs",
+    "domain": "parabon-nanolabs.com",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Forensic and therapeutic products",
+    "tier": "biotech",
+    "slug": "parabon-nanolabs"
+  },
+  {
+    "name": "ITL Biomedical",
+    "domain": "itlbiomedical.com",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Medical devices",
+    "tier": "biotech",
+    "slug": "itl-biomedical"
+  },
+  {
+    "name": "Arcascope",
+    "domain": "arcascope.com",
+    "city": "Arlington",
+    "state": "VA",
+    "category": "Circadian analytics",
+    "tier": "biotech",
+    "slug": "arcascope"
+  },
+  {
+    "name": "Kerecis",
+    "domain": "kerecis.com",
+    "city": "Arlington",
+    "state": "VA",
+    "category": "Wound healing products",
+    "tier": "biotech",
+    "slug": "kerecis"
+  },
+  {
+    "name": "Biologics Consulting",
+    "domain": "biologicsconsulting.com",
+    "city": "Alexandria",
+    "state": "VA",
+    "category": "Regulatory and product development",
+    "tier": "biotech",
+    "slug": "biologics-consulting"
+  },
+  {
+    "name": "Origent Data Sciences",
+    "domain": "origent.com",
+    "city": "Vienna",
+    "state": "VA",
+    "category": "Clinical Data Management, Analysis",
+    "tier": "biotech",
+    "slug": "origent-data-sciences"
+  },
+  {
+    "name": "CEL-SCI",
+    "domain": "cel-sci.com",
+    "city": "Vienna",
+    "state": "VA",
+    "category": "Biologics development",
+    "tier": "biotech",
+    "slug": "cel-sci"
+  },
+  {
+    "name": "Immudex",
+    "domain": "immudex.com",
+    "city": "Fairfax",
+    "state": "VA",
+    "category": "Diagnostics and Reagents",
+    "tier": "biotech",
+    "slug": "immudex"
+  },
+  {
+    "name": "Scilucent",
+    "domain": "scilucent.com",
+    "city": "Fairfax",
+    "state": "VA",
+    "category": "Regulatory consulting",
+    "tier": "biotech",
+    "slug": "scilucent"
+  },
+  {
+    "name": "General Dynamics DynPort Vaccines",
+    "domain": "gdit.com",
+    "city": "Falls Church",
+    "state": "VA",
+    "category": "Vaccines, Biodefense",
+    "tier": "biotech",
+    "slug": "general-dynamics-dynport-vaccines"
+  },
+  {
+    "name": "Sofie",
+    "domain": "sofie.com",
+    "city": "Dulles",
+    "state": "VA",
+    "category": "PET Imaging, radiochemical synthesis",
+    "tier": "biotech",
+    "slug": "sofie"
+  },
+  {
+    "name": "Aretech",
+    "domain": "aretechllc.com",
+    "city": "Sterling",
+    "state": "VA",
+    "category": "Rehabilitation technologies",
+    "tier": "biotech",
+    "slug": "aretech"
+  },
+  {
+    "name": "Glen Research",
+    "domain": "glenresearch.com",
+    "city": "Sterling",
+    "state": "VA",
+    "category": "Oligonucleotides",
+    "tier": "biotech",
+    "slug": "glen-research"
+  },
+  {
+    "name": "Euclid Systems",
+    "domain": "euclidlenses.com",
+    "city": "Sterling",
+    "state": "VA",
+    "category": "Corneal reshaping contact lenses",
+    "tier": "biotech",
+    "slug": "euclid-systems"
+  },
+  {
+    "name": "Cipher Surgical",
+    "domain": "ciphersurgical.com",
+    "city": "Chantilly",
+    "state": "VA",
+    "category": "Surgical vision platform",
+    "tier": "biotech",
+    "slug": "cipher-surgical"
+  },
+  {
+    "name": "Dynex Technologies",
+    "domain": "dynextechnologies.com",
+    "city": "Chantilly",
+    "state": "VA",
+    "category": "Microplate Readers",
+    "tier": "biotech",
+    "slug": "dynex-technologies"
+  },
+  {
+    "name": "Quoin Pharmaceuticals",
+    "domain": "quoinpharma.com",
+    "city": "Ashburn",
+    "state": "VA",
+    "category": "Stem cell technologies",
+    "tier": "biotech",
+    "slug": "quoin-pharmaceuticals"
+  },
+  {
+    "name": "Ascend Therapeutics",
+    "domain": "ascendtherapeutics.com",
+    "city": "Herndon",
+    "state": "VA",
+    "category": "Specialty pharmaceuticals",
+    "tier": "biotech",
+    "slug": "ascend-therapeutics"
+  }
+]
