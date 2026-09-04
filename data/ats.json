@@ -1,0 +1,4511 @@
+{
+  "20-20-biolabs": {
+    "slug": "20-20-biolabs",
+    "name": "20/20 BioLabs",
+    "domain": "2020biolabs.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "3cpm": {
+    "slug": "3cpm",
+    "name": "3CPM",
+    "domain": "3cpm.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "aavnergene": {
+    "slug": "aavnergene",
+    "name": "AAVnerGene",
+    "domain": "aavnergene.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "aavogen": {
+    "slug": "aavogen",
+    "name": "AAVogen",
+    "domain": "aavogen.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ab-digihealth": {
+    "slug": "ab-digihealth",
+    "name": "AB DigiHealth",
+    "domain": "abdigihealth.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "abbott": {
+    "slug": "abbott",
+    "name": "Abbott",
+    "domain": "abbott.com",
+    "source": "workday",
+    "token": "abbott|wd5|abbottcareers",
+    "careers_url": "https://abbott.com/careers",
+    "checked_at": "2026-09-04T22:55:57+00:00"
+  },
+  "abelzeta-pharma": {
+    "slug": "abelzeta-pharma",
+    "name": "AbelZeta Pharma",
+    "domain": "abelzeta.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://abelzeta.com/careers",
+    "checked_at": "2026-09-04T22:56:15+00:00"
+  },
+  "aber-instruments": {
+    "slug": "aber-instruments",
+    "name": "Aber Instruments",
+    "domain": "aberinstruments.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://aberinstruments.com/careers",
+    "checked_at": "2026-09-04T22:56:07+00:00"
+  },
+  "abs-bio": {
+    "slug": "abs-bio",
+    "name": "ABS Bio",
+    "domain": "absbio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://absbio.com/careers",
+    "checked_at": "2026-09-04T22:56:25+00:00"
+  },
+  "abvacc": {
+    "slug": "abvacc",
+    "name": "AbVacc",
+    "domain": "abvacc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://abvacc.com/career.html",
+    "checked_at": "2026-09-04T22:55:57+00:00"
+  },
+  "accelevir-diagnostics": {
+    "slug": "accelevir-diagnostics",
+    "name": "Accelevir Diagnostics",
+    "domain": "accelevirdx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://accelevirdx.com/careers",
+    "checked_at": "2026-09-04T22:56:24+00:00"
+  },
+  "accell-clinical-research": {
+    "slug": "accell-clinical-research",
+    "name": "Accell Clinical Research",
+    "domain": "accellclinical.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://accellclinical.com/careers",
+    "checked_at": "2026-09-04T22:56:01+00:00"
+  },
+  "accuflow-systems": {
+    "slug": "accuflow-systems",
+    "name": "Accuflow Systems",
+    "domain": "accuflowsystems.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "aclairo-pharma-dev-group": {
+    "slug": "aclairo-pharma-dev-group",
+    "name": "Aclairo Pharma Dev. Group",
+    "domain": "aclairo.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "acomhal-research": {
+    "slug": "acomhal-research",
+    "name": "Acomhal Research",
+    "domain": "acomhal.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "acro-clinical": {
+    "slug": "acro-clinical",
+    "name": "ACRO Clinical",
+    "domain": "acroclinical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "acrobiosystems": {
+    "slug": "acrobiosystems",
+    "name": "ACROBiosystems",
+    "domain": "acrobiosystems.com.cn",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "acumen-pharmaceuticals": {
+    "slug": "acumen-pharmaceuticals",
+    "name": "Acumen Pharmaceuticals",
+    "domain": "acumenpharm.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://acumenpharm.com/careers",
+    "checked_at": "2026-09-04T22:56:07+00:00"
+  },
+  "addimmune": {
+    "slug": "addimmune",
+    "name": "Addimmune",
+    "domain": "addimmune.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://addimmune.com/careers",
+    "checked_at": "2026-09-04T22:56:17+00:00"
+  },
+  "adesis": {
+    "slug": "adesis",
+    "name": "Adesis",
+    "domain": "adesisinc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://adesisinc.com/careers",
+    "checked_at": "2026-09-04T22:56:14+00:00"
+  },
+  "adial-pharmaceuticals": {
+    "slug": "adial-pharmaceuticals",
+    "name": "Adial Pharmaceuticals",
+    "domain": "adial.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "adjuvant-partners": {
+    "slug": "adjuvant-partners",
+    "name": "Adjuvant Partners",
+    "domain": "adjuvant.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "adovate": {
+    "slug": "adovate",
+    "name": "Adovate",
+    "domain": "adovate.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "advanced-bioscience-labs": {
+    "slug": "advanced-bioscience-labs",
+    "name": "Advanced BioScience Labs",
+    "domain": "ablinc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ablinc.com/careers",
+    "checked_at": "2026-09-04T22:56:27+00:00"
+  },
+  "advarra": {
+    "slug": "advarra",
+    "name": "Advarra",
+    "domain": "advarra.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://advarra.com/careers",
+    "checked_at": "2026-09-04T22:56:37+00:00"
+  },
+  "affinity-molecules": {
+    "slug": "affinity-molecules",
+    "name": "Affinity Molecules",
+    "domain": "affymol.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "afton-scientific": {
+    "slug": "afton-scientific",
+    "name": "Afton Scientific",
+    "domain": "aftonscientific.com",
+    "source": "rippling",
+    "token": "aftons-job-board",
+    "careers_url": "https://aftonscientific.com/careers",
+    "checked_at": "2026-09-04T22:56:31+00:00"
+  },
+  "aged-diagnostics": {
+    "slug": "aged-diagnostics",
+    "name": "AGED Diagnostics",
+    "domain": "ageddiagnostics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ageddiagnostics.com/careers",
+    "checked_at": "2026-09-04T22:56:18+00:00"
+  },
+  "agenebio": {
+    "slug": "agenebio",
+    "name": "AgeneBio",
+    "domain": "agenebio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "agnovos-bioscience": {
+    "slug": "agnovos-bioscience",
+    "name": "AgNovos Bioscience",
+    "domain": "agnovos.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "akan-biosciences": {
+    "slug": "akan-biosciences",
+    "name": "Akan Biosciences",
+    "domain": "akanbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "akonni-biosystems": {
+    "slug": "akonni-biosystems",
+    "name": "Akonni Biosystems",
+    "domain": "akonni.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "akrivita": {
+    "slug": "akrivita",
+    "name": "AkriVita",
+    "domain": "akrivita.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "akshar-global-clinical-research": {
+    "slug": "akshar-global-clinical-research",
+    "name": "Akshar Global Clinical Research",
+    "domain": "agcro.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "akyso-therapeutics": {
+    "slug": "akyso-therapeutics",
+    "name": "Akyso Therapeutics",
+    "domain": "akyso.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "alaw-therapeutics": {
+    "slug": "alaw-therapeutics",
+    "name": "Alaw Therapeutics",
+    "domain": "alawtx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "aledade": {
+    "slug": "aledade",
+    "name": "Aledade",
+    "domain": "aledade.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://aledade.com/careers",
+    "checked_at": "2026-09-04T22:56:30+00:00"
+  },
+  "aletira-therapeutics": {
+    "slug": "aletira-therapeutics",
+    "name": "Aletira Therapeutics",
+    "domain": "aletiratherapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "aloe-therapeutics": {
+    "slug": "aloe-therapeutics",
+    "name": "Aloe Therapeutics",
+    "domain": "aloetherapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "alphyn-biologics": {
+    "slug": "alphyn-biologics",
+    "name": "Alphyn Biologics",
+    "domain": "alphynbiologics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "alr-technologies": {
+    "slug": "alr-technologies",
+    "name": "ALR Technologies",
+    "domain": "alrt.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://alrt.com/careers",
+    "checked_at": "2026-09-04T22:56:33+00:00"
+  },
+  "altamira-therapeutics": {
+    "slug": "altamira-therapeutics",
+    "name": "Altamira Therapeutics",
+    "domain": "altamiratx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "altimmune": {
+    "slug": "altimmune",
+    "name": "Altimmune",
+    "domain": "altimmune.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "altoida": {
+    "slug": "altoida",
+    "name": "Altoida",
+    "domain": "altoida.com",
+    "source": "lever",
+    "token": "Altoida",
+    "careers_url": "https://altoida.com/careers",
+    "checked_at": "2026-09-04T22:56:33+00:00"
+  },
+  "amador-bioscience": {
+    "slug": "amador-bioscience",
+    "name": "Amador Bioscience",
+    "domain": "amadorbioscience.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://amadorbioscience.com/careers",
+    "checked_at": "2026-09-04T22:56:37+00:00"
+  },
+  "amarex-clinical-research": {
+    "slug": "amarex-clinical-research",
+    "name": "Amarex Clinical Research",
+    "domain": "amarexcro.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "amazon-aws": {
+    "slug": "amazon-aws",
+    "name": "Amazon / AWS",
+    "domain": "amazon.jobs",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://amazon.jobs/en/job_categories",
+    "checked_at": "2026-09-04T22:56:37+00:00"
+  },
+  "amentum": {
+    "slug": "amentum",
+    "name": "Amentum",
+    "domain": "amentum.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://amentum.com/careers",
+    "checked_at": "2026-09-04T22:56:55+00:00"
+  },
+  "american-gene-technologies": {
+    "slug": "american-gene-technologies",
+    "name": "American Gene Technologies",
+    "domain": "americangene.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://americangene.com/careers",
+    "checked_at": "2026-09-04T22:56:45+00:00"
+  },
+  "ampel-biosolutions": {
+    "slug": "ampel-biosolutions",
+    "name": "AMPEL BioSolutions",
+    "domain": "ampelbiosolutions.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "amplexd-therapeutics": {
+    "slug": "amplexd-therapeutics",
+    "name": "Amplexd Therapeutics",
+    "domain": "amplexd.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "angimmune": {
+    "slug": "angimmune",
+    "name": "Angimmune",
+    "domain": "angimmune.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "anilocus": {
+    "slug": "anilocus",
+    "name": "AniLocus",
+    "domain": "anilocus.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "anp-technologies": {
+    "slug": "anp-technologies",
+    "name": "ANP Technologies",
+    "domain": "anptinc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "antidote-therapeutics": {
+    "slug": "antidote-therapeutics",
+    "name": "Antidote Therapeutics",
+    "domain": "antidotetx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "aphena-pharma-solutions": {
+    "slug": "aphena-pharma-solutions",
+    "name": "Aphena Pharma Solutions",
+    "domain": "aphenapharma.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://aphenapharma.com/careers",
+    "checked_at": "2026-09-04T22:56:39+00:00"
+  },
+  "appian": {
+    "slug": "appian",
+    "name": "Appian",
+    "domain": "appian.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://appian.com/careers",
+    "checked_at": "2026-09-04T22:56:44+00:00"
+  },
+  "applied-insight": {
+    "slug": "applied-insight",
+    "name": "Applied Insight",
+    "domain": "appliedinsight.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "arcadia": {
+    "slug": "arcadia",
+    "name": "Arcadia",
+    "domain": "arcadia.io",
+    "source": "lever",
+    "token": "arcadia",
+    "careers_url": "https://arcadia.io/careers",
+    "checked_at": "2026-09-04T22:56:38+00:00"
+  },
+  "arcascope": {
+    "slug": "arcascope",
+    "name": "Arcascope",
+    "domain": "arcascope.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "aretech": {
+    "slug": "aretech",
+    "name": "Aretech",
+    "domain": "aretechllc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://aretechllc.com/careers",
+    "checked_at": "2026-09-04T22:56:38+00:00"
+  },
+  "areterna": {
+    "slug": "areterna",
+    "name": "Areterna",
+    "domain": "areterna.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "army-research-laboratory-devcom": {
+    "slug": "army-research-laboratory-devcom",
+    "name": "Army Research Laboratory (DEVCOM)",
+    "domain": "arl.army.mil",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://arl.army.mil/careers",
+    "checked_at": "2026-09-04T22:57:07+00:00"
+  },
+  "arraystar": {
+    "slug": "arraystar",
+    "name": "Arraystar",
+    "domain": "arraystar.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://arraystar.com/careers",
+    "checked_at": "2026-09-04T22:56:58+00:00"
+  },
+  "ascend-therapeutics": {
+    "slug": "ascend-therapeutics",
+    "name": "Ascend Therapeutics",
+    "domain": "ascendtherapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ascentage-pharma": {
+    "slug": "ascentage-pharma",
+    "name": "Ascentage Pharma",
+    "domain": "ascentage.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ascentage.com/careers",
+    "checked_at": "2026-09-04T22:56:43+00:00"
+  },
+  "ascentgene": {
+    "slug": "ascentgene",
+    "name": "AscentGene",
+    "domain": "ascentgene.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ascentgene.com/careers",
+    "checked_at": "2026-09-04T22:56:43+00:00"
+  },
+  "aseda-sciences": {
+    "slug": "aseda-sciences",
+    "name": "Aseda Sciences",
+    "domain": "asedasciences.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://asedasciences.com/careers",
+    "checked_at": "2026-09-04T22:56:45+00:00"
+  },
+  "asklepion-pharmaceuticals": {
+    "slug": "asklepion-pharmaceuticals",
+    "name": "Asklepion Pharmaceuticals",
+    "domain": "asklepionpharm.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://asklepionpharm.com/careers",
+    "checked_at": "2026-09-04T22:57:11+00:00"
+  },
+  "assaygate": {
+    "slug": "assaygate",
+    "name": "AssayGate",
+    "domain": "assaygate.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://assaygate.com/careers",
+    "checked_at": "2026-09-04T22:57:51+00:00"
+  },
+  "astek-diagnostics": {
+    "slug": "astek-diagnostics",
+    "name": "Astek Diagnostics",
+    "domain": "astekdx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://astekdx.com/careers",
+    "checked_at": "2026-09-04T22:56:59+00:00"
+  },
+  "astrazeneca": {
+    "slug": "astrazeneca",
+    "name": "AstraZeneca",
+    "domain": "astrazeneca.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "atlantic-research-group": {
+    "slug": "atlantic-research-group",
+    "name": "Atlantic Research Group",
+    "domain": "atlanticresearchgroup.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://atlanticresearchgroup.com/careers",
+    "checked_at": "2026-09-04T22:56:50+00:00"
+  },
+  "autonomous-therapeutics": {
+    "slug": "autonomous-therapeutics",
+    "name": "Autonomous Therapeutics",
+    "domain": "autonomous.bio",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://autonomous.bio/careers-1",
+    "checked_at": "2026-09-04T22:56:56+00:00"
+  },
+  "avant-genomics": {
+    "slug": "avant-genomics",
+    "name": "Avant Genomics",
+    "domain": "avant-genomics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "avobis-bio": {
+    "slug": "avobis-bio",
+    "name": "Avobis Bio",
+    "domain": "avobisbio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://avobisbio.com/careers",
+    "checked_at": "2026-09-04T22:56:54+00:00"
+  },
+  "axplora": {
+    "slug": "axplora",
+    "name": "Axplora",
+    "domain": "axplora.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://axplora.com/careers",
+    "checked_at": "2026-09-04T22:56:57+00:00"
+  },
+  "aztron-medtech": {
+    "slug": "aztron-medtech",
+    "name": "Aztron Medtech",
+    "domain": "aztron-medtech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "bae-systems": {
+    "slug": "bae-systems",
+    "name": "BAE Systems",
+    "domain": "baesystems.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://baesystems.com/careers",
+    "checked_at": "2026-09-04T22:56:59+00:00"
+  },
+  "barinthus-biotherapeutics": {
+    "slug": "barinthus-biotherapeutics",
+    "name": "Barinthus Biotherapeutics",
+    "domain": "barinthusbio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://barinthusbio.com/careers",
+    "checked_at": "2026-09-04T22:57:04+00:00"
+  },
+  "beaufort": {
+    "slug": "beaufort",
+    "name": "Beaufort",
+    "domain": "beaufortcro.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://beaufortcro.com/careers/",
+    "checked_at": "2026-09-04T22:57:03+00:00"
+  },
+  "becton-dickinson": {
+    "slug": "becton-dickinson",
+    "name": "Becton Dickinson",
+    "domain": "bd.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "bioark-technologies": {
+    "slug": "bioark-technologies",
+    "name": "BioArk Technologies",
+    "domain": "bioarktech.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://bioarktech.com/careers",
+    "checked_at": "2026-09-04T22:56:56+00:00"
+  },
+  "bioassay-works": {
+    "slug": "bioassay-works",
+    "name": "Bioassay Works",
+    "domain": "bioassayworks.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "biofactura": {
+    "slug": "biofactura",
+    "name": "BioFactura",
+    "domain": "biofactura.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://biofactura.com/careers",
+    "checked_at": "2026-09-04T22:57:03+00:00"
+  },
+  "bioinnovatise": {
+    "slug": "bioinnovatise",
+    "name": "BioInnovatise",
+    "domain": "bioinnovatise.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://bioinnovatise.com/careers",
+    "checked_at": "2026-09-04T22:57:08+00:00"
+  },
+  "biojo-sciences": {
+    "slug": "biojo-sciences",
+    "name": "Biojo Sciences",
+    "domain": "biojosciences.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://biojosciences.com/careers",
+    "checked_at": "2026-09-04T22:57:07+00:00"
+  },
+  "biological-mimetics": {
+    "slug": "biological-mimetics",
+    "name": "Biological Mimetics",
+    "domain": "biologicalmimetics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "biologics-consulting": {
+    "slug": "biologics-consulting",
+    "name": "Biologics Consulting",
+    "domain": "biologicsconsulting.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://biologicsconsulting.com/careers",
+    "checked_at": "2026-09-04T22:57:04+00:00"
+  },
+  "biomatik": {
+    "slug": "biomatik",
+    "name": "Biomatik",
+    "domain": "biomatik.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://biomatik.com/careers",
+    "checked_at": "2026-09-04T22:57:05+00:00"
+  },
+  "bionanotech": {
+    "slug": "bionanotech",
+    "name": "BioNanoTech",
+    "domain": "bionanotech.co",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://bionanotech.co/about/careers",
+    "checked_at": "2026-09-04T22:57:09+00:00"
+  },
+  "biontech": {
+    "slug": "biontech",
+    "name": "BioNTech",
+    "domain": "biontech.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://biontech.com/us/en/home/careers.html",
+    "checked_at": "2026-09-04T22:57:05+00:00"
+  },
+  "bioprosthetics": {
+    "slug": "bioprosthetics",
+    "name": "Bioprosthetics",
+    "domain": "bioprostheticscorp.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://bioprostheticscorp.com/career",
+    "checked_at": "2026-09-04T22:57:04+00:00"
+  },
+  "bioptamers": {
+    "slug": "bioptamers",
+    "name": "Bioptamers",
+    "domain": "bioptamers.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "bioqual": {
+    "slug": "bioqual",
+    "name": "Bioqual",
+    "domain": "bioqual.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://bioqual.com/jobs",
+    "checked_at": "2026-09-04T22:57:10+00:00"
+  },
+  "biosolution-designs": {
+    "slug": "biosolution-designs",
+    "name": "Biosolution Designs",
+    "domain": "biodzn.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "biovista": {
+    "slug": "biovista",
+    "name": "Biovista",
+    "domain": "biovista.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "bla-regulatory": {
+    "slug": "bla-regulatory",
+    "name": "BLA Regulatory",
+    "domain": "bla-regulatory.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "black-canyon-bio": {
+    "slug": "black-canyon-bio",
+    "name": "Black Canyon Bio",
+    "domain": "blackcanyonbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "bondtrue": {
+    "slug": "bondtrue",
+    "name": "BondTrue",
+    "domain": "bondtrue.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "booz-allen-hamilton": {
+    "slug": "booz-allen-hamilton",
+    "name": "Booz Allen Hamilton",
+    "domain": "boozallen.com",
+    "source": "workday",
+    "token": "bah|wd1|BAH_Jobs",
+    "careers_url": "",
+    "checked_at": "2026-09-04T22:57:09+00:00"
+  },
+  "bora-cdmo": {
+    "slug": "bora-cdmo",
+    "name": "Bora CDMO",
+    "domain": "boracdmo.com",
+    "source": "workday",
+    "token": "boracorpcdmo|wd108|BoraExternalCareers",
+    "careers_url": "https://boracdmo.com/careers",
+    "checked_at": "2026-09-04T22:57:10+00:00"
+  },
+  "brainbox-solutions": {
+    "slug": "brainbox-solutions",
+    "name": "BRAINBox Solutions",
+    "domain": "brainboxinc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "brainscope": {
+    "slug": "brainscope",
+    "name": "BrainScope",
+    "domain": "brainscope.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://brainscope.com/careers",
+    "checked_at": "2026-09-04T22:57:18+00:00"
+  },
+  "breathe-biologics": {
+    "slug": "breathe-biologics",
+    "name": "Breathe Biologics",
+    "domain": "breathebiologics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "brenig-therapeutics": {
+    "slug": "brenig-therapeutics",
+    "name": "Brenig Therapeutics",
+    "domain": "brenigther.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "brightspec": {
+    "slug": "brightspec",
+    "name": "BrightSpec",
+    "domain": "brightspec.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://brightspec.com/careers",
+    "checked_at": "2026-09-04T22:57:14+00:00"
+  },
+  "britecyte": {
+    "slug": "britecyte",
+    "name": "Britecyte",
+    "domain": "britecyte.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "bullfrog-ai": {
+    "slug": "bullfrog-ai",
+    "name": "Bullfrog AI",
+    "domain": "bullfrogai.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://bullfrogai.com/careers",
+    "checked_at": "2026-09-04T22:57:21+00:00"
+  },
+  "caci-international": {
+    "slug": "caci-international",
+    "name": "CACI International",
+    "domain": "caci.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://caci.com/employment-verification",
+    "checked_at": "2026-09-04T22:57:16+00:00"
+  },
+  "cadence-inc": {
+    "slug": "cadence-inc",
+    "name": "Cadence Inc",
+    "domain": "cadenceinc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cadenceinc.com/careers",
+    "checked_at": "2026-09-04T22:57:27+00:00"
+  },
+  "capital-one": {
+    "slug": "capital-one",
+    "name": "Capital One",
+    "domain": "capitalone.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "carefirst-bluecross-blueshield": {
+    "slug": "carefirst-bluecross-blueshield",
+    "name": "CareFirst BlueCross BlueShield",
+    "domain": "carefirst.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://carefirst.com/careers",
+    "checked_at": "2026-09-04T22:57:14+00:00"
+  },
+  "cartesian-therapeutics": {
+    "slug": "cartesian-therapeutics",
+    "name": "Cartesian Therapeutics",
+    "domain": "cartesiantherapeutics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cartesiantherapeutics.com/careers",
+    "checked_at": "2026-09-04T22:57:16+00:00"
+  },
+  "castor": {
+    "slug": "castor",
+    "name": "Castor",
+    "domain": "castoredc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://castoredc.com/careers",
+    "checked_at": "2026-09-04T22:57:51+00:00"
+  },
+  "cd-diagnostics": {
+    "slug": "cd-diagnostics",
+    "name": "CD Diagnostics",
+    "domain": "cddiagnostics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cddiagnostics.com/careers",
+    "checked_at": "2026-09-04T22:57:16+00:00"
+  },
+  "cdi-laboratories": {
+    "slug": "cdi-laboratories",
+    "name": "CDI Laboratories",
+    "domain": "cdilabs.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "cel-sci": {
+    "slug": "cel-sci",
+    "name": "CEL-SCI",
+    "domain": "cel-sci.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cel-sci.com/careers",
+    "checked_at": "2026-09-04T22:57:23+00:00"
+  },
+  "celetrix-electroporation": {
+    "slug": "celetrix-electroporation",
+    "name": "Celetrix Electroporation",
+    "domain": "celetrix.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "cellergy-pharma": {
+    "slug": "cellergy-pharma",
+    "name": "Cellergy Pharma",
+    "domain": "cellergypharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "cellink": {
+    "slug": "cellink",
+    "name": "Cellink",
+    "domain": "cellink.com",
+    "source": "workday",
+    "token": "bico|wd103|External",
+    "careers_url": "https://cellink.com/careers",
+    "checked_at": "2026-09-04T22:57:26+00:00"
+  },
+  "cellomics-technology": {
+    "slug": "cellomics-technology",
+    "name": "Cellomics Technology",
+    "domain": "cellomicstech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "cellphire-therapeutics": {
+    "slug": "cellphire-therapeutics",
+    "name": "Cellphire Therapeutics",
+    "domain": "cellphire.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cellphire.com/careers",
+    "checked_at": "2026-09-04T22:57:22+00:00"
+  },
+  "cepham-life-sciences": {
+    "slug": "cepham-life-sciences",
+    "name": "Cepham Life Sciences",
+    "domain": "cephamls.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cephamls.com/careers",
+    "checked_at": "2026-09-04T22:57:30+00:00"
+  },
+  "cerenome": {
+    "slug": "cerenome",
+    "name": "Cerenome",
+    "domain": "cerenome.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ceres-nanosciences": {
+    "slug": "ceres-nanosciences",
+    "name": "Ceres Nanosciences",
+    "domain": "ceresnano.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ceresnano.com/careers",
+    "checked_at": "2026-09-04T22:57:44+00:00"
+  },
+  "cerium-pharmaceuticals": {
+    "slug": "cerium-pharmaceuticals",
+    "name": "Cerium Pharmaceuticals",
+    "domain": "ceriumpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "charles-river-laboratories": {
+    "slug": "charles-river-laboratories",
+    "name": "Charles River Laboratories",
+    "domain": "criver.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "chempacific": {
+    "slug": "chempacific",
+    "name": "ChemPacific",
+    "domain": "chempacific.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://chempacific.com/career.php",
+    "checked_at": "2026-09-04T22:57:23+00:00"
+  },
+  "children-s-national-hospital": {
+    "slug": "children-s-national-hospital",
+    "name": "Children's National Hospital",
+    "domain": "childrensnational.org",
+    "source": "workday",
+    "token": "childrensnational|wd108|CN_Careers",
+    "careers_url": "https://childrensnational.org/careers",
+    "checked_at": "2026-09-04T22:57:28+00:00"
+  },
+  "chirhoclin": {
+    "slug": "chirhoclin",
+    "name": "ChiRhoClin",
+    "domain": "chirhoclin.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "cipher-surgical": {
+    "slug": "cipher-surgical",
+    "name": "Cipher Surgical",
+    "domain": "ciphersurgical.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ciphersurgical.com/careers",
+    "checked_at": "2026-09-04T22:57:29+00:00"
+  },
+  "civi-biopharma": {
+    "slug": "civi-biopharma",
+    "name": "CiVi Biopharma",
+    "domain": "civibio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "clasp-therapeutics": {
+    "slug": "clasp-therapeutics",
+    "name": "Clasp Therapeutics",
+    "domain": "clasptx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://clasptx.com/home#careers",
+    "checked_at": "2026-09-04T22:57:32+00:00"
+  },
+  "clear-guide-medical": {
+    "slug": "clear-guide-medical",
+    "name": "Clear Guide Medical",
+    "domain": "clearguidemedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "clene": {
+    "slug": "clene",
+    "name": "Clene",
+    "domain": "clene.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "clicbio": {
+    "slug": "clicbio",
+    "name": "ClicBio",
+    "domain": "clicbiotech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "cloudlims": {
+    "slug": "cloudlims",
+    "name": "CloudLIMS",
+    "domain": "cloudlims.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cloudlims.com/careers",
+    "checked_at": "2026-09-04T22:57:37+00:00"
+  },
+  "clr-medical": {
+    "slug": "clr-medical",
+    "name": "CLR Medical",
+    "domain": "clrmedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "cmbio": {
+    "slug": "cmbio",
+    "name": "cmbio",
+    "domain": "cmbio.io",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cmbio.io/careers",
+    "checked_at": "2026-09-04T22:57:34+00:00"
+  },
+  "cna": {
+    "slug": "cna",
+    "name": "CNA",
+    "domain": "cna.org",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cna.org/careers",
+    "checked_at": "2026-09-04T22:57:33+00:00"
+  },
+  "cnbx-pharmaceuticals": {
+    "slug": "cnbx-pharmaceuticals",
+    "name": "CNBX Pharmaceuticals",
+    "domain": "cnbxpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "coaptech": {
+    "slug": "coaptech",
+    "name": "CoapTech",
+    "domain": "coaptech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "coeurative": {
+    "slug": "coeurative",
+    "name": "Coeurative",
+    "domain": "coeurative.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "confluent-medical-technologies": {
+    "slug": "confluent-medical-technologies",
+    "name": "Confluent Medical Technologies",
+    "domain": "confluentmedical.com",
+    "source": "workday",
+    "token": "confluentmedical|wd503|Confluent_Medical",
+    "careers_url": "",
+    "checked_at": "2026-09-04T22:57:33+00:00"
+  },
+  "congruence-medical-solutions": {
+    "slug": "congruence-medical-solutions",
+    "name": "Congruence Medical Solutions",
+    "domain": "congruencemedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "continuum-clinical": {
+    "slug": "continuum-clinical",
+    "name": "Continuum Clinical",
+    "domain": "continuumclinical.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://continuumclinical.com/careers",
+    "checked_at": "2026-09-04T22:57:38+00:00"
+  },
+  "contraline": {
+    "slug": "contraline",
+    "name": "Contraline",
+    "domain": "contraline.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://contraline.com/careers",
+    "checked_at": "2026-09-04T22:57:37+00:00"
+  },
+  "core-vista-health": {
+    "slug": "core-vista-health",
+    "name": "Core Vista Health",
+    "domain": "corehealth.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "corellia-ai": {
+    "slug": "corellia-ai",
+    "name": "Corellia AI",
+    "domain": "corellia.ai",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "corrixr-therapeutics": {
+    "slug": "corrixr-therapeutics",
+    "name": "CorriXR Therapeutics",
+    "domain": "corrixr.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "corvista-health": {
+    "slug": "corvista-health",
+    "name": "CorVista Health",
+    "domain": "corvista.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "cranius-therapeutics": {
+    "slug": "cranius-therapeutics",
+    "name": "CraniUS Therapeutics",
+    "domain": "craniustherapeutics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://craniustherapeutics.com/careers",
+    "checked_at": "2026-09-04T22:57:37+00:00"
+  },
+  "creatv-bio": {
+    "slug": "creatv-bio",
+    "name": "Creatv Bio",
+    "domain": "creatvbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "creliohealth": {
+    "slug": "creliohealth",
+    "name": "CrelioHealth",
+    "domain": "creliohealth.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://creliohealth.com/careers",
+    "checked_at": "2026-09-04T22:57:42+00:00"
+  },
+  "crscube": {
+    "slug": "crscube",
+    "name": "CRScube",
+    "domain": "crscube.io",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "current-surgical": {
+    "slug": "current-surgical",
+    "name": "Current Surgical",
+    "domain": "currentsurgical.com",
+    "source": "ashby",
+    "token": "currentsurgical",
+    "careers_url": "",
+    "checked_at": "2026-09-04T22:57:38+00:00"
+  },
+  "cvent": {
+    "slug": "cvent",
+    "name": "Cvent",
+    "domain": "cvent.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cvent.com/careers",
+    "checked_at": "2026-09-04T22:58:07+00:00"
+  },
+  "cytorecovery": {
+    "slug": "cytorecovery",
+    "name": "CytoRecovery",
+    "domain": "cytorecovery.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://cytorecovery.com/pages/careers",
+    "checked_at": "2026-09-04T22:57:54+00:00"
+  },
+  "danaher": {
+    "slug": "danaher",
+    "name": "Danaher",
+    "domain": "danaher.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "deka-biosciences": {
+    "slug": "deka-biosciences",
+    "name": "Deka Biosciences",
+    "domain": "dekabiosciences.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "dermaliq-therapeutics": {
+    "slug": "dermaliq-therapeutics",
+    "name": "Dermaliq Therapeutics",
+    "domain": "dermaliq.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://dermaliq.com/careers",
+    "checked_at": "2026-09-04T22:57:53+00:00"
+  },
+  "dexorgen": {
+    "slug": "dexorgen",
+    "name": "Dexorgen",
+    "domain": "dexorgen.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "diagnostic-biochips": {
+    "slug": "diagnostic-biochips",
+    "name": "Diagnostic Biochips",
+    "domain": "diagnosticbiochips.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "dilon-technologies": {
+    "slug": "dilon-technologies",
+    "name": "Dilon Technologies",
+    "domain": "dilon.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://dilon.com/careers",
+    "checked_at": "2026-09-04T22:57:52+00:00"
+  },
+  "diopter-technologies": {
+    "slug": "diopter-technologies",
+    "name": "Diopter Technologies",
+    "domain": "diopterlabs.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "dna-analytics": {
+    "slug": "dna-analytics",
+    "name": "DNA Analytics",
+    "domain": "dnaanalytics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "dp-clinical": {
+    "slug": "dp-clinical",
+    "name": "DP Clinical",
+    "domain": "dpclinical.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://dpclinical.com/careers",
+    "checked_at": "2026-09-04T22:57:57+00:00"
+  },
+  "dynex-technologies": {
+    "slug": "dynex-technologies",
+    "name": "Dynex Technologies",
+    "domain": "dynextechnologies.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://dynextechnologies.com/careers",
+    "checked_at": "2026-09-04T22:57:54+00:00"
+  },
+  "edl-inc": {
+    "slug": "edl-inc",
+    "name": "EDL inc",
+    "domain": "edl-inc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "eenzyme": {
+    "slug": "eenzyme",
+    "name": "eEnzyme",
+    "domain": "eenzyme.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://eenzyme.com/jobs.aspx",
+    "checked_at": "2026-09-04T22:57:54+00:00"
+  },
+  "eilean-therapeutics": {
+    "slug": "eilean-therapeutics",
+    "name": "Eilean Therapeutics",
+    "domain": "eileanther.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "eliteimmune": {
+    "slug": "eliteimmune",
+    "name": "EliteImmune",
+    "domain": "eliteimmune.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://eliteimmune.com/careers",
+    "checked_at": "2026-09-04T22:58:12+00:00"
+  },
+  "elixirgen-therapeutics": {
+    "slug": "elixirgen-therapeutics",
+    "name": "Elixirgen Therapeutics",
+    "domain": "elixirgentx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "elutia": {
+    "slug": "elutia",
+    "name": "Elutia",
+    "domain": "elutia.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://elutia.com/careers",
+    "checked_at": "2026-09-04T22:57:57+00:00"
+  },
+  "embody": {
+    "slug": "embody",
+    "name": "Embody",
+    "domain": "embody-inc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "emergent-biosolutions": {
+    "slug": "emergent-biosolutions",
+    "name": "Emergent BioSolutions",
+    "domain": "emergentbiosolutions.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://emergentbiosolutions.com/careers",
+    "checked_at": "2026-09-04T22:58:00+00:00"
+  },
+  "eminent-services": {
+    "slug": "eminent-services",
+    "name": "Eminent Services",
+    "domain": "emiserv.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://emiserv.com/careers",
+    "checked_at": "2026-09-04T22:57:57+00:00"
+  },
+  "emmes": {
+    "slug": "emmes",
+    "name": "Emmes",
+    "domain": "theemmesgroup.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://theemmesgroup.com/join-us",
+    "checked_at": "2026-09-04T22:57:58+00:00"
+  },
+  "engineered-biopharmaceuticals": {
+    "slug": "engineered-biopharmaceuticals",
+    "name": "Engineered BioPharmaceuticals",
+    "domain": "engbiopharm.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "eqms-consulting": {
+    "slug": "eqms-consulting",
+    "name": "eQMS Consulting",
+    "domain": "eqmsconsultingllc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "essen-biotech": {
+    "slug": "essen-biotech",
+    "name": "Essen Biotech",
+    "domain": "essen-biotech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "euclid-systems": {
+    "slug": "euclid-systems",
+    "name": "Euclid Systems",
+    "domain": "euclidlenses.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "evergreen-therapeutics": {
+    "slug": "evergreen-therapeutics",
+    "name": "Evergreen Therapeutics",
+    "domain": "egmedai.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://egmedai.com/careers",
+    "checked_at": "2026-09-04T22:58:11+00:00"
+  },
+  "evolyra-therapeutics": {
+    "slug": "evolyra-therapeutics",
+    "name": "Evolyra Therapeutics",
+    "domain": "evolyratherapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "evon-medics": {
+    "slug": "evon-medics",
+    "name": "EvON Medics",
+    "domain": "evonmedics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://evonmedics.com/careers",
+    "checked_at": "2026-09-04T22:58:07+00:00"
+  },
+  "exegi-pharma": {
+    "slug": "exegi-pharma",
+    "name": "ExeGi Pharma",
+    "domain": "exegipharma.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://exegipharma.com/careers",
+    "checked_at": "2026-09-04T22:58:02+00:00"
+  },
+  "eyedea-medical": {
+    "slug": "eyedea-medical",
+    "name": "Eyedea Medical",
+    "domain": "eyedeamedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ez-biosystems": {
+    "slug": "ez-biosystems",
+    "name": "EZ Biosystems",
+    "domain": "ezbiosystems.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ezbiosystems.com/careers",
+    "checked_at": "2026-09-04T22:58:07+00:00"
+  },
+  "ezbiome": {
+    "slug": "ezbiome",
+    "name": "EzBiome",
+    "domain": "ezbiome.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "fannie-mae": {
+    "slug": "fannie-mae",
+    "name": "Fannie Mae",
+    "domain": "fanniemae.com",
+    "source": "workday",
+    "token": "fanniemae|wd1|FannieMaeCareers",
+    "careers_url": "https://fanniemae.com/careers",
+    "checked_at": "2026-09-04T22:58:06+00:00"
+  },
+  "fast-track": {
+    "slug": "fast-track",
+    "name": "Fast-Track",
+    "domain": "fasttrackresearch.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "fda": {
+    "slug": "fda",
+    "name": "FDA",
+    "domain": "fda.gov",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "fibercell-systems": {
+    "slug": "fibercell-systems",
+    "name": "FiberCell Systems",
+    "domain": "fibercellsystems.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "fina-biosolutions": {
+    "slug": "fina-biosolutions",
+    "name": "Fina Biosolutions",
+    "domain": "finabio.net",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "firegate-biotech": {
+    "slug": "firegate-biotech",
+    "name": "FireGate Biotech",
+    "domain": "firegatebiotech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "flavocure-biotech": {
+    "slug": "flavocure-biotech",
+    "name": "Flavocure Biotech",
+    "domain": "flavocure.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "foresee-pharmaceuticals": {
+    "slug": "foresee-pharmaceuticals",
+    "name": "Foresee Pharmaceuticals",
+    "domain": "foreseepharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "freddie-mac": {
+    "slug": "freddie-mac",
+    "name": "Freddie Mac",
+    "domain": "freddiemac.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://freddiemac.com/careers",
+    "checked_at": "2026-09-04T22:58:09+00:00"
+  },
+  "fyodor-biotechnologies": {
+    "slug": "fyodor-biotechnologies",
+    "name": "Fyodor Biotechnologies",
+    "domain": "fyodorbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "fzata": {
+    "slug": "fzata",
+    "name": "Fzata",
+    "domain": "fzata.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "g3-therapeutics": {
+    "slug": "g3-therapeutics",
+    "name": "G3 Therapeutics",
+    "domain": "g3therapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "gene-universal": {
+    "slug": "gene-universal",
+    "name": "Gene Universal",
+    "domain": "geneuniversal.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://geneuniversal.com/careers",
+    "checked_at": "2026-09-04T22:58:16+00:00"
+  },
+  "genecopoeia": {
+    "slug": "genecopoeia",
+    "name": "GeneCopoeia",
+    "domain": "genecopoeia.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "genedx": {
+    "slug": "genedx",
+    "name": "GeneDx",
+    "domain": "genedx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://genedx.com/careers",
+    "checked_at": "2026-09-04T22:58:20+00:00"
+  },
+  "general-dynamics-information-technology": {
+    "slug": "general-dynamics-information-technology",
+    "name": "General Dynamics Information Technology",
+    "domain": "gdit.com",
+    "source": "workday",
+    "token": "gdit|wd5|External_Career_Site",
+    "careers_url": "https://gdit.com/careers",
+    "checked_at": "2026-09-04T22:58:16+00:00"
+  },
+  "genetworx": {
+    "slug": "genetworx",
+    "name": "Genetworx",
+    "domain": "genetworx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://genetworx.com/careers",
+    "checked_at": "2026-09-04T22:58:37+00:00"
+  },
+  "george-washington-university": {
+    "slug": "george-washington-university",
+    "name": "George Washington University",
+    "domain": "gwu.edu",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "georgetown-university": {
+    "slug": "georgetown-university",
+    "name": "Georgetown University",
+    "domain": "georgetown.edu",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "georgiamune": {
+    "slug": "georgiamune",
+    "name": "Georgiamune",
+    "domain": "georgiamune.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://georgiamune.com/join-us",
+    "checked_at": "2026-09-04T22:58:18+00:00"
+  },
+  "glen-research": {
+    "slug": "glen-research",
+    "name": "Glen Research",
+    "domain": "glenresearch.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "gliknik": {
+    "slug": "gliknik",
+    "name": "Gliknik",
+    "domain": "gliknik.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://gliknik.com/careers",
+    "checked_at": "2026-09-04T22:58:24+00:00"
+  },
+  "glyscend-therapeutics": {
+    "slug": "glyscend-therapeutics",
+    "name": "Glyscend Therapeutics",
+    "domain": "glyscend.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "google": {
+    "slug": "google",
+    "name": "Google",
+    "domain": "google.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://google.com/careers",
+    "checked_at": "2026-09-04T22:58:35+00:00"
+  },
+  "gspin-technologies": {
+    "slug": "gspin-technologies",
+    "name": "gSpin Technologies",
+    "domain": "gspinmedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "harvest-moon-pharmaceuticals-usa": {
+    "slug": "harvest-moon-pharmaceuticals-usa",
+    "name": "Harvest Moon Pharmaceuticals USA",
+    "domain": "harvestmoonpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "hbvtech": {
+    "slug": "hbvtech",
+    "name": "HBVtech",
+    "domain": "hbvtech.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://hbvtech.com/about/careers",
+    "checked_at": "2026-09-04T22:58:28+00:00"
+  },
+  "hemagen-diagnostics": {
+    "slug": "hemagen-diagnostics",
+    "name": "Hemagen Diagnostics",
+    "domain": "hemagen.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://hemagen.com/careers",
+    "checked_at": "2026-09-04T22:58:18+00:00"
+  },
+  "hememics-biotechnologies": {
+    "slug": "hememics-biotechnologies",
+    "name": "Hememics Biotechnologies",
+    "domain": "hememics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "hhmi-janelia-research-campus": {
+    "slug": "hhmi-janelia-research-campus",
+    "name": "HHMI Janelia Research Campus",
+    "domain": "janelia.org",
+    "source": "workday",
+    "token": "hhmi|wd1|External",
+    "careers_url": "https://janelia.org/careers",
+    "checked_at": "2026-09-04T22:58:24+00:00"
+  },
+  "hohcells": {
+    "slug": "hohcells",
+    "name": "HOHCells",
+    "domain": "hohcells.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "hologic": {
+    "slug": "hologic",
+    "name": "Hologic",
+    "domain": "hologic.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://hologic.com/careers",
+    "checked_at": "2026-09-04T22:58:28+00:00"
+  },
+  "hypoxygen": {
+    "slug": "hypoxygen",
+    "name": "Hypoxygen",
+    "domain": "hypoxygen.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://hypoxygen.com/company-info/employment-opportunities.html",
+    "checked_at": "2026-09-04T22:58:53+00:00"
+  },
+  "i-cordis": {
+    "slug": "i-cordis",
+    "name": "i-Cordis",
+    "domain": "i-cordis.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ibex-biosciences": {
+    "slug": "ibex-biosciences",
+    "name": "Ibex Biosciences",
+    "domain": "ibex.bio",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ibt-bioservices": {
+    "slug": "ibt-bioservices",
+    "name": "IBT Bioservices",
+    "domain": "ibtbioservices.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ibtbioservices.com/careers",
+    "checked_at": "2026-09-04T22:58:53+00:00"
+  },
+  "icarus-medical": {
+    "slug": "icarus-medical",
+    "name": "Icarus Medical",
+    "domain": "icarusmedical.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://icarusmedical.com/careers",
+    "checked_at": "2026-09-04T22:59:00+00:00"
+  },
+  "ice-neurosystems": {
+    "slug": "ice-neurosystems",
+    "name": "iCE Neurosystems",
+    "domain": "iceneurosystems.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://iceneurosystems.com/jobs",
+    "checked_at": "2026-09-04T22:58:44+00:00"
+  },
+  "igc-pharma": {
+    "slug": "igc-pharma",
+    "name": "IGC Pharma",
+    "domain": "igcpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "immudex": {
+    "slug": "immudex",
+    "name": "Immudex",
+    "domain": "immudex.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "immunomic-therapeutics": {
+    "slug": "immunomic-therapeutics",
+    "name": "Immunomic Therapeutics",
+    "domain": "immunomix.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://immunomix.com/careers",
+    "checked_at": "2026-09-04T22:58:39+00:00"
+  },
+  "imquest-biosciences": {
+    "slug": "imquest-biosciences",
+    "name": "ImQuest BioSciences",
+    "domain": "imquestbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "incogen": {
+    "slug": "incogen",
+    "name": "Incogen",
+    "domain": "incogen.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://incogen.com/careers",
+    "checked_at": "2026-09-04T22:58:37+00:00"
+  },
+  "incyte": {
+    "slug": "incyte",
+    "name": "Incyte",
+    "domain": "incyte.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://incyte.com/careers",
+    "checked_at": "2026-09-04T22:58:39+00:00"
+  },
+  "indivior": {
+    "slug": "indivior",
+    "name": "Indivior",
+    "domain": "indivior.com",
+    "source": "workday",
+    "token": "indivior|wd3|Indivior",
+    "careers_url": "https://indivior.com/careers",
+    "checked_at": "2026-09-04T22:58:47+00:00"
+  },
+  "indoor-biotechnologies": {
+    "slug": "indoor-biotechnologies",
+    "name": "Indoor Biotechnologies",
+    "domain": "inbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "infinity-bio": {
+    "slug": "infinity-bio",
+    "name": "Infinity Bio",
+    "domain": "infinitybio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://infinitybio.com/careers",
+    "checked_at": "2026-09-04T22:58:47+00:00"
+  },
+  "innovative-cellular-therapeutics": {
+    "slug": "innovative-cellular-therapeutics",
+    "name": "Innovative Cellular Therapeutics",
+    "domain": "ictbio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ictbio.com/careers",
+    "checked_at": "2026-09-04T22:58:58+00:00"
+  },
+  "inova-health-system": {
+    "slug": "inova-health-system",
+    "name": "Inova Health System",
+    "domain": "inova.org",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://inova.org/careers",
+    "checked_at": "2026-09-04T22:58:57+00:00"
+  },
+  "institute-for-defense-analyses": {
+    "slug": "institute-for-defense-analyses",
+    "name": "Institute for Defense Analyses",
+    "domain": "ida.org",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "integer": {
+    "slug": "integer",
+    "name": "Integer",
+    "domain": "integer.net",
+    "source": "workday",
+    "token": "integer|wd1|External",
+    "careers_url": "https://integer.net/careers",
+    "checked_at": "2026-09-04T22:58:43+00:00"
+  },
+  "integrated-pharma-services": {
+    "slug": "integrated-pharma-services",
+    "name": "Integrated Pharma Services",
+    "domain": "integratedpharmaservices.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://integratedpharmaservices.com/about/careers",
+    "checked_at": "2026-09-04T22:58:58+00:00"
+  },
+  "inteliquet": {
+    "slug": "inteliquet",
+    "name": "Inteliquet",
+    "domain": "inteliquet.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "interbiome": {
+    "slug": "interbiome",
+    "name": "Interbiome",
+    "domain": "interbiome.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "irazu-oncology": {
+    "slug": "irazu-oncology",
+    "name": "Irazu Oncology",
+    "domain": "irazuoncology.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://irazuoncology.com/careers",
+    "checked_at": "2026-09-04T22:58:59+00:00"
+  },
+  "iroa-technologies": {
+    "slug": "iroa-technologies",
+    "name": "IROA Technologies",
+    "domain": "iroatech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "itl-biomedical": {
+    "slug": "itl-biomedical",
+    "name": "ITL Biomedical",
+    "domain": "itlbiomedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ivwatch": {
+    "slug": "ivwatch",
+    "name": "IvWatch",
+    "domain": "ivwatch.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ivwatch.com/careers",
+    "checked_at": "2026-09-04T22:59:04+00:00"
+  },
+  "izi-medical": {
+    "slug": "izi-medical",
+    "name": "IZI Medical",
+    "domain": "izimed.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://izimed.com/careers",
+    "checked_at": "2026-09-04T22:59:07+00:00"
+  },
+  "j-craig-venter-institute": {
+    "slug": "j-craig-venter-institute",
+    "name": "J. Craig Venter Institute",
+    "domain": "jcvi.org",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://jcvi.org/careers",
+    "checked_at": "2026-09-04T22:59:05+00:00"
+  },
+  "jeeva-informatics": {
+    "slug": "jeeva-informatics",
+    "name": "Jeeva Informatics",
+    "domain": "jeevatrials.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://jeevatrials.com/about/careers",
+    "checked_at": "2026-09-04T22:59:03+00:00"
+  },
+  "johns-hopkins-applied-physics-laboratory": {
+    "slug": "johns-hopkins-applied-physics-laboratory",
+    "name": "Johns Hopkins Applied Physics Laboratory",
+    "domain": "jhuapl.edu",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://jhuapl.edu/careers",
+    "checked_at": "2026-09-04T22:59:08+00:00"
+  },
+  "johns-hopkins-medicine": {
+    "slug": "johns-hopkins-medicine",
+    "name": "Johns Hopkins Medicine",
+    "domain": "jhu.edu",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "jordan-pharma-compliance": {
+    "slug": "jordan-pharma-compliance",
+    "name": "Jordan Pharma Compliance",
+    "domain": "jordan-pharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "junebrain": {
+    "slug": "junebrain",
+    "name": "JuneBrain",
+    "domain": "junebrain.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://junebrain.com/about/careers",
+    "checked_at": "2026-09-04T22:59:26+00:00"
+  },
+  "kaiser-permanente": {
+    "slug": "kaiser-permanente",
+    "name": "Kaiser Permanente",
+    "domain": "kaiserpermanente.org",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://kaiserpermanente.org/careers",
+    "checked_at": "2026-09-04T22:59:26+00:00"
+  },
+  "kal-o": {
+    "slug": "kal-o",
+    "name": "Kaléo",
+    "domain": "kaleo.com",
+    "source": "greenhouse",
+    "token": "kaleo",
+    "careers_url": "https://kaleo.com/careers",
+    "checked_at": "2026-09-04T22:59:02+00:00"
+  },
+  "kallisio": {
+    "slug": "kallisio",
+    "name": "Kallisio",
+    "domain": "kallisio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "kalocyte": {
+    "slug": "kalocyte",
+    "name": "KaloCyte",
+    "domain": "kalocyte.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://kalocyte.com/careers",
+    "checked_at": "2026-09-04T22:59:45+00:00"
+  },
+  "kcrn-research": {
+    "slug": "kcrn-research",
+    "name": "KCRN Research",
+    "domain": "kcrnresearch.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://kcrnresearch.com",
+    "checked_at": "2026-09-04T22:59:02+00:00"
+  },
+  "keiferx": {
+    "slug": "keiferx",
+    "name": "KeifeRx",
+    "domain": "keiferx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://keiferx.com/careers",
+    "checked_at": "2026-09-04T22:59:51+00:00"
+  },
+  "kemp-proteins": {
+    "slug": "kemp-proteins",
+    "name": "Kemp Proteins",
+    "domain": "kempproteins.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://kempproteins.com/careers",
+    "checked_at": "2026-09-04T22:59:27+00:00"
+  },
+  "kerecis": {
+    "slug": "kerecis",
+    "name": "Kerecis",
+    "domain": "kerecis.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://kerecis.com/careers",
+    "checked_at": "2026-09-04T22:59:28+00:00"
+  },
+  "kevirx": {
+    "slug": "kevirx",
+    "name": "KeViRx",
+    "domain": "kevirx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "key-tech": {
+    "slug": "key-tech",
+    "name": "Key Tech",
+    "domain": "keytechinc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://keytechinc.com/careers",
+    "checked_at": "2026-09-04T23:00:09+00:00"
+  },
+  "kinnakeet-biotechnology": {
+    "slug": "kinnakeet-biotechnology",
+    "name": "Kinnakeet Biotechnology",
+    "domain": "kinnakeet.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "kolon-tissuegene": {
+    "slug": "kolon-tissuegene",
+    "name": "Kolon TissueGene",
+    "domain": "tissuegene.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "leadiant-biosciences": {
+    "slug": "leadiant-biosciences",
+    "name": "Leadiant Biosciences",
+    "domain": "leadiant.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://leadiant.com/careers",
+    "checked_at": "2026-09-04T22:59:43+00:00"
+  },
+  "leidos": {
+    "slug": "leidos",
+    "name": "Leidos",
+    "domain": "leidos.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://leidos.com/careers/life",
+    "checked_at": "2026-09-04T22:59:45+00:00"
+  },
+  "lifeline-cell-technology": {
+    "slug": "lifeline-cell-technology",
+    "name": "Lifeline Cell Technology",
+    "domain": "lifelinecelltech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "linshom": {
+    "slug": "linshom",
+    "name": "Linshom",
+    "domain": "linshommedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "liquet-medical": {
+    "slug": "liquet-medical",
+    "name": "Liquet Medical",
+    "domain": "liquetmedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "lkc-technologies": {
+    "slug": "lkc-technologies",
+    "name": "LKC Technologies",
+    "domain": "lkc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://lkc.com/careers",
+    "checked_at": "2026-09-04T22:59:50+00:00"
+  },
+  "lockheed-martin": {
+    "slug": "lockheed-martin",
+    "name": "Lockheed Martin",
+    "domain": "lockheedmartin.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://lockheedmartin.com/careers",
+    "checked_at": "2026-09-04T22:59:54+00:00"
+  },
+  "lomond-therapeutics": {
+    "slug": "lomond-therapeutics",
+    "name": "Lomond Therapeutics",
+    "domain": "lomondther.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "longeviti-neuro-solutions": {
+    "slug": "longeviti-neuro-solutions",
+    "name": "Longeviti Neuro Solutions",
+    "domain": "longeviti.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://longeviti.com/careers",
+    "checked_at": "2026-09-04T22:59:48+00:00"
+  },
+  "longhorn-vaccines": {
+    "slug": "longhorn-vaccines",
+    "name": "Longhorn Vaccines",
+    "domain": "lhnvd.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "lonza": {
+    "slug": "lonza",
+    "name": "Lonza",
+    "domain": "lonza.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "lumacyte": {
+    "slug": "lumacyte",
+    "name": "LumaCyte",
+    "domain": "lumacyte.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://lumacyte.com/careers",
+    "checked_at": "2026-09-04T22:59:55+00:00"
+  },
+  "luna-innovations": {
+    "slug": "luna-innovations",
+    "name": "Luna Innovations",
+    "domain": "lunainc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://lunainc.com/careers",
+    "checked_at": "2026-09-04T22:59:52+00:00"
+  },
+  "lupin": {
+    "slug": "lupin",
+    "name": "Lupin",
+    "domain": "lupin.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "mabloc": {
+    "slug": "mabloc",
+    "name": "Mabloc",
+    "domain": "mabloc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "macrogenics": {
+    "slug": "macrogenics",
+    "name": "MacroGenics",
+    "domain": "macrogenics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://macrogenics.com/careers",
+    "checked_at": "2026-09-04T22:59:52+00:00"
+  },
+  "magbio-genomics": {
+    "slug": "magbio-genomics",
+    "name": "MagBio Genomics",
+    "domain": "magbiogenomics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "mantech": {
+    "slug": "mantech",
+    "name": "ManTech",
+    "domain": "mantech.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://mantech.com/careers",
+    "checked_at": "2026-09-04T23:00:07+00:00"
+  },
+  "marlex-pharmaceuticals": {
+    "slug": "marlex-pharmaceuticals",
+    "name": "Marlex Pharmaceuticals",
+    "domain": "marlexpharm.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "marriott-international": {
+    "slug": "marriott-international",
+    "name": "Marriott International",
+    "domain": "marriott.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "maxcyte": {
+    "slug": "maxcyte",
+    "name": "MaxCyte",
+    "domain": "maxcyte.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://maxcyte.com/careers",
+    "checked_at": "2026-09-04T23:00:04+00:00"
+  },
+  "maxim-biomedical": {
+    "slug": "maxim-biomedical",
+    "name": "Maxim Biomedical",
+    "domain": "maximbio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://maximbio.com/careers",
+    "checked_at": "2026-09-04T22:59:53+00:00"
+  },
+  "medcura": {
+    "slug": "medcura",
+    "name": "Medcura",
+    "domain": "medcurainc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "medifocus": {
+    "slug": "medifocus",
+    "name": "Medifocus",
+    "domain": "medifocusinc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "medigen": {
+    "slug": "medigen",
+    "name": "Medigen",
+    "domain": "medigen-usa.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "medregen": {
+    "slug": "medregen",
+    "name": "MedRegen",
+    "domain": "medregenco.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "medstar-health": {
+    "slug": "medstar-health",
+    "name": "MedStar Health",
+    "domain": "medstarhealth.org",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://medstarhealth.org/careers",
+    "checked_at": "2026-09-04T23:00:03+00:00"
+  },
+  "melatech": {
+    "slug": "melatech",
+    "name": "Melatech",
+    "domain": "melatech.space",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "merck": {
+    "slug": "merck",
+    "name": "Merck",
+    "domain": "merck.com",
+    "source": "workday",
+    "token": "msd|wd5|SearchJobs",
+    "careers_url": "https://merck.com/careers",
+    "checked_at": "2026-09-04T22:59:58+00:00"
+  },
+  "meso-scale-discovery": {
+    "slug": "meso-scale-discovery",
+    "name": "Meso Scale Discovery",
+    "domain": "mesoscale.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "microaire-surgical-instruments": {
+    "slug": "microaire-surgical-instruments",
+    "name": "MicroAire Surgical Instruments",
+    "domain": "microaire.com",
+    "source": "workday",
+    "token": "marmon|wd501|Marmon_Careers",
+    "careers_url": "https://microaire.com/careers",
+    "checked_at": "2026-09-04T22:59:55+00:00"
+  },
+  "microsoft": {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "domain": "microsoft.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://microsoft.com/careers",
+    "checked_at": "2026-09-04T23:00:01+00:00"
+  },
+  "milliporesigma": {
+    "slug": "milliporesigma",
+    "name": "MilliporeSigma",
+    "domain": "sigmaaldrich.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "mirecule": {
+    "slug": "mirecule",
+    "name": "miRecule",
+    "domain": "mirecule.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "mitre": {
+    "slug": "mitre",
+    "name": "MITRE",
+    "domain": "mitre.org",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "mobius-scientific": {
+    "slug": "mobius-scientific",
+    "name": "Mobius Scientific",
+    "domain": "mobius-scientific.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "moss-bio": {
+    "slug": "moss-bio",
+    "name": "Moss Bio",
+    "domain": "mossbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "musculoskeletal-clinical-regulatory-advisers": {
+    "slug": "musculoskeletal-clinical-regulatory-advisers",
+    "name": "Musculoskeletal Clinical Regulatory Advisers",
+    "domain": "mcra.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "mygogenesis": {
+    "slug": "mygogenesis",
+    "name": "MygoGenesis",
+    "domain": "mygogenesis.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "nanocan-therapeutics": {
+    "slug": "nanocan-therapeutics",
+    "name": "Nanocan Therapeutics",
+    "domain": "nanocan.life",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "nanochon": {
+    "slug": "nanochon",
+    "name": "Nanochon",
+    "domain": "nanochon.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "nanocrine": {
+    "slug": "nanocrine",
+    "name": "Nanocrine",
+    "domain": "nanocrine.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "nasa-goddard-space-flight-center": {
+    "slug": "nasa-goddard-space-flight-center",
+    "name": "NASA Goddard Space Flight Center",
+    "domain": "nasa.gov",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://nasa.gov/careers",
+    "checked_at": "2026-09-04T23:00:12+00:00"
+  },
+  "national-institutes-of-health": {
+    "slug": "national-institutes-of-health",
+    "name": "National Institutes of Health",
+    "domain": "nih.gov",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://nih.gov/research-training/training-opportunities",
+    "checked_at": "2026-09-04T23:00:08+00:00"
+  },
+  "navitas-life-sciences": {
+    "slug": "navitas-life-sciences",
+    "name": "Navitas Life Sciences",
+    "domain": "navitaslifesciences.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "neoimmunetech": {
+    "slug": "neoimmunetech",
+    "name": "NeoImmuneTech",
+    "domain": "neoimmunetech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "nephronomics": {
+    "slug": "nephronomics",
+    "name": "Nephronomics",
+    "domain": "nephronomics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "neuraly": {
+    "slug": "neuraly",
+    "name": "Neuraly",
+    "domain": "neuralymed.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://neuralymed.com/careers",
+    "checked_at": "2026-09-04T23:00:10+00:00"
+  },
+  "neurava": {
+    "slug": "neurava",
+    "name": "Neurava",
+    "domain": "neurava.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "neuroene-therapeutics": {
+    "slug": "neuroene-therapeutics",
+    "name": "Neuroene Therapeutics",
+    "domain": "neuroenetherapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "neuronascent": {
+    "slug": "neuronascent",
+    "name": "Neuronascent",
+    "domain": "neuronascent.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "new-horizons-diagnostics": {
+    "slug": "new-horizons-diagnostics",
+    "name": "New Horizons Diagnostics",
+    "domain": "nhdiag.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "newzen-pharma": {
+    "slug": "newzen-pharma",
+    "name": "Newzen Pharma",
+    "domain": "newzenpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "neximmune": {
+    "slug": "neximmune",
+    "name": "NexImmune",
+    "domain": "neximmune.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://neximmune.com/careers",
+    "checked_at": "2026-09-04T23:00:17+00:00"
+  },
+  "nextstep-robotics": {
+    "slug": "nextstep-robotics",
+    "name": "NextStep Robotics",
+    "domain": "nextsteprobo.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "nikang-therapeutics": {
+    "slug": "nikang-therapeutics",
+    "name": "NiKang Therapeutics",
+    "domain": "nikangtx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://nikangtx.com/careers",
+    "checked_at": "2026-09-04T23:00:29+00:00"
+  },
+  "nimmune-biopharma": {
+    "slug": "nimmune-biopharma",
+    "name": "NImmune Biopharma",
+    "domain": "nimmunebio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "nist": {
+    "slug": "nist",
+    "name": "NIST",
+    "domain": "nist.gov",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://nist.gov/careers",
+    "checked_at": "2026-09-04T23:00:31+00:00"
+  },
+  "nka-bio": {
+    "slug": "nka-bio",
+    "name": "NKA Bio",
+    "domain": "nkabio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "noble-life-sciences": {
+    "slug": "noble-life-sciences",
+    "name": "Noble Life Sciences",
+    "domain": "noblelifesci.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://noblelifesci.com/careers",
+    "checked_at": "2026-09-04T23:01:08+00:00"
+  },
+  "noblis": {
+    "slug": "noblis",
+    "name": "Noblis",
+    "domain": "noblis.org",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "northrop-grumman": {
+    "slug": "northrop-grumman",
+    "name": "Northrop Grumman",
+    "domain": "northropgrumman.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://northropgrumman.com/careers",
+    "checked_at": "2026-09-04T23:02:54+00:00"
+  },
+  "northwest-biotherapeutics": {
+    "slug": "northwest-biotherapeutics",
+    "name": "Northwest Biotherapeutics",
+    "domain": "nwbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "nostopharma": {
+    "slug": "nostopharma",
+    "name": "Nostopharma",
+    "domain": "nostopharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "notal-vision": {
+    "slug": "notal-vision",
+    "name": "Notal Vision",
+    "domain": "notalvision.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://notalvision.com/careers",
+    "checked_at": "2026-09-04T23:00:30+00:00"
+  },
+  "novadigm-consulting-group": {
+    "slug": "novadigm-consulting-group",
+    "name": "Novadigm Consulting Group",
+    "domain": "novadigmcg.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "novastep": {
+    "slug": "novastep",
+    "name": "Novastep",
+    "domain": "novastep.life",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://novastep.life/careers",
+    "checked_at": "2026-09-04T23:02:53+00:00"
+  },
+  "novavax": {
+    "slug": "novavax",
+    "name": "Novavax",
+    "domain": "novavax.com",
+    "source": "workday",
+    "token": "novavax|wd1|Careers",
+    "careers_url": "https://novavax.com/careers",
+    "checked_at": "2026-09-04T23:01:06+00:00"
+  },
+  "novel-microdevices": {
+    "slug": "novel-microdevices",
+    "name": "Novel Microdevices",
+    "domain": "noveldx.com",
+    "source": "bamboohr",
+    "token": "novelmicrodevices",
+    "careers_url": "https://noveldx.com#careers",
+    "checked_at": "2026-09-04T23:02:52+00:00"
+  },
+  "novilla-pharmaceuticals": {
+    "slug": "novilla-pharmaceuticals",
+    "name": "Novilla Pharmaceuticals",
+    "domain": "novilla.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "novonesis": {
+    "slug": "novonesis",
+    "name": "Novonesis",
+    "domain": "novonesis.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://novonesis.com/careers",
+    "checked_at": "2026-09-04T23:03:12+00:00"
+  },
+  "noxilizer": {
+    "slug": "noxilizer",
+    "name": "Noxilizer",
+    "domain": "noxilizer.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://noxilizer.com/careers",
+    "checked_at": "2026-09-04T23:03:00+00:00"
+  },
+  "nrx-pharmaceuticals": {
+    "slug": "nrx-pharmaceuticals",
+    "name": "NRx Pharmaceuticals",
+    "domain": "nrxpharma.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://nrxpharma.com/careers",
+    "checked_at": "2026-09-04T23:03:00+00:00"
+  },
+  "nurron-pharmaceuticals": {
+    "slug": "nurron-pharmaceuticals",
+    "name": "NurrOn Pharmaceuticals",
+    "domain": "nurronpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "oncoc4": {
+    "slug": "oncoc4",
+    "name": "OncoC4",
+    "domain": "oncoc4.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://oncoc4.com/careers",
+    "checked_at": "2026-09-04T23:02:57+00:00"
+  },
+  "oncovir": {
+    "slug": "oncovir",
+    "name": "Oncovir",
+    "domain": "oncovir.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "one-codex": {
+    "slug": "one-codex",
+    "name": "One Codex",
+    "domain": "onecodex.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://onecodex.com/careers",
+    "checked_at": "2026-09-04T23:02:55+00:00"
+  },
+  "optiscan-imaging": {
+    "slug": "optiscan-imaging",
+    "name": "Optiscan Imaging",
+    "domain": "optiscan.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://optiscan.com/careers",
+    "checked_at": "2026-09-04T23:02:59+00:00"
+  },
+  "orgenesis": {
+    "slug": "orgenesis",
+    "name": "Orgenesis",
+    "domain": "orgenesis.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://orgenesis.com/careers",
+    "checked_at": "2026-09-04T23:03:04+00:00"
+  },
+  "origene": {
+    "slug": "origene",
+    "name": "Origene",
+    "domain": "origene.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://origene.com/careers",
+    "checked_at": "2026-09-04T23:03:23+00:00"
+  },
+  "origent-data-sciences": {
+    "slug": "origent-data-sciences",
+    "name": "Origent Data Sciences",
+    "domain": "origent.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://origent.com/careers",
+    "checked_at": "2026-09-04T23:03:19+00:00"
+  },
+  "os-therapies": {
+    "slug": "os-therapies",
+    "name": "OS Therapies",
+    "domain": "ostherapies.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ospreybio": {
+    "slug": "ospreybio",
+    "name": "OspreyBio",
+    "domain": "ospreybio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "otolith-labs": {
+    "slug": "otolith-labs",
+    "name": "Otolith Labs",
+    "domain": "otolithlabs.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "otomagnetics": {
+    "slug": "otomagnetics",
+    "name": "Otomagnetics",
+    "domain": "otomagnetics.net",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://otomagnetics.net/about/careers",
+    "checked_at": "2026-09-04T23:03:03+00:00"
+  },
+  "otraces": {
+    "slug": "otraces",
+    "name": "OTraces",
+    "domain": "otraces.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "otsuka": {
+    "slug": "otsuka",
+    "name": "Otsuka",
+    "domain": "otsuka-us.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://otsuka-us.com/careers-our-culture",
+    "checked_at": "2026-09-04T23:03:04+00:00"
+  },
+  "owl-peak-technologies": {
+    "slug": "owl-peak-technologies",
+    "name": "Owl Peak Technologies",
+    "domain": "owlpeaklabs.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "parabon-nanolabs": {
+    "slug": "parabon-nanolabs",
+    "name": "Parabon Nanolabs",
+    "domain": "parabon-nanolabs.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://parabon-nanolabs.com/careers",
+    "checked_at": "2026-09-04T23:03:10+00:00"
+  },
+  "pari-respiratory": {
+    "slug": "pari-respiratory",
+    "name": "PARI Respiratory",
+    "domain": "pari.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "parsons": {
+    "slug": "parsons",
+    "name": "Parsons",
+    "domain": "parsons.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://parsons.com/careers",
+    "checked_at": "2026-09-04T23:03:18+00:00"
+  },
+  "pataigin": {
+    "slug": "pataigin",
+    "name": "Pataigin",
+    "domain": "pataigin.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "pep2tango-therapeutics": {
+    "slug": "pep2tango-therapeutics",
+    "name": "Pep2Tango Therapeutics",
+    "domain": "pep2tango.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "peraton": {
+    "slug": "peraton",
+    "name": "Peraton",
+    "domain": "peraton.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://peraton.com/careers",
+    "checked_at": "2026-09-04T23:03:18+00:00"
+  },
+  "pericor": {
+    "slug": "pericor",
+    "name": "PeriCor",
+    "domain": "pericorllc.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "personal-genome-diagnostics": {
+    "slug": "personal-genome-diagnostics",
+    "name": "Personal Genome Diagnostics",
+    "domain": "personalgenome.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://personalgenome.com/careers",
+    "checked_at": "2026-09-04T23:03:19+00:00"
+  },
+  "perthera": {
+    "slug": "perthera",
+    "name": "Perthera",
+    "domain": "perthera.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://perthera.com/careers",
+    "checked_at": "2026-09-04T23:03:21+00:00"
+  },
+  "pharmaceutics-international": {
+    "slug": "pharmaceutics-international",
+    "name": "Pharmaceutics International",
+    "domain": "pharm-int.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://pharm-int.com/careers",
+    "checked_at": "2026-09-04T23:03:30+00:00"
+  },
+  "pharmaron": {
+    "slug": "pharmaron",
+    "name": "Pharmaron",
+    "domain": "pharmaron.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://pharmaron.com/careers",
+    "checked_at": "2026-09-04T23:03:39+00:00"
+  },
+  "phlow": {
+    "slug": "phlow",
+    "name": "Phlow",
+    "domain": "phlow-usa.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://phlow-usa.com/careers",
+    "checked_at": "2026-09-04T23:03:38+00:00"
+  },
+  "pinion-immunotherapeutics": {
+    "slug": "pinion-immunotherapeutics",
+    "name": "Pinion Immunotherapeutics",
+    "domain": "pinionimt.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "pinney-associates": {
+    "slug": "pinney-associates",
+    "name": "Pinney Associates",
+    "domain": "pinneyassociates.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "polaris-genomics": {
+    "slug": "polaris-genomics",
+    "name": "Polaris Genomics",
+    "domain": "polarisgenomics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "poochon-proteomics-solutions": {
+    "slug": "poochon-proteomics-solutions",
+    "name": "Poochon Proteomics Solutions",
+    "domain": "poochonscientific.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://poochonscientific.com/careers",
+    "checked_at": "2026-09-04T23:03:35+00:00"
+  },
+  "precigen": {
+    "slug": "precigen",
+    "name": "Precigen",
+    "domain": "precigen.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://precigen.com/careers",
+    "checked_at": "2026-09-04T23:03:26+00:00"
+  },
+  "precisio-biotix-therapeutics": {
+    "slug": "precisio-biotix-therapeutics",
+    "name": "Precisio Biotix Therapeutics",
+    "domain": "precisiobiotix.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "precision-biologics": {
+    "slug": "precision-biologics",
+    "name": "Precision Biologics",
+    "domain": "precision-biologics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "precision-for-medicine": {
+    "slug": "precision-for-medicine",
+    "name": "Precision for Medicine",
+    "domain": "precisionformedicine.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "prelude-therapeutics": {
+    "slug": "prelude-therapeutics",
+    "name": "Prelude Therapeutics",
+    "domain": "preludetx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://preludetx.com/careers",
+    "checked_at": "2026-09-04T23:03:31+00:00"
+  },
+  "prompt-diagnostics": {
+    "slug": "prompt-diagnostics",
+    "name": "Prompt Diagnostics",
+    "domain": "prompt-dx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://prompt-dx.com/careers",
+    "checked_at": "2026-09-04T23:03:37+00:00"
+  },
+  "propharma-group": {
+    "slug": "propharma-group",
+    "name": "ProPharma Group",
+    "domain": "propharmagroup.com",
+    "source": "workday",
+    "token": "propharmagroup|wd1|ppgcareers",
+    "careers_url": "https://propharmagroup.com/careers",
+    "checked_at": "2026-09-04T23:03:37+00:00"
+  },
+  "protaryx-medical": {
+    "slug": "protaryx-medical",
+    "name": "Protaryx Medical",
+    "domain": "protaryx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "psnresearch": {
+    "slug": "psnresearch",
+    "name": "PSNResearch",
+    "domain": "psnresearch.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://psnresearch.com/careers",
+    "checked_at": "2026-09-04T23:03:41+00:00"
+  },
+  "psomagen": {
+    "slug": "psomagen",
+    "name": "Psomagen",
+    "domain": "psomagen.com",
+    "source": "rippling",
+    "token": "psomagen",
+    "careers_url": "https://psomagen.com/careers",
+    "checked_at": "2026-09-04T23:03:39+00:00"
+  },
+  "qbench": {
+    "slug": "qbench",
+    "name": "QBench",
+    "domain": "qbench.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://qbench.com/careers",
+    "checked_at": "2026-09-04T23:03:39+00:00"
+  },
+  "qiagen": {
+    "slug": "qiagen",
+    "name": "Qiagen",
+    "domain": "qiagen.com",
+    "source": "workday",
+    "token": "qiagen|wd502|QIAGEN",
+    "careers_url": "https://qiagen.com/us/careers",
+    "checked_at": "2026-09-04T23:03:42+00:00"
+  },
+  "qnova-lifesciences": {
+    "slug": "qnova-lifesciences",
+    "name": "Qnova LifeSciences",
+    "domain": "qnovals.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://qnovals.com/careers",
+    "checked_at": "2026-09-04T23:03:45+00:00"
+  },
+  "qnovia": {
+    "slug": "qnovia",
+    "name": "Qnovia",
+    "domain": "qnovia.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://qnovia.com/careers",
+    "checked_at": "2026-09-04T23:03:40+00:00"
+  },
+  "quality-agents-llc": {
+    "slug": "quality-agents-llc",
+    "name": "Quality Agents LLC",
+    "domain": "qagents.org",
+    "source": "bamboohr",
+    "token": "qualityagents",
+    "careers_url": "https://qagents.org#brave_open_popup_755",
+    "checked_at": "2026-09-04T23:03:42+00:00"
+  },
+  "quality-biological": {
+    "slug": "quality-biological",
+    "name": "Quality Biological",
+    "domain": "qualitybiological.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "quoin-pharmaceuticals": {
+    "slug": "quoin-pharmaceuticals",
+    "name": "Quoin Pharmaceuticals",
+    "domain": "quoinpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "rand-corporation": {
+    "slug": "rand-corporation",
+    "name": "RAND Corporation",
+    "domain": "rand.org",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "rapafusyn-pharmaceuticals": {
+    "slug": "rapafusyn-pharmaceuticals",
+    "name": "RapaFusyn Pharmaceuticals",
+    "domain": "rapafusyn.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "raremoon-consulting": {
+    "slug": "raremoon-consulting",
+    "name": "RareMoon Consulting",
+    "domain": "raremoonconsulting.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "ravgen": {
+    "slug": "ravgen",
+    "name": "Ravgen",
+    "domain": "ravgen.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "realta-life-sciences": {
+    "slug": "realta-life-sciences",
+    "name": "ReAlta Life Sciences",
+    "domain": "realtalifesciences.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://realtalifesciences.com/careers",
+    "checked_at": "2026-09-04T23:03:50+00:00"
+  },
+  "regeltec": {
+    "slug": "regeltec",
+    "name": "ReGelTec",
+    "domain": "regeltec.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "regenerx-biopharmaceuticals": {
+    "slug": "regenerx-biopharmaceuticals",
+    "name": "RegeneRx Biopharmaceuticals",
+    "domain": "regenerx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "regenx-biosciences": {
+    "slug": "regenx-biosciences",
+    "name": "ReGenX Biosciences",
+    "domain": "regenxbio.com",
+    "source": "lever",
+    "token": "regenxbio",
+    "careers_url": "https://regenxbio.com/culture-careers/",
+    "checked_at": "2026-09-04T23:03:45+00:00"
+  },
+  "rejuve-therapeutics": {
+    "slug": "rejuve-therapeutics",
+    "name": "Rejuve Therapeutics",
+    "domain": "rejuvetx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://rejuvetx.com/careers",
+    "checked_at": "2026-09-04T23:03:52+00:00"
+  },
+  "remedy-plan-therapeutics": {
+    "slug": "remedy-plan-therapeutics",
+    "name": "Remedy Plan Therapeutics",
+    "domain": "remedyplan.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://remedyplan.com/careers",
+    "checked_at": "2026-09-04T23:03:53+00:00"
+  },
+  "response-pharmaceuticals": {
+    "slug": "response-pharmaceuticals",
+    "name": "Response Pharmaceuticals",
+    "domain": "responsepharmaceuticals.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://responsepharmaceuticals.com/about/careers",
+    "checked_at": "2026-09-04T23:03:57+00:00"
+  },
+  "restorative-therapies": {
+    "slug": "restorative-therapies",
+    "name": "Restorative Therapies",
+    "domain": "restorative-therapies.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://restorative-therapies.com/careers",
+    "checked_at": "2026-09-04T23:03:55+00:00"
+  },
+  "retension-pharmaceuticals": {
+    "slug": "retension-pharmaceuticals",
+    "name": "Retension Pharmaceuticals",
+    "domain": "retensionpharmaceuticals.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://retensionpharmaceuticals.com/careers",
+    "checked_at": "2026-09-04T23:04:05+00:00"
+  },
+  "retivue": {
+    "slug": "retivue",
+    "name": "RetiVue",
+    "domain": "retivue.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "reveragen-biopharma": {
+    "slug": "reveragen-biopharma",
+    "name": "ReveraGen BioPharma",
+    "domain": "reveragen.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "rise-therapeutics": {
+    "slug": "rise-therapeutics",
+    "name": "Rise Therapeutics",
+    "domain": "risetherapeutics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://risetherapeutics.com/about-us/news",
+    "checked_at": "2026-09-04T23:03:57+00:00"
+  },
+  "rithem-life-sciences": {
+    "slug": "rithem-life-sciences",
+    "name": "Rithem Life Sciences",
+    "domain": "rithemls.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "rithim-biologics": {
+    "slug": "rithim-biologics",
+    "name": "Rithim Biologics",
+    "domain": "rithimbiologics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "rivanna-medical": {
+    "slug": "rivanna-medical",
+    "name": "Rivanna Medical",
+    "domain": "rivannamedical.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://rivannamedical.com/careers",
+    "checked_at": "2026-09-04T23:04:09+00:00"
+  },
+  "rivus-pharmaceuticals": {
+    "slug": "rivus-pharmaceuticals",
+    "name": "Rivus Pharmaceuticals",
+    "domain": "rivuspharma.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://rivuspharma.com/careers",
+    "checked_at": "2026-09-04T23:03:59+00:00"
+  },
+  "rnaimmune": {
+    "slug": "rnaimmune",
+    "name": "RNAimmune",
+    "domain": "rnaimmune.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "roosterbio": {
+    "slug": "roosterbio",
+    "name": "RoosterBio",
+    "domain": "roosterbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "royer-biomedical": {
+    "slug": "royer-biomedical",
+    "name": "Royer Biomedical",
+    "domain": "royerbiomedical.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "rs-biotherapeutics": {
+    "slug": "rs-biotherapeutics",
+    "name": "RS BioTherapeutics",
+    "domain": "rsbiotherapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "saic": {
+    "slug": "saic",
+    "name": "SAIC",
+    "domain": "saic.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "salubris-biotherapeutics": {
+    "slug": "salubris-biotherapeutics",
+    "name": "Salubris Biotherapeutics",
+    "domain": "salubrisbio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://salubrisbio.com/opportunity",
+    "checked_at": "2026-09-04T23:04:07+00:00"
+  },
+  "sanaria": {
+    "slug": "sanaria",
+    "name": "Sanaria",
+    "domain": "sanaria.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://sanaria.com/careers",
+    "checked_at": "2026-09-04T23:04:08+00:00"
+  },
+  "sapio-sciences": {
+    "slug": "sapio-sciences",
+    "name": "Sapio Sciences",
+    "domain": "sapiosciences.com",
+    "source": "lever",
+    "token": "sapiosciences",
+    "careers_url": "https://sapiosciences.com/careers",
+    "checked_at": "2026-09-04T23:04:07+00:00"
+  },
+  "sarfez-pharmaceuticals": {
+    "slug": "sarfez-pharmaceuticals",
+    "name": "Sarfez Pharmaceuticals",
+    "domain": "sarfez.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "scanogen": {
+    "slug": "scanogen",
+    "name": "Scanogen",
+    "domain": "scanogen.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://scanogen.com/scanogenCareers.html",
+    "checked_at": "2026-09-04T23:04:07+00:00"
+  },
+  "scilucent": {
+    "slug": "scilucent",
+    "name": "Scilucent",
+    "domain": "scilucent.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "sdix": {
+    "slug": "sdix",
+    "name": "SDIX",
+    "domain": "sdix.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://sdix.com/careers",
+    "checked_at": "2026-09-04T23:04:17+00:00"
+  },
+  "senseonics": {
+    "slug": "senseonics",
+    "name": "Senseonics",
+    "domain": "senseonics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://senseonics.com/careers",
+    "checked_at": "2026-09-04T23:04:12+00:00"
+  },
+  "senvok-medical": {
+    "slug": "senvok-medical",
+    "name": "Senvok Medical",
+    "domain": "senvok.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "seracare-life-sciences": {
+    "slug": "seracare-life-sciences",
+    "name": "Seracare Life Sciences",
+    "domain": "seracare.com",
+    "source": "smartrecruiters",
+    "token": "LGCGroup",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:04:09+00:00"
+  },
+  "seraxis": {
+    "slug": "seraxis",
+    "name": "Seraxis",
+    "domain": "seraxis.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://seraxis.com/careers",
+    "checked_at": "2026-09-04T23:04:12+00:00"
+  },
+  "serpin-pharma": {
+    "slug": "serpin-pharma",
+    "name": "Serpin Pharma",
+    "domain": "serpinpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "seven-star-pharmaceutical": {
+    "slug": "seven-star-pharmaceutical",
+    "name": "Seven Star Pharmaceutical",
+    "domain": "sevenstarpharm.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "sigmovir-biosystems": {
+    "slug": "sigmovir-biosystems",
+    "name": "Sigmovir Biosystems",
+    "domain": "sigmovir.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "silcsbio": {
+    "slug": "silcsbio",
+    "name": "SilcsBio",
+    "domain": "silcsbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "sirnaomics": {
+    "slug": "sirnaomics",
+    "name": "Sirnaomics",
+    "domain": "sirnaomics.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://sirnaomics.com/en/careers/",
+    "checked_at": "2026-09-04T23:04:17+00:00"
+  },
+  "siscapa-assay-technologies": {
+    "slug": "siscapa-assay-technologies",
+    "name": "SISCAPA Assay Technologies",
+    "domain": "siscapa.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "sixty-degrees-pharmaceuticals": {
+    "slug": "sixty-degrees-pharmaceuticals",
+    "name": "Sixty Degrees Pharmaceuticals",
+    "domain": "60degreespharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "slate-bio": {
+    "slug": "slate-bio",
+    "name": "Slate Bio",
+    "domain": "slatebio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "slope-clinical": {
+    "slug": "slope-clinical",
+    "name": "Slope Clinical",
+    "domain": "slopeclinical.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://slopeclinical.com/careers",
+    "checked_at": "2026-09-04T23:04:17+00:00"
+  },
+  "smooth-drug-development": {
+    "slug": "smooth-drug-development",
+    "name": "Smooth Drug Development",
+    "domain": "smoothdd.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://smoothdd.com/jobs",
+    "checked_at": "2026-09-04T23:04:20+00:00"
+  },
+  "sobran": {
+    "slug": "sobran",
+    "name": "SoBran",
+    "domain": "sobran-inc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://sobran-inc.com/careers",
+    "checked_at": "2026-09-04T23:04:19+00:00"
+  },
+  "sofie": {
+    "slug": "sofie",
+    "name": "Sofie",
+    "domain": "sofie.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://sofie.com/careers",
+    "checked_at": "2026-09-04T23:04:32+00:00"
+  },
+  "sonavex": {
+    "slug": "sonavex",
+    "name": "Sonavex",
+    "domain": "sonavex.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://sonavex.com/careers",
+    "checked_at": "2026-09-04T23:04:26+00:00"
+  },
+  "sonavi-labs": {
+    "slug": "sonavi-labs",
+    "name": "Sonavi Labs",
+    "domain": "sonavilabs.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "sonogen-medical": {
+    "slug": "sonogen-medical",
+    "name": "Sonogen Medical",
+    "domain": "sonogenmed.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "speed-biosystems": {
+    "slug": "speed-biosystems",
+    "name": "SPEED BioSystems",
+    "domain": "speedbiosystems.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "stagebio": {
+    "slug": "stagebio",
+    "name": "StageBio",
+    "domain": "stagebio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "supernus-pharmaceuticals": {
+    "slug": "supernus-pharmaceuticals",
+    "name": "Supernus Pharmaceuticals",
+    "domain": "supernus.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://supernus.com/careers",
+    "checked_at": "2026-09-04T23:04:23+00:00"
+  },
+  "synaps-dx": {
+    "slug": "synaps-dx",
+    "name": "SYNAPS Dx",
+    "domain": "synapsdx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "synnovation-therapeutics": {
+    "slug": "synnovation-therapeutics",
+    "name": "Synnovation Therapeutics",
+    "domain": "synnovationtx.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://synnovationtx.com/careers",
+    "checked_at": "2026-09-04T23:04:28+00:00"
+  },
+  "synthonics": {
+    "slug": "synthonics",
+    "name": "Synthonics",
+    "domain": "synthonicsinc.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://synthonicsinc.com/careers",
+    "checked_at": "2026-09-04T23:04:26+00:00"
+  },
+  "systaaq-diagnostic-products": {
+    "slug": "systaaq-diagnostic-products",
+    "name": "Systaaq Diagnostic Products",
+    "domain": "systaaq.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "t-rowe-price": {
+    "slug": "t-rowe-price",
+    "name": "T. Rowe Price",
+    "domain": "troweprice.com",
+    "source": "workday",
+    "token": "troweprice|wd5|TRowePrice",
+    "careers_url": "https://troweprice.com/careers",
+    "checked_at": "2026-09-04T23:04:26+00:00"
+  },
+  "tachmed": {
+    "slug": "tachmed",
+    "name": "Tachmed",
+    "domain": "tachmed.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "tasly-pharmaceutical": {
+    "slug": "tasly-pharmaceutical",
+    "name": "Tasly Pharmaceutical",
+    "domain": "taslyus.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "teamedon": {
+    "slug": "teamedon",
+    "name": "TeamedOn",
+    "domain": "teamedon.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "tearsolutions": {
+    "slug": "tearsolutions",
+    "name": "TearSolutions",
+    "domain": "tearsolutions.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "techlab": {
+    "slug": "techlab",
+    "name": "TechLab",
+    "domain": "techlab.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "tern-therapeutics": {
+    "slug": "tern-therapeutics",
+    "name": "Tern Therapeutics",
+    "domain": "terntx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "terumo-medical": {
+    "slug": "terumo-medical",
+    "name": "Terumo Medical",
+    "domain": "terumomedical.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://terumomedical.com/careers",
+    "checked_at": "2026-09-04T23:04:31+00:00"
+  },
+  "tetracore": {
+    "slug": "tetracore",
+    "name": "Tetracore",
+    "domain": "tetracore.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "texcell": {
+    "slug": "texcell",
+    "name": "Texcell",
+    "domain": "texcell.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "theradaptive": {
+    "slug": "theradaptive",
+    "name": "Theradaptive",
+    "domain": "theradaptive.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://theradaptive.com/careers",
+    "checked_at": "2026-09-04T23:04:37+00:00"
+  },
+  "theriva-biologics": {
+    "slug": "theriva-biologics",
+    "name": "Theriva Biologics",
+    "domain": "therivabio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://therivabio.com/careers",
+    "checked_at": "2026-09-04T23:04:37+00:00"
+  },
+  "thermo-fisher": {
+    "slug": "thermo-fisher",
+    "name": "Thermo Fisher",
+    "domain": "thermofisher.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://thermofisher.com/careers",
+    "checked_at": "2026-09-04T23:04:40+00:00"
+  },
+  "tnf-pharmaceuticals": {
+    "slug": "tnf-pharmaceuticals",
+    "name": "TNF Pharmaceuticals",
+    "domain": "tnfpharma.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "tonix-pharmaceuticals": {
+    "slug": "tonix-pharmaceuticals",
+    "name": "Tonix Pharmaceuticals",
+    "domain": "tonixpharma.com",
+    "source": "greenhouse",
+    "token": "tonixpharmaceuticals",
+    "careers_url": "https://tonixpharma.com/careers",
+    "checked_at": "2026-09-04T23:04:53+00:00"
+  },
+  "topalliance-biosciences": {
+    "slug": "topalliance-biosciences",
+    "name": "TopAlliance Biosciences",
+    "domain": "topalliancebio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://topalliancebio.com/careers",
+    "checked_at": "2026-09-04T23:05:26+00:00"
+  },
+  "trimgen": {
+    "slug": "trimgen",
+    "name": "TrimGen",
+    "domain": "trimgen.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "twine-therapeutics": {
+    "slug": "twine-therapeutics",
+    "name": "Twine Therapeutics",
+    "domain": "twinetx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "two-six-technologies": {
+    "slug": "two-six-technologies",
+    "name": "Two Six Technologies",
+    "domain": "twosixtech.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://twosixtech.com/careers",
+    "checked_at": "2026-09-04T23:05:12+00:00"
+  },
+  "tympanogen": {
+    "slug": "tympanogen",
+    "name": "Tympanogen",
+    "domain": "tympanogen.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://tympanogen.com/careers",
+    "checked_at": "2026-09-04T23:04:56+00:00"
+  },
+  "ubrigene": {
+    "slug": "ubrigene",
+    "name": "uBriGene",
+    "domain": "ubrigene.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://ubrigene.com/careers",
+    "checked_at": "2026-09-04T23:05:15+00:00"
+  },
+  "uma-instruments": {
+    "slug": "uma-instruments",
+    "name": "UMA Instruments",
+    "domain": "umainstruments.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "umbc": {
+    "slug": "umbc",
+    "name": "UMBC",
+    "domain": "umbc.edu",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://umbc.edu/careers",
+    "checked_at": "2026-09-04T23:05:00+00:00"
+  },
+  "under-armour": {
+    "slug": "under-armour",
+    "name": "Under Armour",
+    "domain": "underarmour.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "united-therapeutics": {
+    "slug": "united-therapeutics",
+    "name": "United Therapeutics",
+    "domain": "unither.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://unither.com/careers",
+    "checked_at": "2026-09-04T23:05:13+00:00"
+  },
+  "university-of-maryland": {
+    "slug": "university-of-maryland",
+    "name": "University of Maryland",
+    "domain": "umd.edu",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "university-of-maryland-baltimore": {
+    "slug": "university-of-maryland-baltimore",
+    "name": "University of Maryland Baltimore",
+    "domain": "umaryland.edu",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://umaryland.edu/jobs/",
+    "checked_at": "2026-09-04T23:05:18+00:00"
+  },
+  "us-biolab": {
+    "slug": "us-biolab",
+    "name": "US Biolab",
+    "domain": "usbiolab.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "us-medical-innovations": {
+    "slug": "us-medical-innovations",
+    "name": "US Medical Innovations",
+    "domain": "usmedinnovations.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://usmedinnovations.com/careers",
+    "checked_at": "2026-09-04T23:05:24+00:00"
+  },
+  "uvax-bio": {
+    "slug": "uvax-bio",
+    "name": "Uvax Bio",
+    "domain": "uvaxbio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://uvaxbio.com/careers",
+    "checked_at": "2026-09-04T23:05:21+00:00"
+  },
+  "validation-associates": {
+    "slug": "validation-associates",
+    "name": "Validation Associates",
+    "domain": "validationassociates.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://validationassociates.com/careers",
+    "checked_at": "2026-09-04T23:05:19+00:00"
+  },
+  "valneva": {
+    "slug": "valneva",
+    "name": "Valneva",
+    "domain": "valneva.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://valneva.com/careers",
+    "checked_at": "2026-09-04T23:05:26+00:00"
+  },
+  "valogic-bio": {
+    "slug": "valogic-bio",
+    "name": "Valogic Bio",
+    "domain": "valogicbio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://valogicbio.com/careers",
+    "checked_at": "2026-09-04T23:05:26+00:00"
+  },
+  "valtedseq": {
+    "slug": "valtedseq",
+    "name": "ValtedSeq",
+    "domain": "valtedseq.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://valtedseq.com/careers",
+    "checked_at": "2026-09-04T23:05:25+00:00"
+  },
+  "vanda-pharmaceuticals": {
+    "slug": "vanda-pharmaceuticals",
+    "name": "Vanda Pharmaceuticals",
+    "domain": "vandapharma.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://vandapharma.com/careers",
+    "checked_at": "2026-09-04T23:05:23+00:00"
+  },
+  "vasoptic-medical": {
+    "slug": "vasoptic-medical",
+    "name": "Vasoptic Medical",
+    "domain": "vasoptic.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://vasoptic.com/careers",
+    "checked_at": "2026-09-04T23:05:33+00:00"
+  },
+  "vb-spine": {
+    "slug": "vb-spine",
+    "name": "VB Spine",
+    "domain": "vbspineco.com",
+    "source": "rippling",
+    "token": "vbspineco",
+    "careers_url": "https://vbspineco.com/careers",
+    "checked_at": "2026-09-04T23:05:30+00:00"
+  },
+  "vector-biomed": {
+    "slug": "vector-biomed",
+    "name": "Vector BioMed",
+    "domain": "vectorbiomed.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "venebio": {
+    "slug": "venebio",
+    "name": "Venebio",
+    "domain": "venebio.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://venebio.com/careers",
+    "checked_at": "2026-09-04T23:05:29+00:00"
+  },
+  "verachem": {
+    "slug": "verachem",
+    "name": "VeraChem",
+    "domain": "verachem.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "verimmune": {
+    "slug": "verimmune",
+    "name": "VerImmune",
+    "domain": "verimmune.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "verisign": {
+    "slug": "verisign",
+    "name": "Verisign",
+    "domain": "verisign.com",
+    "source": "greenhouse",
+    "token": "verisign",
+    "careers_url": "https://verisign.com/careers",
+    "checked_at": "2026-09-04T23:05:31+00:00"
+  },
+  "vici-health-sciences": {
+    "slug": "vici-health-sciences",
+    "name": "Vici Health Sciences",
+    "domain": "vicihealthsciences.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://vicihealthsciences.com/careers",
+    "checked_at": "2026-09-04T23:05:36+00:00"
+  },
+  "virant-diagnostics": {
+    "slug": "virant-diagnostics",
+    "name": "Virant Diagnostics",
+    "domain": "virantdx.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "viriom": {
+    "slug": "viriom",
+    "name": "Viriom",
+    "domain": "viriom.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "virongy": {
+    "slug": "virongy",
+    "name": "Virongy",
+    "domain": "virongy.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "vlp-therapeutics": {
+    "slug": "vlp-therapeutics",
+    "name": "VLP Therapeutics",
+    "domain": "vlptherapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "vulcan-bioworks": {
+    "slug": "vulcan-bioworks",
+    "name": "Vulcan Bioworks",
+    "domain": "vulcanbioworks.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "westat": {
+    "slug": "westat",
+    "name": "Westat",
+    "domain": "westat.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://westat.com/careers",
+    "checked_at": "2026-09-04T23:05:42+00:00"
+  },
+  "wilmington-pharmatech": {
+    "slug": "wilmington-pharmatech",
+    "name": "Wilmington PharmaTech",
+    "domain": "wilmingtonpharmatech.com",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://wilmingtonpharmatech.com/careers",
+    "checked_at": "2026-09-04T23:05:39+00:00"
+  },
+  "xcellon-biologics": {
+    "slug": "xcellon-biologics",
+    "name": "Xcellon Biologics",
+    "domain": "xcellon.bio",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://xcellon.bio/careers",
+    "checked_at": "2026-09-04T23:05:44+00:00"
+  },
+  "xpressbio": {
+    "slug": "xpressbio",
+    "name": "XpressBio",
+    "domain": "xpressbio.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "zephyr-ai": {
+    "slug": "zephyr-ai",
+    "name": "Zephyr AI",
+    "domain": "zephyrai.bio",
+    "source": "html",
+    "token": "",
+    "careers_url": "https://zephyrai.bio/careers",
+    "checked_at": "2026-09-04T23:05:43+00:00"
+  },
+  "zero-point-five-therapeutics": {
+    "slug": "zero-point-five-therapeutics",
+    "name": "Zero Point Five Therapeutics",
+    "domain": "zeropointfivetherapeutics.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  },
+  "zeteo-tech": {
+    "slug": "zeteo-tech",
+    "name": "Zeteo Tech",
+    "domain": "zeteotech.com",
+    "source": "none",
+    "token": "",
+    "careers_url": "",
+    "checked_at": "2026-09-04T23:11:01+00:00"
+  }
+}

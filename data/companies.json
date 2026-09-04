@@ -1,0 +1,4511 @@
+[
+  {
+    "name": "20/20 BioLabs",
+    "domain": "2020biolabs.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "20-20-biolabs"
+  },
+  {
+    "name": "3CPM",
+    "domain": "3cpm.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "3cpm"
+  },
+  {
+    "name": "AAVnerGene",
+    "domain": "aavnergene.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aavnergene"
+  },
+  {
+    "name": "AAVogen",
+    "domain": "aavogen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aavogen"
+  },
+  {
+    "name": "AB DigiHealth",
+    "domain": "abdigihealth.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ab-digihealth"
+  },
+  {
+    "name": "Abbott",
+    "domain": "abbott.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "abbott"
+  },
+  {
+    "name": "AbelZeta Pharma",
+    "domain": "abelzeta.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "abelzeta-pharma"
+  },
+  {
+    "name": "Aber Instruments",
+    "domain": "aberinstruments.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aber-instruments"
+  },
+  {
+    "name": "ABS Bio",
+    "domain": "absbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "abs-bio"
+  },
+  {
+    "name": "AbVacc",
+    "domain": "abvacc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "abvacc"
+  },
+  {
+    "name": "Accelevir Diagnostics",
+    "domain": "accelevirdx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "accelevir-diagnostics"
+  },
+  {
+    "name": "Accell Clinical Research",
+    "domain": "accellclinical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "accell-clinical-research"
+  },
+  {
+    "name": "Accuflow Systems",
+    "domain": "accuflowsystems.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "accuflow-systems"
+  },
+  {
+    "name": "Aclairo Pharma Dev. Group",
+    "domain": "aclairo.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aclairo-pharma-dev-group"
+  },
+  {
+    "name": "Acomhal Research",
+    "domain": "acomhal.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "acomhal-research"
+  },
+  {
+    "name": "ACRO Clinical",
+    "domain": "acroclinical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "acro-clinical"
+  },
+  {
+    "name": "ACROBiosystems",
+    "domain": "acrobiosystems.com.cn",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "acrobiosystems"
+  },
+  {
+    "name": "Acumen Pharmaceuticals",
+    "domain": "acumenpharm.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "acumen-pharmaceuticals"
+  },
+  {
+    "name": "Addimmune",
+    "domain": "addimmune.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "addimmune"
+  },
+  {
+    "name": "Adesis",
+    "domain": "adesisinc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "adesis"
+  },
+  {
+    "name": "Adial Pharmaceuticals",
+    "domain": "adial.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "adial-pharmaceuticals"
+  },
+  {
+    "name": "Adjuvant Partners",
+    "domain": "adjuvant.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "adjuvant-partners"
+  },
+  {
+    "name": "Adovate",
+    "domain": "adovate.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "adovate"
+  },
+  {
+    "name": "Advanced BioScience Labs",
+    "domain": "ablinc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "advanced-bioscience-labs"
+  },
+  {
+    "name": "Advarra",
+    "domain": "advarra.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "advarra"
+  },
+  {
+    "name": "Affinity Molecules",
+    "domain": "affymol.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "affinity-molecules"
+  },
+  {
+    "name": "Afton Scientific",
+    "domain": "aftonscientific.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "afton-scientific"
+  },
+  {
+    "name": "AGED Diagnostics",
+    "domain": "ageddiagnostics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aged-diagnostics"
+  },
+  {
+    "name": "AgeneBio",
+    "domain": "agenebio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "agenebio"
+  },
+  {
+    "name": "AgNovos Bioscience",
+    "domain": "agnovos.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "agnovos-bioscience"
+  },
+  {
+    "name": "Akan Biosciences",
+    "domain": "akanbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "akan-biosciences"
+  },
+  {
+    "name": "Akonni Biosystems",
+    "domain": "akonni.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "akonni-biosystems"
+  },
+  {
+    "name": "AkriVita",
+    "domain": "akrivita.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "akrivita"
+  },
+  {
+    "name": "Akshar Global Clinical Research",
+    "domain": "agcro.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "akshar-global-clinical-research"
+  },
+  {
+    "name": "Akyso Therapeutics",
+    "domain": "akyso.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "akyso-therapeutics"
+  },
+  {
+    "name": "Alaw Therapeutics",
+    "domain": "alawtx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "alaw-therapeutics"
+  },
+  {
+    "name": "Aledade",
+    "domain": "aledade.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "Value-based care analytics",
+    "tier": "major_employer",
+    "slug": "aledade"
+  },
+  {
+    "name": "Aletira Therapeutics",
+    "domain": "aletiratherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aletira-therapeutics"
+  },
+  {
+    "name": "Aloe Therapeutics",
+    "domain": "aloetherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aloe-therapeutics"
+  },
+  {
+    "name": "Alphyn Biologics",
+    "domain": "alphynbiologics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "alphyn-biologics"
+  },
+  {
+    "name": "ALR Technologies",
+    "domain": "alrt.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "alr-technologies"
+  },
+  {
+    "name": "Altamira Therapeutics",
+    "domain": "altamiratx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "altamira-therapeutics"
+  },
+  {
+    "name": "Altimmune",
+    "domain": "altimmune.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "altimmune"
+  },
+  {
+    "name": "Altoida",
+    "domain": "altoida.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "altoida"
+  },
+  {
+    "name": "Amador Bioscience",
+    "domain": "amadorbioscience.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "amador-bioscience"
+  },
+  {
+    "name": "Amarex Clinical Research",
+    "domain": "amarexcro.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "amarex-clinical-research"
+  },
+  {
+    "name": "Amazon / AWS",
+    "domain": "amazon.jobs",
+    "city": "Arlington",
+    "state": "VA",
+    "category": "HQ2; SDE and applied science internships",
+    "tier": "major_employer",
+    "slug": "amazon-aws"
+  },
+  {
+    "name": "Amentum",
+    "domain": "amentum.com",
+    "city": "Chantilly",
+    "state": "VA",
+    "category": "Engineering and technical services",
+    "tier": "major_employer",
+    "slug": "amentum"
+  },
+  {
+    "name": "American Gene Technologies",
+    "domain": "americangene.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "american-gene-technologies"
+  },
+  {
+    "name": "AMPEL BioSolutions",
+    "domain": "ampelbiosolutions.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ampel-biosolutions"
+  },
+  {
+    "name": "Amplexd Therapeutics",
+    "domain": "amplexd.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "amplexd-therapeutics"
+  },
+  {
+    "name": "Angimmune",
+    "domain": "angimmune.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "angimmune"
+  },
+  {
+    "name": "AniLocus",
+    "domain": "anilocus.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "anilocus"
+  },
+  {
+    "name": "ANP Technologies",
+    "domain": "anptinc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "anp-technologies"
+  },
+  {
+    "name": "Antidote Therapeutics",
+    "domain": "antidotetx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "antidote-therapeutics"
+  },
+  {
+    "name": "Aphena Pharma Solutions",
+    "domain": "aphenapharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aphena-pharma-solutions"
+  },
+  {
+    "name": "Appian",
+    "domain": "appian.com",
+    "city": "McLean",
+    "state": "VA",
+    "category": "Enterprise software",
+    "tier": "major_employer",
+    "slug": "appian"
+  },
+  {
+    "name": "Applied Insight",
+    "domain": "appliedinsight.com",
+    "city": "Tysons",
+    "state": "VA",
+    "category": "Cloud and data engineering for government",
+    "tier": "major_employer",
+    "slug": "applied-insight"
+  },
+  {
+    "name": "Arcadia",
+    "domain": "arcadia.io",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Healthcare data platform",
+    "tier": "major_employer",
+    "slug": "arcadia"
+  },
+  {
+    "name": "Arcascope",
+    "domain": "arcascope.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "arcascope"
+  },
+  {
+    "name": "Aretech",
+    "domain": "aretechllc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aretech"
+  },
+  {
+    "name": "Areterna",
+    "domain": "areterna.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "areterna"
+  },
+  {
+    "name": "Army Research Laboratory (DEVCOM)",
+    "domain": "arl.army.mil",
+    "city": "Adelphi",
+    "state": "MD",
+    "category": "AI/ML and biotechnology research; SEAP/CQL programs",
+    "tier": "research_institution",
+    "slug": "army-research-laboratory-devcom"
+  },
+  {
+    "name": "Arraystar",
+    "domain": "arraystar.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "arraystar"
+  },
+  {
+    "name": "Ascend Therapeutics",
+    "domain": "ascendtherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ascend-therapeutics"
+  },
+  {
+    "name": "Ascentage Pharma",
+    "domain": "ascentage.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ascentage-pharma"
+  },
+  {
+    "name": "AscentGene",
+    "domain": "ascentgene.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ascentgene"
+  },
+  {
+    "name": "Aseda Sciences",
+    "domain": "asedasciences.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aseda-sciences"
+  },
+  {
+    "name": "Asklepion Pharmaceuticals",
+    "domain": "asklepionpharm.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "asklepion-pharmaceuticals"
+  },
+  {
+    "name": "AssayGate",
+    "domain": "assaygate.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "assaygate"
+  },
+  {
+    "name": "Astek Diagnostics",
+    "domain": "astekdx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "astek-diagnostics"
+  },
+  {
+    "name": "AstraZeneca",
+    "domain": "astrazeneca.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "astrazeneca"
+  },
+  {
+    "name": "Atlantic Research Group",
+    "domain": "atlanticresearchgroup.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "atlantic-research-group"
+  },
+  {
+    "name": "Autonomous Therapeutics",
+    "domain": "autonomous.bio",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "autonomous-therapeutics"
+  },
+  {
+    "name": "Avant Genomics",
+    "domain": "avant-genomics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "avant-genomics"
+  },
+  {
+    "name": "Avobis Bio",
+    "domain": "avobisbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "avobis-bio"
+  },
+  {
+    "name": "Axplora",
+    "domain": "axplora.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "axplora"
+  },
+  {
+    "name": "Aztron Medtech",
+    "domain": "aztron-medtech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "aztron-medtech"
+  },
+  {
+    "name": "BAE Systems",
+    "domain": "baesystems.com",
+    "city": "Arlington",
+    "state": "VA",
+    "category": "Defense electronics",
+    "tier": "major_employer",
+    "slug": "bae-systems"
+  },
+  {
+    "name": "Barinthus Biotherapeutics",
+    "domain": "barinthusbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "barinthus-biotherapeutics"
+  },
+  {
+    "name": "Beaufort",
+    "domain": "beaufortcro.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "beaufort"
+  },
+  {
+    "name": "Becton Dickinson",
+    "domain": "bd.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "becton-dickinson"
+  },
+  {
+    "name": "BioArk Technologies",
+    "domain": "bioarktech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bioark-technologies"
+  },
+  {
+    "name": "Bioassay Works",
+    "domain": "bioassayworks.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bioassay-works"
+  },
+  {
+    "name": "BioFactura",
+    "domain": "biofactura.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "biofactura"
+  },
+  {
+    "name": "BioInnovatise",
+    "domain": "bioinnovatise.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bioinnovatise"
+  },
+  {
+    "name": "Biojo Sciences",
+    "domain": "biojosciences.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "biojo-sciences"
+  },
+  {
+    "name": "Biological Mimetics",
+    "domain": "biologicalmimetics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "biological-mimetics"
+  },
+  {
+    "name": "Biologics Consulting",
+    "domain": "biologicsconsulting.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "biologics-consulting"
+  },
+  {
+    "name": "Biomatik",
+    "domain": "biomatik.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "biomatik"
+  },
+  {
+    "name": "BioNanoTech",
+    "domain": "bionanotech.co",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bionanotech"
+  },
+  {
+    "name": "BioNTech",
+    "domain": "biontech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "biontech"
+  },
+  {
+    "name": "Bioprosthetics",
+    "domain": "bioprostheticscorp.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bioprosthetics"
+  },
+  {
+    "name": "Bioptamers",
+    "domain": "bioptamers.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bioptamers"
+  },
+  {
+    "name": "Bioqual",
+    "domain": "bioqual.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bioqual"
+  },
+  {
+    "name": "Biosolution Designs",
+    "domain": "biodzn.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "biosolution-designs"
+  },
+  {
+    "name": "Biovista",
+    "domain": "biovista.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "biovista"
+  },
+  {
+    "name": "BLA Regulatory",
+    "domain": "bla-regulatory.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bla-regulatory"
+  },
+  {
+    "name": "Black Canyon Bio",
+    "domain": "blackcanyonbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "black-canyon-bio"
+  },
+  {
+    "name": "BondTrue",
+    "domain": "bondtrue.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bondtrue"
+  },
+  {
+    "name": "Booz Allen Hamilton",
+    "domain": "boozallen.com",
+    "city": "McLean",
+    "state": "VA",
+    "category": "Consulting; AI/ML and data science practice",
+    "tier": "major_employer",
+    "slug": "booz-allen-hamilton"
+  },
+  {
+    "name": "Bora CDMO",
+    "domain": "boracdmo.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bora-cdmo"
+  },
+  {
+    "name": "BRAINBox Solutions",
+    "domain": "brainboxinc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "brainbox-solutions"
+  },
+  {
+    "name": "BrainScope",
+    "domain": "brainscope.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "brainscope"
+  },
+  {
+    "name": "Breathe Biologics",
+    "domain": "breathebiologics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "breathe-biologics"
+  },
+  {
+    "name": "Brenig Therapeutics",
+    "domain": "brenigther.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "brenig-therapeutics"
+  },
+  {
+    "name": "BrightSpec",
+    "domain": "brightspec.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "brightspec"
+  },
+  {
+    "name": "Britecyte",
+    "domain": "britecyte.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "britecyte"
+  },
+  {
+    "name": "Bullfrog AI",
+    "domain": "bullfrogai.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "bullfrog-ai"
+  },
+  {
+    "name": "CACI International",
+    "domain": "caci.com",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Defense technology and analytics",
+    "tier": "major_employer",
+    "slug": "caci-international"
+  },
+  {
+    "name": "Cadence Inc",
+    "domain": "cadenceinc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cadence-inc"
+  },
+  {
+    "name": "Capital One",
+    "domain": "capitalone.com",
+    "city": "McLean",
+    "state": "VA",
+    "category": "Tech internships; ML and data science",
+    "tier": "major_employer",
+    "slug": "capital-one"
+  },
+  {
+    "name": "CareFirst BlueCross BlueShield",
+    "domain": "carefirst.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Health insurer; data and analytics internships",
+    "tier": "major_employer",
+    "slug": "carefirst-bluecross-blueshield"
+  },
+  {
+    "name": "Cartesian Therapeutics",
+    "domain": "cartesiantherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cartesian-therapeutics"
+  },
+  {
+    "name": "Castor",
+    "domain": "castoredc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "castor"
+  },
+  {
+    "name": "CD Diagnostics",
+    "domain": "cddiagnostics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cd-diagnostics"
+  },
+  {
+    "name": "CDI Laboratories",
+    "domain": "cdilabs.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cdi-laboratories"
+  },
+  {
+    "name": "CEL-SCI",
+    "domain": "cel-sci.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cel-sci"
+  },
+  {
+    "name": "Celetrix Electroporation",
+    "domain": "celetrix.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "celetrix-electroporation"
+  },
+  {
+    "name": "Cellergy Pharma",
+    "domain": "cellergypharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cellergy-pharma"
+  },
+  {
+    "name": "Cellink",
+    "domain": "cellink.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cellink"
+  },
+  {
+    "name": "Cellomics Technology",
+    "domain": "cellomicstech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cellomics-technology"
+  },
+  {
+    "name": "Cellphire Therapeutics",
+    "domain": "cellphire.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cellphire-therapeutics"
+  },
+  {
+    "name": "Cepham Life Sciences",
+    "domain": "cephamls.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cepham-life-sciences"
+  },
+  {
+    "name": "Cerenome",
+    "domain": "cerenome.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cerenome"
+  },
+  {
+    "name": "Ceres Nanosciences",
+    "domain": "ceresnano.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ceres-nanosciences"
+  },
+  {
+    "name": "Cerium Pharmaceuticals",
+    "domain": "ceriumpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cerium-pharmaceuticals"
+  },
+  {
+    "name": "Charles River Laboratories",
+    "domain": "criver.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "charles-river-laboratories"
+  },
+  {
+    "name": "ChemPacific",
+    "domain": "chempacific.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "chempacific"
+  },
+  {
+    "name": "Children's National Hospital",
+    "domain": "childrensnational.org",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Pediatric research and medical imaging AI",
+    "tier": "research_institution",
+    "slug": "children-s-national-hospital"
+  },
+  {
+    "name": "ChiRhoClin",
+    "domain": "chirhoclin.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "chirhoclin"
+  },
+  {
+    "name": "Cipher Surgical",
+    "domain": "ciphersurgical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cipher-surgical"
+  },
+  {
+    "name": "CiVi Biopharma",
+    "domain": "civibio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "civi-biopharma"
+  },
+  {
+    "name": "Clasp Therapeutics",
+    "domain": "clasptx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "clasp-therapeutics"
+  },
+  {
+    "name": "Clear Guide Medical",
+    "domain": "clearguidemedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "clear-guide-medical"
+  },
+  {
+    "name": "Clene",
+    "domain": "clene.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "clene"
+  },
+  {
+    "name": "ClicBio",
+    "domain": "clicbiotech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "clicbio"
+  },
+  {
+    "name": "CloudLIMS",
+    "domain": "cloudlims.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cloudlims"
+  },
+  {
+    "name": "CLR Medical",
+    "domain": "clrmedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "clr-medical"
+  },
+  {
+    "name": "cmbio",
+    "domain": "cmbio.io",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cmbio"
+  },
+  {
+    "name": "CNA",
+    "domain": "cna.org",
+    "city": "Arlington",
+    "state": "VA",
+    "category": "Research and analysis; data science internships",
+    "tier": "research_institution",
+    "slug": "cna"
+  },
+  {
+    "name": "CNBX Pharmaceuticals",
+    "domain": "cnbxpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cnbx-pharmaceuticals"
+  },
+  {
+    "name": "CoapTech",
+    "domain": "coaptech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "coaptech"
+  },
+  {
+    "name": "Coeurative",
+    "domain": "coeurative.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "coeurative"
+  },
+  {
+    "name": "Confluent Medical Technologies",
+    "domain": "confluentmedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "confluent-medical-technologies"
+  },
+  {
+    "name": "Congruence Medical Solutions",
+    "domain": "congruencemedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "congruence-medical-solutions"
+  },
+  {
+    "name": "Continuum Clinical",
+    "domain": "continuumclinical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "continuum-clinical"
+  },
+  {
+    "name": "Contraline",
+    "domain": "contraline.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "contraline"
+  },
+  {
+    "name": "Core Vista Health",
+    "domain": "corehealth.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "core-vista-health"
+  },
+  {
+    "name": "Corellia AI",
+    "domain": "corellia.ai",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "corellia-ai"
+  },
+  {
+    "name": "CorriXR Therapeutics",
+    "domain": "corrixr.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "corrixr-therapeutics"
+  },
+  {
+    "name": "CorVista Health",
+    "domain": "corvista.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "corvista-health"
+  },
+  {
+    "name": "CraniUS Therapeutics",
+    "domain": "craniustherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cranius-therapeutics"
+  },
+  {
+    "name": "Creatv Bio",
+    "domain": "creatvbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "creatv-bio"
+  },
+  {
+    "name": "CrelioHealth",
+    "domain": "creliohealth.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "creliohealth"
+  },
+  {
+    "name": "CRScube",
+    "domain": "crscube.io",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "crscube"
+  },
+  {
+    "name": "Current Surgical",
+    "domain": "currentsurgical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "current-surgical"
+  },
+  {
+    "name": "Cvent",
+    "domain": "cvent.com",
+    "city": "Tysons",
+    "state": "VA",
+    "category": "Event technology software",
+    "tier": "major_employer",
+    "slug": "cvent"
+  },
+  {
+    "name": "CytoRecovery",
+    "domain": "cytorecovery.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "cytorecovery"
+  },
+  {
+    "name": "Danaher",
+    "domain": "danaher.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Life sciences and diagnostics conglomerate",
+    "tier": "major_employer",
+    "slug": "danaher"
+  },
+  {
+    "name": "Deka Biosciences",
+    "domain": "dekabiosciences.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "deka-biosciences"
+  },
+  {
+    "name": "Dermaliq Therapeutics",
+    "domain": "dermaliq.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "dermaliq-therapeutics"
+  },
+  {
+    "name": "Dexorgen",
+    "domain": "dexorgen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "dexorgen"
+  },
+  {
+    "name": "Diagnostic Biochips",
+    "domain": "diagnosticbiochips.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "diagnostic-biochips"
+  },
+  {
+    "name": "Dilon Technologies",
+    "domain": "dilon.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "dilon-technologies"
+  },
+  {
+    "name": "Diopter Technologies",
+    "domain": "diopterlabs.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "diopter-technologies"
+  },
+  {
+    "name": "DNA Analytics",
+    "domain": "dnaanalytics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "dna-analytics"
+  },
+  {
+    "name": "DP Clinical",
+    "domain": "dpclinical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "dp-clinical"
+  },
+  {
+    "name": "Dynex Technologies",
+    "domain": "dynextechnologies.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "dynex-technologies"
+  },
+  {
+    "name": "EDL inc",
+    "domain": "edl-inc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "edl-inc"
+  },
+  {
+    "name": "eEnzyme",
+    "domain": "eenzyme.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "eenzyme"
+  },
+  {
+    "name": "Eilean Therapeutics",
+    "domain": "eileanther.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "eilean-therapeutics"
+  },
+  {
+    "name": "EliteImmune",
+    "domain": "eliteimmune.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "eliteimmune"
+  },
+  {
+    "name": "Elixirgen Therapeutics",
+    "domain": "elixirgentx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "elixirgen-therapeutics"
+  },
+  {
+    "name": "Elutia",
+    "domain": "elutia.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "elutia"
+  },
+  {
+    "name": "Embody",
+    "domain": "embody-inc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "embody"
+  },
+  {
+    "name": "Emergent BioSolutions",
+    "domain": "emergentbiosolutions.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "emergent-biosolutions"
+  },
+  {
+    "name": "Eminent Services",
+    "domain": "emiserv.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "eminent-services"
+  },
+  {
+    "name": "Emmes",
+    "domain": "theemmesgroup.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "emmes"
+  },
+  {
+    "name": "Engineered BioPharmaceuticals",
+    "domain": "engbiopharm.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "engineered-biopharmaceuticals"
+  },
+  {
+    "name": "eQMS Consulting",
+    "domain": "eqmsconsultingllc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "eqms-consulting"
+  },
+  {
+    "name": "Essen Biotech",
+    "domain": "essen-biotech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "essen-biotech"
+  },
+  {
+    "name": "Euclid Systems",
+    "domain": "euclidlenses.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "euclid-systems"
+  },
+  {
+    "name": "Evergreen Therapeutics",
+    "domain": "egmedai.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "evergreen-therapeutics"
+  },
+  {
+    "name": "Evolyra Therapeutics",
+    "domain": "evolyratherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "evolyra-therapeutics"
+  },
+  {
+    "name": "EvON Medics",
+    "domain": "evonmedics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "evon-medics"
+  },
+  {
+    "name": "ExeGi Pharma",
+    "domain": "exegipharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "exegi-pharma"
+  },
+  {
+    "name": "Eyedea Medical",
+    "domain": "eyedeamedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "eyedea-medical"
+  },
+  {
+    "name": "EZ Biosystems",
+    "domain": "ezbiosystems.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ez-biosystems"
+  },
+  {
+    "name": "EzBiome",
+    "domain": "ezbiome.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ezbiome"
+  },
+  {
+    "name": "Fannie Mae",
+    "domain": "fanniemae.com",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Technology and analytics internships",
+    "tier": "major_employer",
+    "slug": "fannie-mae"
+  },
+  {
+    "name": "Fast-Track",
+    "domain": "fasttrackresearch.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "fast-track"
+  },
+  {
+    "name": "FDA",
+    "domain": "fda.gov",
+    "city": "Silver Spring",
+    "state": "MD",
+    "category": "Regulatory science, computational toxicology",
+    "tier": "research_institution",
+    "slug": "fda"
+  },
+  {
+    "name": "FiberCell Systems",
+    "domain": "fibercellsystems.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "fibercell-systems"
+  },
+  {
+    "name": "Fina Biosolutions",
+    "domain": "finabio.net",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "fina-biosolutions"
+  },
+  {
+    "name": "FireGate Biotech",
+    "domain": "firegatebiotech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "firegate-biotech"
+  },
+  {
+    "name": "Flavocure Biotech",
+    "domain": "flavocure.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "flavocure-biotech"
+  },
+  {
+    "name": "Foresee Pharmaceuticals",
+    "domain": "foreseepharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "foresee-pharmaceuticals"
+  },
+  {
+    "name": "Freddie Mac",
+    "domain": "freddiemac.com",
+    "city": "McLean",
+    "state": "VA",
+    "category": "Technology and modeling internships",
+    "tier": "major_employer",
+    "slug": "freddie-mac"
+  },
+  {
+    "name": "Fyodor Biotechnologies",
+    "domain": "fyodorbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "fyodor-biotechnologies"
+  },
+  {
+    "name": "Fzata",
+    "domain": "fzata.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "fzata"
+  },
+  {
+    "name": "G3 Therapeutics",
+    "domain": "g3therapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "g3-therapeutics"
+  },
+  {
+    "name": "Gene Universal",
+    "domain": "geneuniversal.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "gene-universal"
+  },
+  {
+    "name": "GeneCopoeia",
+    "domain": "genecopoeia.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "genecopoeia"
+  },
+  {
+    "name": "GeneDx",
+    "domain": "genedx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "genedx"
+  },
+  {
+    "name": "General Dynamics Information Technology",
+    "domain": "gdit.com",
+    "city": "Falls Church",
+    "state": "VA",
+    "category": "Government IT, health and biodefense programs",
+    "tier": "major_employer",
+    "slug": "general-dynamics-information-technology"
+  },
+  {
+    "name": "Genetworx",
+    "domain": "genetworx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "genetworx"
+  },
+  {
+    "name": "George Washington University",
+    "domain": "gwu.edu",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Campus research and student positions",
+    "tier": "research_institution",
+    "slug": "george-washington-university"
+  },
+  {
+    "name": "Georgetown University",
+    "domain": "georgetown.edu",
+    "city": "Washington",
+    "state": "DC",
+    "category": "Biomedical informatics and campus research",
+    "tier": "research_institution",
+    "slug": "georgetown-university"
+  },
+  {
+    "name": "Georgiamune",
+    "domain": "georgiamune.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "georgiamune"
+  },
+  {
+    "name": "Glen Research",
+    "domain": "glenresearch.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "glen-research"
+  },
+  {
+    "name": "Gliknik",
+    "domain": "gliknik.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "gliknik"
+  },
+  {
+    "name": "Glyscend Therapeutics",
+    "domain": "glyscend.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "glyscend-therapeutics"
+  },
+  {
+    "name": "Google",
+    "domain": "google.com",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Cloud and public sector engineering",
+    "tier": "major_employer",
+    "slug": "google"
+  },
+  {
+    "name": "gSpin Technologies",
+    "domain": "gspinmedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "gspin-technologies"
+  },
+  {
+    "name": "Harvest Moon Pharmaceuticals USA",
+    "domain": "harvestmoonpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "harvest-moon-pharmaceuticals-usa"
+  },
+  {
+    "name": "HBVtech",
+    "domain": "hbvtech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "hbvtech"
+  },
+  {
+    "name": "Hemagen Diagnostics",
+    "domain": "hemagen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "hemagen-diagnostics"
+  },
+  {
+    "name": "Hememics Biotechnologies",
+    "domain": "hememics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "hememics-biotechnologies"
+  },
+  {
+    "name": "HHMI Janelia Research Campus",
+    "domain": "janelia.org",
+    "city": "Ashburn",
+    "state": "VA",
+    "category": "Computational neuroscience and imaging research",
+    "tier": "research_institution",
+    "slug": "hhmi-janelia-research-campus"
+  },
+  {
+    "name": "HOHCells",
+    "domain": "hohcells.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "hohcells"
+  },
+  {
+    "name": "Hologic",
+    "domain": "hologic.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "hologic"
+  },
+  {
+    "name": "Hypoxygen",
+    "domain": "hypoxygen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "hypoxygen"
+  },
+  {
+    "name": "i-Cordis",
+    "domain": "i-cordis.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "i-cordis"
+  },
+  {
+    "name": "Ibex Biosciences",
+    "domain": "ibex.bio",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ibex-biosciences"
+  },
+  {
+    "name": "IBT Bioservices",
+    "domain": "ibtbioservices.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ibt-bioservices"
+  },
+  {
+    "name": "Icarus Medical",
+    "domain": "icarusmedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "icarus-medical"
+  },
+  {
+    "name": "iCE Neurosystems",
+    "domain": "iceneurosystems.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ice-neurosystems"
+  },
+  {
+    "name": "IGC Pharma",
+    "domain": "igcpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "igc-pharma"
+  },
+  {
+    "name": "Immudex",
+    "domain": "immudex.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "immudex"
+  },
+  {
+    "name": "Immunomic Therapeutics",
+    "domain": "immunomix.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "immunomic-therapeutics"
+  },
+  {
+    "name": "ImQuest BioSciences",
+    "domain": "imquestbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "imquest-biosciences"
+  },
+  {
+    "name": "Incogen",
+    "domain": "incogen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "incogen"
+  },
+  {
+    "name": "Incyte",
+    "domain": "incyte.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "incyte"
+  },
+  {
+    "name": "Indivior",
+    "domain": "indivior.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "indivior"
+  },
+  {
+    "name": "Indoor Biotechnologies",
+    "domain": "inbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "indoor-biotechnologies"
+  },
+  {
+    "name": "Infinity Bio",
+    "domain": "infinitybio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "infinity-bio"
+  },
+  {
+    "name": "Innovative Cellular Therapeutics",
+    "domain": "ictbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "innovative-cellular-therapeutics"
+  },
+  {
+    "name": "Inova Health System",
+    "domain": "inova.org",
+    "city": "Falls Church",
+    "state": "VA",
+    "category": "Health system; Schar Cancer Institute, genomics",
+    "tier": "major_employer",
+    "slug": "inova-health-system"
+  },
+  {
+    "name": "Institute for Defense Analyses",
+    "domain": "ida.org",
+    "city": "Alexandria",
+    "state": "VA",
+    "category": "FFRDC; quantitative analysis",
+    "tier": "research_institution",
+    "slug": "institute-for-defense-analyses"
+  },
+  {
+    "name": "Integer",
+    "domain": "integer.net",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "integer"
+  },
+  {
+    "name": "Integrated Pharma Services",
+    "domain": "integratedpharmaservices.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "integrated-pharma-services"
+  },
+  {
+    "name": "Inteliquet",
+    "domain": "inteliquet.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "inteliquet"
+  },
+  {
+    "name": "Interbiome",
+    "domain": "interbiome.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "interbiome"
+  },
+  {
+    "name": "Irazu Oncology",
+    "domain": "irazuoncology.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "irazu-oncology"
+  },
+  {
+    "name": "IROA Technologies",
+    "domain": "iroatech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "iroa-technologies"
+  },
+  {
+    "name": "ITL Biomedical",
+    "domain": "itlbiomedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "itl-biomedical"
+  },
+  {
+    "name": "IvWatch",
+    "domain": "ivwatch.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ivwatch"
+  },
+  {
+    "name": "IZI Medical",
+    "domain": "izimed.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "izi-medical"
+  },
+  {
+    "name": "J. Craig Venter Institute",
+    "domain": "jcvi.org",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Genomics and bioinformatics research",
+    "tier": "research_institution",
+    "slug": "j-craig-venter-institute"
+  },
+  {
+    "name": "Jeeva Informatics",
+    "domain": "jeevatrials.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "jeeva-informatics"
+  },
+  {
+    "name": "Johns Hopkins Applied Physics Laboratory",
+    "domain": "jhuapl.edu",
+    "city": "Laurel",
+    "state": "MD",
+    "category": "University-affiliated research center; large intern program",
+    "tier": "research_institution",
+    "slug": "johns-hopkins-applied-physics-laboratory"
+  },
+  {
+    "name": "Johns Hopkins Medicine",
+    "domain": "jhu.edu",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Academic medical center; biomedical informatics",
+    "tier": "research_institution",
+    "slug": "johns-hopkins-medicine"
+  },
+  {
+    "name": "Jordan Pharma Compliance",
+    "domain": "jordan-pharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "jordan-pharma-compliance"
+  },
+  {
+    "name": "JuneBrain",
+    "domain": "junebrain.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "junebrain"
+  },
+  {
+    "name": "Kaiser Permanente",
+    "domain": "kaiserpermanente.org",
+    "city": "Rockville",
+    "state": "MD",
+    "category": "Integrated health system; research division",
+    "tier": "major_employer",
+    "slug": "kaiser-permanente"
+  },
+  {
+    "name": "Kallisio",
+    "domain": "kallisio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kallisio"
+  },
+  {
+    "name": "KaloCyte",
+    "domain": "kalocyte.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kalocyte"
+  },
+  {
+    "name": "Kaléo",
+    "domain": "kaleo.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kal-o"
+  },
+  {
+    "name": "KCRN Research",
+    "domain": "kcrnresearch.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kcrn-research"
+  },
+  {
+    "name": "KeifeRx",
+    "domain": "keiferx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "keiferx"
+  },
+  {
+    "name": "Kemp Proteins",
+    "domain": "kempproteins.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kemp-proteins"
+  },
+  {
+    "name": "Kerecis",
+    "domain": "kerecis.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kerecis"
+  },
+  {
+    "name": "KeViRx",
+    "domain": "kevirx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kevirx"
+  },
+  {
+    "name": "Key Tech",
+    "domain": "keytechinc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "key-tech"
+  },
+  {
+    "name": "Kinnakeet Biotechnology",
+    "domain": "kinnakeet.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kinnakeet-biotechnology"
+  },
+  {
+    "name": "Kolon TissueGene",
+    "domain": "tissuegene.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "kolon-tissuegene"
+  },
+  {
+    "name": "Leadiant Biosciences",
+    "domain": "leadiant.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "leadiant-biosciences"
+  },
+  {
+    "name": "Leidos",
+    "domain": "leidos.com",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Defense and health IT; large intern program",
+    "tier": "major_employer",
+    "slug": "leidos"
+  },
+  {
+    "name": "Lifeline Cell Technology",
+    "domain": "lifelinecelltech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "lifeline-cell-technology"
+  },
+  {
+    "name": "Linshom",
+    "domain": "linshommedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "linshom"
+  },
+  {
+    "name": "Liquet Medical",
+    "domain": "liquetmedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "liquet-medical"
+  },
+  {
+    "name": "LKC Technologies",
+    "domain": "lkc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "lkc-technologies"
+  },
+  {
+    "name": "Lockheed Martin",
+    "domain": "lockheedmartin.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "Aerospace and defense; large college program",
+    "tier": "major_employer",
+    "slug": "lockheed-martin"
+  },
+  {
+    "name": "Lomond Therapeutics",
+    "domain": "lomondther.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "lomond-therapeutics"
+  },
+  {
+    "name": "Longeviti Neuro Solutions",
+    "domain": "longeviti.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "longeviti-neuro-solutions"
+  },
+  {
+    "name": "Longhorn Vaccines",
+    "domain": "lhnvd.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "longhorn-vaccines"
+  },
+  {
+    "name": "Lonza",
+    "domain": "lonza.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "lonza"
+  },
+  {
+    "name": "LumaCyte",
+    "domain": "lumacyte.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "lumacyte"
+  },
+  {
+    "name": "Luna Innovations",
+    "domain": "lunainc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "luna-innovations"
+  },
+  {
+    "name": "Lupin",
+    "domain": "lupin.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "lupin"
+  },
+  {
+    "name": "Mabloc",
+    "domain": "mabloc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "mabloc"
+  },
+  {
+    "name": "MacroGenics",
+    "domain": "macrogenics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "macrogenics"
+  },
+  {
+    "name": "MagBio Genomics",
+    "domain": "magbiogenomics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "magbio-genomics"
+  },
+  {
+    "name": "ManTech",
+    "domain": "mantech.com",
+    "city": "Herndon",
+    "state": "VA",
+    "category": "Defense IT and cyber",
+    "tier": "major_employer",
+    "slug": "mantech"
+  },
+  {
+    "name": "Marlex Pharmaceuticals",
+    "domain": "marlexpharm.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "marlex-pharmaceuticals"
+  },
+  {
+    "name": "Marriott International",
+    "domain": "marriott.com",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "Technology and analytics internships",
+    "tier": "major_employer",
+    "slug": "marriott-international"
+  },
+  {
+    "name": "MaxCyte",
+    "domain": "maxcyte.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "maxcyte"
+  },
+  {
+    "name": "Maxim Biomedical",
+    "domain": "maximbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "maxim-biomedical"
+  },
+  {
+    "name": "Medcura",
+    "domain": "medcurainc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "medcura"
+  },
+  {
+    "name": "Medifocus",
+    "domain": "medifocusinc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "medifocus"
+  },
+  {
+    "name": "Medigen",
+    "domain": "medigen-usa.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "medigen"
+  },
+  {
+    "name": "MedRegen",
+    "domain": "medregenco.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "medregen"
+  },
+  {
+    "name": "MedStar Health",
+    "domain": "medstarhealth.org",
+    "city": "Columbia",
+    "state": "MD",
+    "category": "Health system; clinical analytics",
+    "tier": "major_employer",
+    "slug": "medstar-health"
+  },
+  {
+    "name": "Melatech",
+    "domain": "melatech.space",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "melatech"
+  },
+  {
+    "name": "Merck",
+    "domain": "merck.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "merck"
+  },
+  {
+    "name": "Meso Scale Discovery",
+    "domain": "mesoscale.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "meso-scale-discovery"
+  },
+  {
+    "name": "MicroAire Surgical Instruments",
+    "domain": "microaire.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "microaire-surgical-instruments"
+  },
+  {
+    "name": "Microsoft",
+    "domain": "microsoft.com",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Federal and Azure engineering",
+    "tier": "major_employer",
+    "slug": "microsoft"
+  },
+  {
+    "name": "MilliporeSigma",
+    "domain": "sigmaaldrich.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "milliporesigma"
+  },
+  {
+    "name": "miRecule",
+    "domain": "mirecule.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "mirecule"
+  },
+  {
+    "name": "MITRE",
+    "domain": "mitre.org",
+    "city": "McLean",
+    "state": "VA",
+    "category": "FFRDC; health informatics and AI research",
+    "tier": "research_institution",
+    "slug": "mitre"
+  },
+  {
+    "name": "Mobius Scientific",
+    "domain": "mobius-scientific.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "mobius-scientific"
+  },
+  {
+    "name": "Moss Bio",
+    "domain": "mossbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "moss-bio"
+  },
+  {
+    "name": "Musculoskeletal Clinical Regulatory Advisers",
+    "domain": "mcra.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "musculoskeletal-clinical-regulatory-advisers"
+  },
+  {
+    "name": "MygoGenesis",
+    "domain": "mygogenesis.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "mygogenesis"
+  },
+  {
+    "name": "Nanocan Therapeutics",
+    "domain": "nanocan.life",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nanocan-therapeutics"
+  },
+  {
+    "name": "Nanochon",
+    "domain": "nanochon.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nanochon"
+  },
+  {
+    "name": "Nanocrine",
+    "domain": "nanocrine.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nanocrine"
+  },
+  {
+    "name": "NASA Goddard Space Flight Center",
+    "domain": "nasa.gov",
+    "city": "Greenbelt",
+    "state": "MD",
+    "category": "OSTEM internships, data science and modeling",
+    "tier": "research_institution",
+    "slug": "nasa-goddard-space-flight-center"
+  },
+  {
+    "name": "National Institutes of Health",
+    "domain": "nih.gov",
+    "city": "Bethesda",
+    "state": "MD",
+    "category": "Biomedical research; Summer Internship Program",
+    "tier": "research_institution",
+    "slug": "national-institutes-of-health"
+  },
+  {
+    "name": "Navitas Life Sciences",
+    "domain": "navitaslifesciences.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "navitas-life-sciences"
+  },
+  {
+    "name": "NeoImmuneTech",
+    "domain": "neoimmunetech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "neoimmunetech"
+  },
+  {
+    "name": "Nephronomics",
+    "domain": "nephronomics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nephronomics"
+  },
+  {
+    "name": "Neuraly",
+    "domain": "neuralymed.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "neuraly"
+  },
+  {
+    "name": "Neurava",
+    "domain": "neurava.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "neurava"
+  },
+  {
+    "name": "Neuroene Therapeutics",
+    "domain": "neuroenetherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "neuroene-therapeutics"
+  },
+  {
+    "name": "Neuronascent",
+    "domain": "neuronascent.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "neuronascent"
+  },
+  {
+    "name": "New Horizons Diagnostics",
+    "domain": "nhdiag.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "new-horizons-diagnostics"
+  },
+  {
+    "name": "Newzen Pharma",
+    "domain": "newzenpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "newzen-pharma"
+  },
+  {
+    "name": "NexImmune",
+    "domain": "neximmune.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "neximmune"
+  },
+  {
+    "name": "NextStep Robotics",
+    "domain": "nextsteprobo.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nextstep-robotics"
+  },
+  {
+    "name": "NiKang Therapeutics",
+    "domain": "nikangtx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nikang-therapeutics"
+  },
+  {
+    "name": "NImmune Biopharma",
+    "domain": "nimmunebio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nimmune-biopharma"
+  },
+  {
+    "name": "NIST",
+    "domain": "nist.gov",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "category": "National metrology lab; SURF undergraduate research program",
+    "tier": "research_institution",
+    "slug": "nist"
+  },
+  {
+    "name": "NKA Bio",
+    "domain": "nkabio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nka-bio"
+  },
+  {
+    "name": "Noble Life Sciences",
+    "domain": "noblelifesci.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "noble-life-sciences"
+  },
+  {
+    "name": "Noblis",
+    "domain": "noblis.org",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Nonprofit science and technology; bioinformatics",
+    "tier": "research_institution",
+    "slug": "noblis"
+  },
+  {
+    "name": "Northrop Grumman",
+    "domain": "northropgrumman.com",
+    "city": "Falls Church",
+    "state": "VA",
+    "category": "Aerospace and defense; Linthicum MD engineering site",
+    "tier": "major_employer",
+    "slug": "northrop-grumman"
+  },
+  {
+    "name": "Northwest Biotherapeutics",
+    "domain": "nwbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "northwest-biotherapeutics"
+  },
+  {
+    "name": "Nostopharma",
+    "domain": "nostopharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nostopharma"
+  },
+  {
+    "name": "Notal Vision",
+    "domain": "notalvision.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "notal-vision"
+  },
+  {
+    "name": "Novadigm Consulting Group",
+    "domain": "novadigmcg.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "novadigm-consulting-group"
+  },
+  {
+    "name": "Novastep",
+    "domain": "novastep.life",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "novastep"
+  },
+  {
+    "name": "Novavax",
+    "domain": "novavax.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "novavax"
+  },
+  {
+    "name": "Novel Microdevices",
+    "domain": "noveldx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "novel-microdevices"
+  },
+  {
+    "name": "Novilla Pharmaceuticals",
+    "domain": "novilla.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "novilla-pharmaceuticals"
+  },
+  {
+    "name": "Novonesis",
+    "domain": "novonesis.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "novonesis"
+  },
+  {
+    "name": "Noxilizer",
+    "domain": "noxilizer.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "noxilizer"
+  },
+  {
+    "name": "NRx Pharmaceuticals",
+    "domain": "nrxpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nrx-pharmaceuticals"
+  },
+  {
+    "name": "NurrOn Pharmaceuticals",
+    "domain": "nurronpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "nurron-pharmaceuticals"
+  },
+  {
+    "name": "OncoC4",
+    "domain": "oncoc4.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "oncoc4"
+  },
+  {
+    "name": "Oncovir",
+    "domain": "oncovir.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "oncovir"
+  },
+  {
+    "name": "One Codex",
+    "domain": "onecodex.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "one-codex"
+  },
+  {
+    "name": "Optiscan Imaging",
+    "domain": "optiscan.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "optiscan-imaging"
+  },
+  {
+    "name": "Orgenesis",
+    "domain": "orgenesis.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "orgenesis"
+  },
+  {
+    "name": "Origene",
+    "domain": "origene.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "origene"
+  },
+  {
+    "name": "Origent Data Sciences",
+    "domain": "origent.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "origent-data-sciences"
+  },
+  {
+    "name": "OS Therapies",
+    "domain": "ostherapies.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "os-therapies"
+  },
+  {
+    "name": "OspreyBio",
+    "domain": "ospreybio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ospreybio"
+  },
+  {
+    "name": "Otolith Labs",
+    "domain": "otolithlabs.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "otolith-labs"
+  },
+  {
+    "name": "Otomagnetics",
+    "domain": "otomagnetics.net",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "otomagnetics"
+  },
+  {
+    "name": "OTraces",
+    "domain": "otraces.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "otraces"
+  },
+  {
+    "name": "Otsuka",
+    "domain": "otsuka-us.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "otsuka"
+  },
+  {
+    "name": "Owl Peak Technologies",
+    "domain": "owlpeaklabs.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "owl-peak-technologies"
+  },
+  {
+    "name": "Parabon Nanolabs",
+    "domain": "parabon-nanolabs.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "parabon-nanolabs"
+  },
+  {
+    "name": "PARI Respiratory",
+    "domain": "pari.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "pari-respiratory"
+  },
+  {
+    "name": "Parsons",
+    "domain": "parsons.com",
+    "city": "Chantilly",
+    "state": "VA",
+    "category": "Defense and infrastructure technology",
+    "tier": "major_employer",
+    "slug": "parsons"
+  },
+  {
+    "name": "Pataigin",
+    "domain": "pataigin.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "pataigin"
+  },
+  {
+    "name": "Pep2Tango Therapeutics",
+    "domain": "pep2tango.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "pep2tango-therapeutics"
+  },
+  {
+    "name": "Peraton",
+    "domain": "peraton.com",
+    "city": "Herndon",
+    "state": "VA",
+    "category": "National security technology",
+    "tier": "major_employer",
+    "slug": "peraton"
+  },
+  {
+    "name": "PeriCor",
+    "domain": "pericorllc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "pericor"
+  },
+  {
+    "name": "Personal Genome Diagnostics",
+    "domain": "personalgenome.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "personal-genome-diagnostics"
+  },
+  {
+    "name": "Perthera",
+    "domain": "perthera.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "perthera"
+  },
+  {
+    "name": "Pharmaceutics International",
+    "domain": "pharm-int.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "pharmaceutics-international"
+  },
+  {
+    "name": "Pharmaron",
+    "domain": "pharmaron.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "pharmaron"
+  },
+  {
+    "name": "Phlow",
+    "domain": "phlow-usa.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "phlow"
+  },
+  {
+    "name": "Pinion Immunotherapeutics",
+    "domain": "pinionimt.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "pinion-immunotherapeutics"
+  },
+  {
+    "name": "Pinney Associates",
+    "domain": "pinneyassociates.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "pinney-associates"
+  },
+  {
+    "name": "Polaris Genomics",
+    "domain": "polarisgenomics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "polaris-genomics"
+  },
+  {
+    "name": "Poochon Proteomics Solutions",
+    "domain": "poochonscientific.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "poochon-proteomics-solutions"
+  },
+  {
+    "name": "Precigen",
+    "domain": "precigen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "precigen"
+  },
+  {
+    "name": "Precisio Biotix Therapeutics",
+    "domain": "precisiobiotix.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "precisio-biotix-therapeutics"
+  },
+  {
+    "name": "Precision Biologics",
+    "domain": "precision-biologics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "precision-biologics"
+  },
+  {
+    "name": "Precision for Medicine",
+    "domain": "precisionformedicine.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "precision-for-medicine"
+  },
+  {
+    "name": "Prelude Therapeutics",
+    "domain": "preludetx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "prelude-therapeutics"
+  },
+  {
+    "name": "Prompt Diagnostics",
+    "domain": "prompt-dx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "prompt-diagnostics"
+  },
+  {
+    "name": "ProPharma Group",
+    "domain": "propharmagroup.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "propharma-group"
+  },
+  {
+    "name": "Protaryx Medical",
+    "domain": "protaryx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "protaryx-medical"
+  },
+  {
+    "name": "PSNResearch",
+    "domain": "psnresearch.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "psnresearch"
+  },
+  {
+    "name": "Psomagen",
+    "domain": "psomagen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "psomagen"
+  },
+  {
+    "name": "QBench",
+    "domain": "qbench.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "qbench"
+  },
+  {
+    "name": "Qiagen",
+    "domain": "qiagen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "qiagen"
+  },
+  {
+    "name": "Qnova LifeSciences",
+    "domain": "qnovals.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "qnova-lifesciences"
+  },
+  {
+    "name": "Qnovia",
+    "domain": "qnovia.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "qnovia"
+  },
+  {
+    "name": "Quality Agents LLC",
+    "domain": "qagents.org",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "quality-agents-llc"
+  },
+  {
+    "name": "Quality Biological",
+    "domain": "qualitybiological.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "quality-biological"
+  },
+  {
+    "name": "Quoin Pharmaceuticals",
+    "domain": "quoinpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "quoin-pharmaceuticals"
+  },
+  {
+    "name": "RAND Corporation",
+    "domain": "rand.org",
+    "city": "Arlington",
+    "state": "VA",
+    "category": "Policy research; quantitative analysis",
+    "tier": "research_institution",
+    "slug": "rand-corporation"
+  },
+  {
+    "name": "RapaFusyn Pharmaceuticals",
+    "domain": "rapafusyn.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rapafusyn-pharmaceuticals"
+  },
+  {
+    "name": "RareMoon Consulting",
+    "domain": "raremoonconsulting.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "raremoon-consulting"
+  },
+  {
+    "name": "Ravgen",
+    "domain": "ravgen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ravgen"
+  },
+  {
+    "name": "ReAlta Life Sciences",
+    "domain": "realtalifesciences.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "realta-life-sciences"
+  },
+  {
+    "name": "ReGelTec",
+    "domain": "regeltec.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "regeltec"
+  },
+  {
+    "name": "RegeneRx Biopharmaceuticals",
+    "domain": "regenerx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "regenerx-biopharmaceuticals"
+  },
+  {
+    "name": "ReGenX Biosciences",
+    "domain": "regenxbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "regenx-biosciences"
+  },
+  {
+    "name": "Rejuve Therapeutics",
+    "domain": "rejuvetx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rejuve-therapeutics"
+  },
+  {
+    "name": "Remedy Plan Therapeutics",
+    "domain": "remedyplan.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "remedy-plan-therapeutics"
+  },
+  {
+    "name": "Response Pharmaceuticals",
+    "domain": "responsepharmaceuticals.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "response-pharmaceuticals"
+  },
+  {
+    "name": "Restorative Therapies",
+    "domain": "restorative-therapies.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "restorative-therapies"
+  },
+  {
+    "name": "Retension Pharmaceuticals",
+    "domain": "retensionpharmaceuticals.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "retension-pharmaceuticals"
+  },
+  {
+    "name": "RetiVue",
+    "domain": "retivue.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "retivue"
+  },
+  {
+    "name": "ReveraGen BioPharma",
+    "domain": "reveragen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "reveragen-biopharma"
+  },
+  {
+    "name": "Rise Therapeutics",
+    "domain": "risetherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rise-therapeutics"
+  },
+  {
+    "name": "Rithem Life Sciences",
+    "domain": "rithemls.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rithem-life-sciences"
+  },
+  {
+    "name": "Rithim Biologics",
+    "domain": "rithimbiologics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rithim-biologics"
+  },
+  {
+    "name": "Rivanna Medical",
+    "domain": "rivannamedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rivanna-medical"
+  },
+  {
+    "name": "Rivus Pharmaceuticals",
+    "domain": "rivuspharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rivus-pharmaceuticals"
+  },
+  {
+    "name": "RNAimmune",
+    "domain": "rnaimmune.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rnaimmune"
+  },
+  {
+    "name": "RoosterBio",
+    "domain": "roosterbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "roosterbio"
+  },
+  {
+    "name": "Royer Biomedical",
+    "domain": "royerbiomedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "royer-biomedical"
+  },
+  {
+    "name": "RS BioTherapeutics",
+    "domain": "rsbiotherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "rs-biotherapeutics"
+  },
+  {
+    "name": "SAIC",
+    "domain": "saic.com",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Government IT and engineering services",
+    "tier": "major_employer",
+    "slug": "saic"
+  },
+  {
+    "name": "Salubris Biotherapeutics",
+    "domain": "salubrisbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "salubris-biotherapeutics"
+  },
+  {
+    "name": "Sanaria",
+    "domain": "sanaria.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sanaria"
+  },
+  {
+    "name": "Sapio Sciences",
+    "domain": "sapiosciences.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sapio-sciences"
+  },
+  {
+    "name": "Sarfez Pharmaceuticals",
+    "domain": "sarfez.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sarfez-pharmaceuticals"
+  },
+  {
+    "name": "Scanogen",
+    "domain": "scanogen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "scanogen"
+  },
+  {
+    "name": "Scilucent",
+    "domain": "scilucent.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "scilucent"
+  },
+  {
+    "name": "SDIX",
+    "domain": "sdix.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sdix"
+  },
+  {
+    "name": "Senseonics",
+    "domain": "senseonics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "senseonics"
+  },
+  {
+    "name": "Senvok Medical",
+    "domain": "senvok.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "senvok-medical"
+  },
+  {
+    "name": "Seracare Life Sciences",
+    "domain": "seracare.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "seracare-life-sciences"
+  },
+  {
+    "name": "Seraxis",
+    "domain": "seraxis.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "seraxis"
+  },
+  {
+    "name": "Serpin Pharma",
+    "domain": "serpinpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "serpin-pharma"
+  },
+  {
+    "name": "Seven Star Pharmaceutical",
+    "domain": "sevenstarpharm.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "seven-star-pharmaceutical"
+  },
+  {
+    "name": "Sigmovir Biosystems",
+    "domain": "sigmovir.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sigmovir-biosystems"
+  },
+  {
+    "name": "SilcsBio",
+    "domain": "silcsbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "silcsbio"
+  },
+  {
+    "name": "Sirnaomics",
+    "domain": "sirnaomics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sirnaomics"
+  },
+  {
+    "name": "SISCAPA Assay Technologies",
+    "domain": "siscapa.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "siscapa-assay-technologies"
+  },
+  {
+    "name": "Sixty Degrees Pharmaceuticals",
+    "domain": "60degreespharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sixty-degrees-pharmaceuticals"
+  },
+  {
+    "name": "Slate Bio",
+    "domain": "slatebio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "slate-bio"
+  },
+  {
+    "name": "Slope Clinical",
+    "domain": "slopeclinical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "slope-clinical"
+  },
+  {
+    "name": "Smooth Drug Development",
+    "domain": "smoothdd.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "smooth-drug-development"
+  },
+  {
+    "name": "SoBran",
+    "domain": "sobran-inc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sobran"
+  },
+  {
+    "name": "Sofie",
+    "domain": "sofie.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sofie"
+  },
+  {
+    "name": "Sonavex",
+    "domain": "sonavex.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sonavex"
+  },
+  {
+    "name": "Sonavi Labs",
+    "domain": "sonavilabs.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sonavi-labs"
+  },
+  {
+    "name": "Sonogen Medical",
+    "domain": "sonogenmed.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "sonogen-medical"
+  },
+  {
+    "name": "SPEED BioSystems",
+    "domain": "speedbiosystems.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "speed-biosystems"
+  },
+  {
+    "name": "StageBio",
+    "domain": "stagebio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "stagebio"
+  },
+  {
+    "name": "Supernus Pharmaceuticals",
+    "domain": "supernus.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "supernus-pharmaceuticals"
+  },
+  {
+    "name": "SYNAPS Dx",
+    "domain": "synapsdx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "synaps-dx"
+  },
+  {
+    "name": "Synnovation Therapeutics",
+    "domain": "synnovationtx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "synnovation-therapeutics"
+  },
+  {
+    "name": "Synthonics",
+    "domain": "synthonicsinc.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "synthonics"
+  },
+  {
+    "name": "Systaaq Diagnostic Products",
+    "domain": "systaaq.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "systaaq-diagnostic-products"
+  },
+  {
+    "name": "T. Rowe Price",
+    "domain": "troweprice.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Technology and quantitative internships",
+    "tier": "major_employer",
+    "slug": "t-rowe-price"
+  },
+  {
+    "name": "Tachmed",
+    "domain": "tachmed.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "tachmed"
+  },
+  {
+    "name": "Tasly Pharmaceutical",
+    "domain": "taslyus.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "tasly-pharmaceutical"
+  },
+  {
+    "name": "TeamedOn",
+    "domain": "teamedon.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "teamedon"
+  },
+  {
+    "name": "TearSolutions",
+    "domain": "tearsolutions.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "tearsolutions"
+  },
+  {
+    "name": "TechLab",
+    "domain": "techlab.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "techlab"
+  },
+  {
+    "name": "Tern Therapeutics",
+    "domain": "terntx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "tern-therapeutics"
+  },
+  {
+    "name": "Terumo Medical",
+    "domain": "terumomedical.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "terumo-medical"
+  },
+  {
+    "name": "Tetracore",
+    "domain": "tetracore.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "tetracore"
+  },
+  {
+    "name": "Texcell",
+    "domain": "texcell.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "texcell"
+  },
+  {
+    "name": "Theradaptive",
+    "domain": "theradaptive.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "theradaptive"
+  },
+  {
+    "name": "Theriva Biologics",
+    "domain": "therivabio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "theriva-biologics"
+  },
+  {
+    "name": "Thermo Fisher",
+    "domain": "thermofisher.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "thermo-fisher"
+  },
+  {
+    "name": "TNF Pharmaceuticals",
+    "domain": "tnfpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "tnf-pharmaceuticals"
+  },
+  {
+    "name": "Tonix Pharmaceuticals",
+    "domain": "tonixpharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "tonix-pharmaceuticals"
+  },
+  {
+    "name": "TopAlliance Biosciences",
+    "domain": "topalliancebio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "topalliance-biosciences"
+  },
+  {
+    "name": "TrimGen",
+    "domain": "trimgen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "trimgen"
+  },
+  {
+    "name": "Twine Therapeutics",
+    "domain": "twinetx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "twine-therapeutics"
+  },
+  {
+    "name": "Two Six Technologies",
+    "domain": "twosixtech.com",
+    "city": "Arlington",
+    "state": "VA",
+    "category": "National security R&D",
+    "tier": "major_employer",
+    "slug": "two-six-technologies"
+  },
+  {
+    "name": "Tympanogen",
+    "domain": "tympanogen.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "tympanogen"
+  },
+  {
+    "name": "uBriGene",
+    "domain": "ubrigene.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "ubrigene"
+  },
+  {
+    "name": "UMA Instruments",
+    "domain": "umainstruments.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "uma-instruments"
+  },
+  {
+    "name": "UMBC",
+    "domain": "umbc.edu",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Campus research and student positions",
+    "tier": "research_institution",
+    "slug": "umbc"
+  },
+  {
+    "name": "Under Armour",
+    "domain": "underarmour.com",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Consumer tech, data science, sports science",
+    "tier": "major_employer",
+    "slug": "under-armour"
+  },
+  {
+    "name": "United Therapeutics",
+    "domain": "unither.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "united-therapeutics"
+  },
+  {
+    "name": "University of Maryland",
+    "domain": "umd.edu",
+    "city": "College Park",
+    "state": "MD",
+    "category": "Campus research and student positions",
+    "tier": "research_institution",
+    "slug": "university-of-maryland"
+  },
+  {
+    "name": "University of Maryland Baltimore",
+    "domain": "umaryland.edu",
+    "city": "Baltimore",
+    "state": "MD",
+    "category": "Institute for Genome Sciences and medical school labs",
+    "tier": "research_institution",
+    "slug": "university-of-maryland-baltimore"
+  },
+  {
+    "name": "US Biolab",
+    "domain": "usbiolab.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "us-biolab"
+  },
+  {
+    "name": "US Medical Innovations",
+    "domain": "usmedinnovations.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "us-medical-innovations"
+  },
+  {
+    "name": "Uvax Bio",
+    "domain": "uvaxbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "uvax-bio"
+  },
+  {
+    "name": "Validation Associates",
+    "domain": "validationassociates.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "validation-associates"
+  },
+  {
+    "name": "Valneva",
+    "domain": "valneva.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "valneva"
+  },
+  {
+    "name": "Valogic Bio",
+    "domain": "valogicbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "valogic-bio"
+  },
+  {
+    "name": "ValtedSeq",
+    "domain": "valtedseq.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "valtedseq"
+  },
+  {
+    "name": "Vanda Pharmaceuticals",
+    "domain": "vandapharma.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "vanda-pharmaceuticals"
+  },
+  {
+    "name": "Vasoptic Medical",
+    "domain": "vasoptic.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "vasoptic-medical"
+  },
+  {
+    "name": "VB Spine",
+    "domain": "vbspineco.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "vb-spine"
+  },
+  {
+    "name": "Vector BioMed",
+    "domain": "vectorbiomed.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "vector-biomed"
+  },
+  {
+    "name": "Venebio",
+    "domain": "venebio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "venebio"
+  },
+  {
+    "name": "VeraChem",
+    "domain": "verachem.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "verachem"
+  },
+  {
+    "name": "VerImmune",
+    "domain": "verimmune.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "verimmune"
+  },
+  {
+    "name": "Verisign",
+    "domain": "verisign.com",
+    "city": "Reston",
+    "state": "VA",
+    "category": "Internet infrastructure",
+    "tier": "major_employer",
+    "slug": "verisign"
+  },
+  {
+    "name": "Vici Health Sciences",
+    "domain": "vicihealthsciences.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "vici-health-sciences"
+  },
+  {
+    "name": "Virant Diagnostics",
+    "domain": "virantdx.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "virant-diagnostics"
+  },
+  {
+    "name": "Viriom",
+    "domain": "viriom.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "viriom"
+  },
+  {
+    "name": "Virongy",
+    "domain": "virongy.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "virongy"
+  },
+  {
+    "name": "VLP Therapeutics",
+    "domain": "vlptherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "vlp-therapeutics"
+  },
+  {
+    "name": "Vulcan Bioworks",
+    "domain": "vulcanbioworks.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "vulcan-bioworks"
+  },
+  {
+    "name": "Westat",
+    "domain": "westat.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "westat"
+  },
+  {
+    "name": "Wilmington PharmaTech",
+    "domain": "wilmingtonpharmatech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "wilmington-pharmatech"
+  },
+  {
+    "name": "Xcellon Biologics",
+    "domain": "xcellon.bio",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "xcellon-biologics"
+  },
+  {
+    "name": "XpressBio",
+    "domain": "xpressbio.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "xpressbio"
+  },
+  {
+    "name": "Zephyr AI",
+    "domain": "zephyrai.bio",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "zephyr-ai"
+  },
+  {
+    "name": "Zero Point Five Therapeutics",
+    "domain": "zeropointfivetherapeutics.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "zero-point-five-therapeutics"
+  },
+  {
+    "name": "Zeteo Tech",
+    "domain": "zeteotech.com",
+    "city": "",
+    "state": "",
+    "category": "",
+    "tier": "biotech",
+    "slug": "zeteo-tech"
+  }
+]
