@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-06T15:01:24+00:00",
+  "generated_at": "2026-09-06T20:03:36+00:00",
   "stats": {
     "companies_tracked": 501,
     "boards_found": 31,
-    "raw_postings": 1646,
+    "raw_postings": 1648,
     "matched": 19,
     "new": 0,
     "expired": 0
@@ -80,6 +80,15 @@
       "matched": 19,
       "new": 0,
       "expired": 0
+    },
+    {
+      "at": "2026-09-06T20:03:36+00:00",
+      "companies_tracked": 501,
+      "boards_found": 31,
+      "raw_postings": 1648,
+      "matched": 19,
+      "new": 0,
+      "expired": 0
     }
   ],
   "jobs": [
@@ -109,7 +118,7 @@
       "company_tier": "major_employer",
       "id": "ce11f87c21a82872",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "BME/ME Research and Prototyping Engineer (co-op)",
@@ -136,7 +145,7 @@
       "company_tier": "biotech",
       "id": "038ec27a83266449",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "Internships",
@@ -162,7 +171,7 @@
       "company_tier": "research_institution",
       "id": "88f9511f62e2783e",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD",
@@ -185,7 +194,7 @@
       "company_tier": "major_employer",
       "id": "8b8f72257e8430fd",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "University - 2027 Summer Games Data Scientist Intern - McLean, VA",
@@ -208,7 +217,7 @@
       "company_tier": "major_employer",
       "id": "2b83e6c9021ef1d3",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "Campus – Data Science Intern (Analytics & Modeling Program)",
@@ -231,7 +240,7 @@
       "company_tier": "major_employer",
       "id": "e0d797911047e38c",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD",
@@ -254,7 +263,7 @@
       "company_tier": "major_employer",
       "id": "e477e7c289893501",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA",
@@ -277,7 +286,7 @@
       "company_tier": "major_employer",
       "id": "5f35cfffafe7518e",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "University - 2027 Summer Games Systems Engineer Intern - Annapolis Junction, MD",
@@ -300,7 +309,7 @@
       "company_tier": "major_employer",
       "id": "54cbe407633b3e2b",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "University - 2027 Summer Games Systems Engineer Intern - McLean, VA",
@@ -323,7 +332,7 @@
       "company_tier": "major_employer",
       "id": "7034ef47819fe197",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "Campus – Analytics & Modeling Program Associate",
@@ -346,7 +355,7 @@
       "company_tier": "major_employer",
       "id": "e0c3238def94e958",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "Campus – Finance Analytics Intern (Analytics & Modeling Program)",
@@ -369,7 +378,7 @@
       "company_tier": "major_employer",
       "id": "980d7d13844a92e4",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "Campus – Treasury & Capital Markets Program Intern (Quantitative Research Track)",
@@ -392,7 +401,7 @@
       "company_tier": "major_employer",
       "id": "d3a94413a6ba5106",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "International Internships",
@@ -416,7 +425,7 @@
       "company_tier": "research_institution",
       "id": "3dd3a8a9c162fde7",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "Internship Opportunities",
@@ -440,7 +449,7 @@
       "company_tier": "research_institution",
       "id": "0f0558da6fe76a87",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "Internships",
@@ -464,7 +473,7 @@
       "company_tier": "research_institution",
       "id": "f3b8267d0f42e1bd",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "Pathways Internship Program",
@@ -488,7 +497,7 @@
       "company_tier": "research_institution",
       "id": "1e3678d3e6cb1198",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "2027 Digital Assets Strategy Internship Program",
@@ -511,7 +520,7 @@
       "company_tier": "major_employer",
       "id": "96ce011553dd5f99",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     },
     {
       "title": "2027 Quantitative Equity Investing Internship Program",
@@ -534,7 +543,7 @@
       "company_tier": "major_employer",
       "id": "6802ca9cd5bd720d",
       "first_seen": "2026-09-04T23:12:28+00:00",
-      "last_seen": "2026-09-06T15:01:24+00:00"
+      "last_seen": "2026-09-06T20:03:36+00:00"
     }
   ]
 }
